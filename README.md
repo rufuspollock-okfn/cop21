@@ -1,5 +1,5 @@
-Negotiating texts for COP21 the 21st Conference of Parties (COP21) to the UN
-Framework Convention on Climate Change taking place in Paris in December 2015.
+Negotiating texts for COP21, the 21st Conference of Parties to the UN Framework
+Convention on Climate Change, taking place in Paris in December 2015.
 
 Paris is the 21st Conference of the Parties (COP) to the 1992 United Nations
 Framework Convention on Climate Change (UNFCCC) - hence COP21. Delegates from
