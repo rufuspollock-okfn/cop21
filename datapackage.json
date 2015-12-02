@@ -1,0 +1,34 @@
+{
+  "name": "cop21-agreement",
+  "title": "Texts of Climate Agreement Texts for COP21",
+  "resources": [
+    {
+      "title": "23 October 2015 Draft",
+      "path": "archive/11infnot.pdf",
+      "format": "pdf"
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf"
+      }]
+    },
+    {
+      "title": "5 October 2015 Unofficial Non-Paper Draft by Group Chairs",
+      "path": "archive/8infnot.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://unfccc.int/resource/docs/2015/adp2/eng/8infnot.pdf"
+      }]
+    },
+    {
+      "title": "12 February 2015 - Negotiating Text",
+      "path": "archive/negotiating_text_12022015@2200.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "https://unfccc.int/files/bodies/awg/application/pdf/negotiating_text_12022015@2200.pdf"
+      }]
+    }
+  ]
+}
+
