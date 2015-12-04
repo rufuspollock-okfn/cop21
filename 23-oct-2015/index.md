@@ -76,74 +76,58 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 *[Further definitions may be required at a later stage in the negotiating process.]*
 
-**Article 2 *<span style="font-variant:small-caps;">*(purpose)*</span>***
+### Article 2 *(purpose)*
 
 **Option 1:**
 
- 1. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
+1. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
 
-a.  hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
+   a. hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
 
-b.  pursue a transformation towards sustainable development, to foster societies that are resilient to climate change and economies that are low in greenhouse gas emissions and to ensure that food production and distribution are not threatened.
+   b. pursue a transformation towards sustainable development, to foster societies that are resilient to climate change and economies that are low in greenhouse gas emissions and to ensure that food production and distribution are not threatened.
 
-c.  increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
+   c. increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
 
- 2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational
-
- equity].]
+2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational equity].]
 
 **Option 2:**
 
 No text
 
-**Article 2bis *<span style="font-variant:small-caps;">*(general)*</span>***
+### Article 2bis *(general)*
 
 **Option 1:**
 
-1.  All Parties shall regularly prepare, communicate and implement [intended] nationally determined contributions towards achieving the [purposes of this Agreement as set out in Article 2 above] [objective of the Convention as set out in its Article 2], in accordance with Article 4 of the Convention.
+1. All Parties shall regularly prepare, communicate and implement [intended] nationally determined contributions towards achieving the [purposes of this Agreement as set out in Article 2 above] [objective of the Convention as set out in its Article 2], in accordance with Article 4 of the Convention.
 
-2.  Each Party's [intended] nationally determined contribution will represent a progression in light of Parties' differentiated responsibilities and commitments under the Convention.
+2. Each Party's [intended] nationally determined contribution will represent a progression in light of Parties' differentiated responsibilities and commitments under the Convention.
 
-3.  The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on provision of finance, technology development and transfer and capacity-building.
+3. The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on provision of finance, technology development and transfer and capacity-building.
 
-4.  Successive [intended] nationally determined contribution will be communicated before the expiry of the previous [intended] nationally determined contribution by that Party.
+4. Successive [intended] nationally determined contribution will be communicated before the expiry of the previous [intended] nationally determined contribution by that Party.
 
 **Option 2:**
 
 No text
 
-**Article 3 *<span style="font-variant:small-caps;">*(mitigation)*</span>***
+### Article 3 *(mitigation)*
 
-1. *Collective long-term goal*
 
-**Option 1:**
+{Collective long-term goal}
 
- [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by
+1. **Option 1:** [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by 2050][by 2100].[^2]]
 
- 2050][by 2100].[^2]]
+   **Option 2:** [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space *[placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.]*.]
 
-**Option 2:**
+   **Option 3:** [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
 
- [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space
 
- {placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.}.]
+*{Individual efforts}*
 
-**Option 3:**
 
- [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
+2\. **Option 1:** Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil] [implement] [a][successive] nationally determined mitigation [contribution][commitment][component of the contribution referred to in Article 2 bis] (NDMC) which the Party [shall][should][other] implement.
 
-2. *Individual efforts*
-
-**Option 1:**
-
- Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil]\
- [implement] [a][successive] nationally determined mitigation
-
- [contribution][commitment][component of the contribution referred to in Article 2 bis] *{hereafter NDMC},* which the Party [shall][should][other] implement.
-
-**Option 2:**
-
- [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
+   **Option 2:** [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
 
 3. *Differentiated efforts*
 
@@ -177,7 +161,7 @@ No text additional to Article 3.2 **Option 2:**
 
  [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
 
- 3.3bisAlt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]*
+ 3.3bis Alt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]*
 
  [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
 
@@ -641,11 +625,11 @@ In the context of *NDMC/NDMCC,* when recognising and implementing mitigation act
 
 (d) Fully respect mitigation contributions of participating Parties to ensure that the global mitigation effort is not undermined.
 
- The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
+The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
 
 **Option 5:**
 
- No Article 3ter.
+No Article 3ter.
 
 **Article 4 *<span style="font-variant:small-caps;">*(adaptation)*</span>***
 
