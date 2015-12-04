@@ -1,50 +1,51 @@
-###***Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action***
+---
+title: Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
+authors: ["Work of the ADP contact group"]
+---
 
-**Work of the ADP contact group**
+*Version of 23 October 2015@23:30hrs*[^1]
 
- *Version of 23 October 2015@23:30hrs*[^1]
-
- **A. DRAFT AGREEMENT**
+## A. DRAFT AGREEMENT
 
 [The Parties to this Agreement,
 
- *Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
+*Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
 
-*In furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
+*In [furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
 
- *Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
+*Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
 
- *[Taking* account of the [particular vulnerabilities and specific needs of][particularly vulnerable][urgent and immediate needs and special circumstances of] developing country Parties, especially [those that are particularly vulnerable, including] the least developed country (LDC) Parties[ and other Parties identified in Article 4.8 of the Convention], small island developing states (SIDS) [, small mountainous developing states] and Africa, [and the central American isthmus]][*Taking full account* of the specific needs and special situations of the least developed countries and small island developing states arising from the adverse impacts of climate change],
+*[Taking* account of the [particular vulnerabilities and specific needs of][particularly vulnerable][urgent and immediate needs and special circumstances of] developing country Parties, especially [those that are particularly vulnerable, including] the least developed country (LDC) Parties[ and other Parties identified in Article 4.8 of the Convention], small island developing states (SIDS) [, small mountainous developing states] and Africa, [and the central American isthmus]][*Taking full account* of the specific needs and special situations of the least developed countries and small island developing states arising from the adverse impacts of climate change],
 
- *[Recognizing* the intrinsic relationship between climate change, poverty eradication and sustainable development and r*eaffirming* that the response to climate change should be coordinated with social and economic development [in an integrated manner ]with a view to avoiding adverse impacts [of response measures on the latter], taking into full account the legitimate priority [needs] of developing countries and their rights to equitable access to sustainable development for the achievement of sustained economic growth and the eradication of poverty,] [r*ecognizing* the importance of promoting social and economic development in harmony with nature as the fundamental requirement to address climate change,]],
+*[Recognizing* the intrinsic relationship between climate change, poverty eradication and sustainable development and r*eaffirming* that the response to climate change should be coordinated with social and economic development [in an integrated manner ]with a view to avoiding adverse impacts [of response measures on the latter], taking into full account the legitimate priority [needs] of developing countries and their rights to equitable access to sustainable development for the achievement of sustained economic growth and the eradication of poverty,] [r*ecognizing* the importance of promoting social and economic development in harmony with nature as the fundamental requirement to address climate change,]],
 
- *Emphasizing* the need for [universal and ]sustained action by all to respond to the urgent threat of climate change based on the best available [and universally recognized] scientific knowledge including, inter alia, the assessment reports of the Intergovernmental Panel on Climate Change[, and inputs and resources from Parties],
+*Emphasizing* the need for [universal and ]sustained action by all to respond to the urgent threat of climate change based on the best available [and universally recognized] scientific knowledge including, inter alia, the assessment reports of the Intergovernmental Panel on Climate Change[, and inputs and resources from Parties],
 
- *Recognizing* the outcomes of the 2013-2015 Review[, including the Report of the SED, which recognizes that "significant climate impacts are already occurring at the current level of global warming and additional magnitudes of warming will only increase the risk of severe, pervasive and irreversible impacts" ],
+*Recognizing* the outcomes of the 2013-2015 Review[, including the Report of the SED, which recognizes that "significant climate impacts are already occurring at the current level of global warming and additional magnitudes of warming will only increase the risk of severe, pervasive and irreversible impacts" ],
 
- *[Noting* that the largest share of historical global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,]
+*[Noting* that the largest share of historical global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,]
 
- *[Recognizing* that Parties should take action to address climate change in accordance with evolving economic and emissions trends, which will continue to evolve post-2020,]
+*[Recognizing* that Parties should take action to address climate change in accordance with evolving economic and emissions trends, which will continue to evolve post-2020,]
 
- *Emphasizing* the importance of respecting and taking into account [, subject to jurisdiction] [right to development,] human rights [including people under occupation], gender equality [and women's empowerment], [the rights of indigenous peoples,][local communities,] intergenerational equity concerns, and the needs of [migrants] [particularly vulnerable groups] [people in vulnerable situations], [including people under [foreign] occupation,] women, children and persons with disabilities, when taking action to address climate change,
+*Emphasizing* the importance of respecting and taking into account [, subject to jurisdiction] [right to development,] human rights [including people under occupation], gender equality [and women's empowerment], [the rights of indigenous peoples,][local communities,] intergenerational equity concerns, and the needs of [migrants] [particularly vulnerable groups] [people in vulnerable situations], [including people under [foreign] occupation,] women, children and persons with disabilities, when taking action to address climate change,
 
- *Also emphasizing* of the importance of aligning actions with the goal of promoting food security and livelihood security, restoration of degraded lands, health, and ecosystem integrity, participation in environmental decision-making by civil society and individuals, and a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities and strategies [towards environmentally sustainable economies for all],
+*Also emphasizing* of the importance of aligning actions with the goal of promoting food security and livelihood security, restoration of degraded lands, health, and ecosystem integrity, participation in environmental decision-making by civil society and individuals, and a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities and strategies [towards environmentally sustainable economies for all],
 
- **Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
+**Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
 
- **Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
+**Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
 
- *Recognizing* the critical role played by sinks and reservoirs of greenhouse gases, [such as forests,] through mitigation and adaptation actions, [including REDD-plus,] [and the Joint Mitigation and Adaptation Mechanism] to attain the stabilization of greenhouse gas concentrations in the atmosphere, conserve biological diversity, restore ecosystems and enhance ecosystem services, including food security, while acknowledging their vulnerability to climate change and associated natural disturbances;
+*Recognizing* the critical role played by sinks and reservoirs of greenhouse gases, [such as forests,] through mitigation and adaptation actions, [including REDD-plus,] [and the Joint Mitigation and Adaptation Mechanism] to attain the stabilization of greenhouse gas concentrations in the atmosphere, conserve biological diversity, restore ecosystems and enhance ecosystem services, including food security, while acknowledging their vulnerability to climate change and associated natural disturbances;
 
- *Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
+*Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
 
 *5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
 
- Have agreed as follows:
+Have agreed as follows:
 
-**Article 1 *<span style="font-variant:small-caps;">*(definitions)*</span>***
+### Article 1 *(definitions)*
 
- For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
+For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
 1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
 
