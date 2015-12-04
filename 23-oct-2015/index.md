@@ -42,7 +42,7 @@
 
  Have agreed as follows:
 
-**Article 1 *<span style="font-variant:small-caps;">*(definitions)*</span>***
+      **Article 1 *<span style="font-variant:small-caps;">*(definitions)*</span>***
 
  For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
