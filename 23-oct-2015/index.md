@@ -383,7 +383,7 @@ No text additional to Article 3.2 **Option 2:**
 
 *Additional notes on related provisions:*
 
-*\* 3.4: This restructuring does not deal with the accompanying information requirements, as currently outlined in 3.4. After stripping out the timings elements, the paragraph would read: There shall be a high-level session on mitigation, as part of the process outlined in Article 10 every 5 years, the modalities of which are to be in accordance with decision 1/CP.21 and any subsequent decisions by the*
+** 3.4: This restructuring does not deal with the accompanying information requirements, as currently outlined in 3.4. After stripping out the timings elements, the paragraph would read: There shall be a high-level session on mitigation, as part of the process outlined in Article 10 every 5 years, the modalities of which are to be in accordance with decision 1/CP.21 and any subsequent decisions by the*
 
 *CMA]*
 
@@ -460,7 +460,7 @@ Deal with accounting in Transparency of Action and Support
 
 -   *Inclusion of/ exclusion of:*
 
- *o Land Use, Land-Use Change, Forests, REDD+ *
+ *o Land Use, Land-Use Change, Forests, REDD+*
 
  *o Internationally transferred mitigation outcomes*
 
