@@ -1,65 +1,76 @@
----
-title: Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
-author: Work of the ADP contact group
----
+***Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action***
 
-> *Version of 23 October 2015@23:30hrs*[^1]
+**Work of the ADP contact group**
 
-# A. DRAFT AGREEMENT
+ *Version of 23 October 2015@23:30hrs*[^1]
+
+ **A. DRAFT AGREEMENT**
 
 [The Parties to this Agreement,
 
-*Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
+ *Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
 
 *In furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
 
-^Pp3^ *Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
+ *Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
 
-^Pp4^ *[Taking* account of the [particular vulnerabilities and specific needs of][particularly vulnerable][urgent and immediate needs and special circumstances of] developing country Parties, especially [those that are particularly vulnerable, including] the least developed country (LDC) Parties[ and other Parties identified in Article 4.8 of the Convention], small island developing states (SIDS) [, small mountainous developing states] and Africa, [and the central American isthmus]][*Taking full account* of the specific needs and special situations of the least developed countries and small island developing states arising from the adverse impacts of climate change],
+ *[Taking* account of the [particular vulnerabilities and specific needs of][particularly vulnerable][urgent and immediate needs and special circumstances of] developing country Parties, especially [those that are particularly vulnerable, including] the least developed country (LDC) Parties[ and other Parties identified in Article 4.8 of the Convention], small island developing states (SIDS) [, small mountainous developing states] and Africa, [and the central American isthmus]][*Taking full account* of the specific needs and special situations of the least developed countries and small island developing states arising from the adverse impacts of climate change],
 
-^Pp5^ *[Recognizing* the intrinsic relationship between climate change, poverty eradication and sustainable development and r*eaffirming* that the response to climate change should be coordinated with social and economic development [in an integrated manner ]with a view to avoiding adverse impacts [of response measures on the latter], taking into full account the legitimate priority [needs] of developing countries and their rights to equitable access to sustainable development for the achievement of sustained economic growth and the eradication of poverty,] [r*ecognizing* the importance of promoting social and economic development in harmony with nature as the fundamental requirement to address climate change,]],
+ *[Recognizing* the intrinsic relationship between climate change, poverty eradication and sustainable development and r*eaffirming* that the response to climate change should be coordinated with social and economic development [in an integrated manner ]with a view to avoiding adverse impacts [of response measures on the latter], taking into full account the legitimate priority [needs] of developing countries and their rights to equitable access to sustainable development for the achievement of sustained economic growth and the eradication of poverty,] [r*ecognizing* the importance of promoting social and economic development in harmony with nature as the fundamental requirement to address climate change,]],
 
-^Pp6^ *Emphasizing* the need for [universal and ]sustained action by all to respond to the urgent threat of climate change based on the best available [and universally recognized] scientific knowledge including, inter alia, the assessment reports of the Intergovernmental Panel on Climate Change[, and inputs and resources from Parties],
+ *Emphasizing* the need for [universal and ]sustained action by all to respond to the urgent threat of climate change based on the best available [and universally recognized] scientific knowledge including, inter alia, the assessment reports of the Intergovernmental Panel on Climate Change[, and inputs and resources from Parties],
 
-^Pp7^ *Recognizing* the outcomes of the 2013-2015 Review[, including the Report of the SED, which recognizes that "significant climate impacts are already occurring at the current level of global warming and additional magnitudes of warming will only increase the risk of severe, pervasive and irreversible impacts" ],
+ *Recognizing* the outcomes of the 2013-2015 Review[, including the Report of the SED, which recognizes that "significant climate impacts are already occurring at the current level of global warming and additional magnitudes of warming will only increase the risk of severe, pervasive and irreversible impacts" ],
 
-^Pp8^ *[Noting* that the largest share of historical global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,]
+ *[Noting* that the largest share of historical global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,]
 
-^Pp9^ *[Recognizing* that Parties should take action to address climate change in accordance with evolving economic and emissions trends, which will continue to evolve post-2020,]
+ *[Recognizing* that Parties should take action to address climate change in accordance with evolving economic and emissions trends, which will continue to evolve post-2020,]
 
-^Pp10^ *Emphasizing* the importance of respecting and taking into account [, subject to jurisdiction] [right to development,] human rights [including people under occupation], gender equality [and women's empowerment], [the rights of indigenous peoples,][local communities,] intergenerational equity concerns, and the needs of [migrants] [particularly vulnerable groups] [people in vulnerable situations], [including people under [foreign] occupation,] women, children and persons with disabilities, when taking action to address climate change,
+ *Emphasizing* the importance of respecting and taking into account [, subject to jurisdiction] [right to development,] human rights [including people under occupation], gender equality [and women's empowerment], [the rights of indigenous peoples,][local communities,] intergenerational equity concerns, and the needs of [migrants] [particularly vulnerable groups] [people in vulnerable situations], [including people under [foreign] occupation,] women, children and persons with disabilities, when taking action to address climate change,
 
-^Pp11^ *Also emphasizing* of the importance of aligning actions with the goal of promoting food security and livelihood security, restoration of degraded lands, health, and ecosystem integrity, participation in environmental decision-making by civil society and individuals, and a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities and strategies [towards environmentally sustainable economies for all],
+ *Also emphasizing* of the importance of aligning actions with the goal of promoting food security and livelihood security, restoration of degraded lands, health, and ecosystem integrity, participation in environmental decision-making by civil society and individuals, and a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities and strategies [towards environmentally sustainable economies for all],
 
-**Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
+ **Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
 
-**Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
+ **Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
 
-^Pp13^ *Recognizing* the critical role played by sinks and reservoirs of greenhouse gases, [such as forests,] through mitigation and adaptation actions, [including REDD-plus,] [and the Joint Mitigation and Adaptation Mechanism] to attain the stabilization of greenhouse gas concentrations in the atmosphere, conserve biological diversity, restore ecosystems and enhance ecosystem services, including food security, while acknowledging their vulnerability to climate change and associated natural disturbances;
+ *Recognizing* the critical role played by sinks and reservoirs of greenhouse gases, [such as forests,] through mitigation and adaptation actions, [including REDD-plus,] [and the Joint Mitigation and Adaptation Mechanism] to attain the stabilization of greenhouse gas concentrations in the atmosphere, conserve biological diversity, restore ecosystems and enhance ecosystem services, including food security, while acknowledging their vulnerability to climate change and associated natural disturbances;
 
-^Pp14^ *Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
+ *Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
 
-^Pp1*5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
+*5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
 
-Have agreed as follows:
+ Have agreed as follows:
 
-### Article 1 *(definitions)*
+**Article 1 *<span style="font-variant:small-caps;">*(definitions)*</span>***
 
-For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
+ For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
 1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
+
 2. “Party” means a Party to this Agreement;
+
 3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
+
 4. [*Placeholder* for “countries in need of support”;]
+
 5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
+
 6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
+
 7. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
+
 8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
+
 9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
 10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+
 11. [*Placeholder* for “climate finance”];
+
 12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
+
 13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
+
 14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
 
 *[Further definitions may be required at a later stage in the negotiating process.]*
@@ -68,7 +79,7 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 **Option 1:**
 
-> 1\. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
+ 1. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
 
 a.  hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
 
@@ -76,7 +87,7 @@ b.  pursue a transformation towards sustainable development, to foster societies
 
 c.  increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
 
-> 2\. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational
+ 2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational
 >
 > equity].]
 
@@ -102,92 +113,92 @@ No text
 
 **Article 3 *<span style="font-variant:small-caps;">*(mitigation)*</span>***
 
-1\. *Collective long-term goal*
+1. *Collective long-term goal*
 
 **Option 1:**
 
-> [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by
->
-> 2050][by 2100].[^2]]
+ [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by
+
+ 2050][by 2100].[^2]]
 
 **Option 2:**
 
-> [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space
->
-> {placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.}.]
+ [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space
+
+ {placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.}.]
 
 **Option 3:**
 
-> [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
+ [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
 
-2\. *Individual efforts*
+2. *Individual efforts*
 
 **Option 1:**
 
-> Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil]\
-> [implement] [a][successive] nationally determined mitigation
->
-> [contribution][commitment][component of the contribution referred to in Article 2 bis] *{hereafter NDMC},* which the Party [shall][should][other] implement.
+ Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil]\
+ [implement] [a][successive] nationally determined mitigation
+
+ [contribution][commitment][component of the contribution referred to in Article 2 bis] *{hereafter NDMC},* which the Party [shall][should][other] implement.
 
 **Option 2:**
 
-> [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
+ [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
 
-3\. *Differentiated efforts*
+3. *Differentiated efforts*
 
 **Option 1:**
 
 No text additional to Article 3.2 **Option 2:**
 
-> 3.3 In accordance with Article 4, paragraph 2, of the Convention, developed country Parties and other Parties included in Annex I of the Convention shall undertake quantified economy-wide absolute emission reduction commitments/targets, which are comparable, measurable, reportable and verifiable, covering all GHGs and implemented domestically without any conditions;
->
-> 3.3bis In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner, in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
->
-> 3.3ter Developed country Parties' post-2020 economy-wide absolute emission reduction commitments/targets shall be progressively more ambitious over time.
->
-> 3.3quat Developing country Parties' post-2020 diversified enhanced mitigation actions/efforts will be more ambitious than compared to their pre-2020 actions under the Bali Action Plan, supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.
+ 3.3 In accordance with Article 4, paragraph 2, of the Convention, developed country Parties and other Parties included in Annex I of the Convention shall undertake quantified economy-wide absolute emission reduction commitments/targets, which are comparable, measurable, reportable and verifiable, covering all GHGs and implemented domestically without any conditions;
+
+ 3.3bis In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner, in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
+
+ 3.3ter Developed country Parties' post-2020 economy-wide absolute emission reduction commitments/targets shall be progressively more ambitious over time.
+
+ 3.3quat Developing country Parties' post-2020 diversified enhanced mitigation actions/efforts will be more ambitious than compared to their pre-2020 actions under the Bali Action Plan, supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.
 
 **Option 3:**
 
-> {add *following to 3.2 option* 1}: [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national
->
-> *circumstances* { *principle based differentiation}*
+ {add *following to 3.2 option* 1}: [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national
+
+ *circumstances* { *principle based differentiation}*
 
 **Option 4:** *{modulators to 3.2}*
 
-> 3.3: Each Party that has previously [communicated] [implemented] absolute economy-wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time. *{modality based differentiation option 1 + progression of modalities}*
->
-> 3.3alt: Developed countries [and other Parties [in a position][who determine] to do so] should take the lead in mitigation efforts, including by [communicating] [and implementing] absolute economy-wide emissions reduction [or limitation] targets and all other Parties should aim to do so over time. *[developed countries taking the lead + modality based differentiation option 2]*
->
-> [Parties may otherwise communicate quantified targets relative to business as usual, carbon intensity of GDP, or other reference point, or non-economy-wide actions.]
->
-> 3.3bis Each Party's *NDMC/NDMCC* [shall][should][other] reflect a progression beyond the Party's previous efforts and highest possible ambition *[level of ambition + progression]*
->
-> [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
->
-> 3.3bisAlt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]*
->
-> [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
->
-> 3.x[^4] Notwithstanding Articles 3.2 and 3.3 above, Parties that are LDCs, SIDs may communicate their NDMC/NDMCC at their discretion, including information on strategies, plans and actions for low GHG emission development, reflecting their special circumstances. *{applies to all options for 3.3}*
+ 3.3: Each Party that has previously [communicated] [implemented] absolute economy-wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time. *{modality based differentiation option 1 + progression of modalities}*
+
+ 3.3alt: Developed countries [and other Parties [in a position][who determine] to do so] should take the lead in mitigation efforts, including by [communicating] [and implementing] absolute economy-wide emissions reduction [or limitation] targets and all other Parties should aim to do so over time. *[developed countries taking the lead + modality based differentiation option 2]*
+
+ [Parties may otherwise communicate quantified targets relative to business as usual, carbon intensity of GDP, or other reference point, or non-economy-wide actions.]
+
+ 3.3bis Each Party's *NDMC/NDMCC* [shall][should][other] reflect a progression beyond the Party's previous efforts and highest possible ambition *[level of ambition + progression]*
+
+ [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
+
+ 3.3bisAlt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]*
+
+ [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
+
+ 3.x[^4] Notwithstanding Articles 3.2 and 3.3 above, Parties that are LDCs, SIDs may communicate their NDMC/NDMCC at their discretion, including information on strategies, plans and actions for low GHG emission development, reflecting their special circumstances. *{applies to all options for 3.3}*
 
 4.  *Progression*
 
-> Each Party's *NDMC/NDMCC* [shall][should][other] be progressively more ambitious over time. [The progression of ambition of developing country Parties' *NDMC/NDMCC* will be supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.]
+ Each Party's *NDMC/NDMCC* [shall][should][other] be progressively more ambitious over time. [The progression of ambition of developing country Parties' *NDMC/NDMCC* will be supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.]
 
 5.  *Ambition*
 
-> Each Party should ensure that its *NDMC/NDMCC* reflects the Party's highest possible ambition, in light of its national circumstances and of recommendations by science.
+ Each Party should ensure that its *NDMC/NDMCC* reflects the Party's highest possible ambition, in light of its national circumstances and of recommendations by science.
 
 6.  *Information*
 
-> In communicating their [proposed] [intended] *NDMC/NDMCC,* Parties shall provide the information necessary for clarity, transparency and understanding, in accordance with [decision 1/CP.21 ][1/CP.20 ] [and any subsequent decisions by the CMA.] [Article 12 of the Convention and the relevant arrangement for reporting information adopted by the CoP including those resulting from the Bali Action Plan and the information listed in decision 1/CP.20.]
+ In communicating their [proposed] [intended] *NDMC/NDMCC,* Parties shall provide the information necessary for clarity, transparency and understanding, in accordance with [decision 1/CP.21 ][1/CP.20 ] [and any subsequent decisions by the CMA.] [Article 12 of the Convention and the relevant arrangement for reporting information adopted by the CoP including those resulting from the Bali Action Plan and the information listed in decision 1/CP.20.]
 
 7.  *Features*[^5]
 
 **Option 1:**
 
-> [Each Party' s *NDMC/NDMCC* [shall] [should] [other]: (a) [Be quantified or quantifiable;]
+ [Each Party' s *NDMC/NDMCC* [shall] [should] [other]: (a) [Be quantified or quantifiable;]
 
 (b) [Be unconditional, at least in part;][^6][ with developing countries able to specify additional levels of mitigation to be implemented with support;]
 
@@ -203,27 +214,27 @@ No text additional to Article 3.2 **Option 2:**
 
 (h) [Be based on reference values that are defined transparently and are consistent with environmental integrity;]
 
-> \(i) [Use common Intergovernmental Panel on Climate Change (IPCC) metrics, guidance and\
-> guidelines for the estimation of greenhouse gas emissions and removals as agreed by the CMA;]
->
-> \(j) [To the extent that it uses baselines, base these on real and verifiable data;]
->
-> \(k) [Be implemented in accordance with the provisions of the Convention;]
->
-> \(l) [Take into account the outcomes of the global stock-take and the process to facilitate
->
-> implementation set out in Articles 10 and 11 respectively;]
->
-> \(m) [Parties should use joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments;]
->
-> \(n) [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans ]
->
-> \(o) [Ensure environmental integrity;]
+(i) [Use common Intergovernmental Panel on Climate Change (IPCC) metrics, guidance and\
+ guidelines for the estimation of greenhouse gas emissions and removals as agreed by the CMA;]
 
-\(p) [Other.]]\
+(j) [To the extent that it uses baselines, base these on real and verifiable data;]
+
+(k) [Be implemented in accordance with the provisions of the Convention;]
+
+(l) [Take into account the outcomes of the global stock-take and the process to facilitate
+
+ implementation set out in Articles 10 and 11 respectively;]
+
+(m) [Parties should use joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments;]
+
+(n) [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans ]
+
+(o) [Ensure environmental integrity;]
+
+(p) [Other.]]\
 **Option 2:**
 
-> [Each developed country Party's *NDMC/NDMCC* [and of those Parties in a position to do so][shall][should][other]:
+ [Each developed country Party's *NDMC/NDMCC* [and of those Parties in a position to do so][shall][should][other]:
 
 (a) [Be quantified or quantifiable;]
 
@@ -241,18 +252,18 @@ No text additional to Article 3.2 **Option 2:**
 
 (h) [Be based on reference values that are defined transparently and are consistent with environmental integrity;]
 
-> \(i) [Use common Intergovernmental Panel on Climate Change (IPCC) metrics, guidance and\
-> guidelines for the estimation of greenhouse gas emissions and removals as agreed by the CMA;]
->
-> \(j) [To the extent that it uses baselines, base these on real and verifiable data;]
->
-> \(k) [Be implemented in accordance with the provisions of the Convention;]
->
-> \(l) [Take into account the outcomes of the global stock-take and the process to facilitate implementation set out in Articles 10 and 11 respectively;]
->
-> \(m) [Parties should use joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments;]
->
-> \(n) [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans ]
+(i) [Use common Intergovernmental Panel on Climate Change (IPCC) metrics, guidance and\
+ guidelines for the estimation of greenhouse gas emissions and removals as agreed by the CMA;]
+
+(j) [To the extent that it uses baselines, base these on real and verifiable data;]
+
+(k) [Be implemented in accordance with the provisions of the Convention;]
+
+(l) [Take into account the outcomes of the global stock-take and the process to facilitate implementation set out in Articles 10 and 11 respectively;]
+
+(m) [Parties should use joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments;]
+
+(n) [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans ]
 >
 > \(o) [Ensure environmental integrity;]
 >
