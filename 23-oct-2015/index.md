@@ -88,8 +88,8 @@ b.  pursue a transformation towards sustainable development, to foster societies
 c.  increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
 
  2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational
->
-> equity].]
+
+ equity].]
 
 **Option 2:**
 
@@ -451,7 +451,7 @@ Deal with accounting in Transparency of Action and Support
 
 -   *Legal/ technical:*
 
- *o CMA *
+ *o CMA*
 
  *o COP*
 
@@ -733,11 +733,11 @@ In the context of *NDMC/NDMCC,* when recognising and implementing mitigation act
 
 (b) Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
 
-> Option 2: no text
+ Option 2: no text
 
 9.  **Option 1:** The [[an] adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above shall be [recorded in [a registry][[another][other] modalit[y][ies]]] made publicly available by the secretariat [on the UNFCCC website][in accordance with modalities to be decided by the [CMA][CMP] at its first session].
 
-> **Option 2:** no text
+ **Option 2:** no text
 
 10. **Option 1:** [There shall be a [high-level session][global stocktake] on adaptation every [X] years, with the purpose of [raising the profile of adaptation efforts undertaken and considering experiences, challenges, and future priorities, with a view to increasing the effectiveness of adaptation actions][enhancing implementation of adaptation action based on the [an adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, assessing the adequacy of support, and recognizing adaptation efforts of developing countries], and guided by modalities to be adopted by the [CMA][CMP] at its first session.]
 
@@ -1151,7 +1151,7 @@ mechanism of the Convention.
 
 (c) Information derived from Annex [X] with regard to a situation where a Party fails to communicate and inscribe its NDMC[; and
 
-(d) Requests from the CMA].\
+(d) Requests from the CMA].
  **Option 2:**
 
  No text on triggers
@@ -1373,7 +1373,7 @@ Article 25 *<span style="font-variant:small-caps;">*(withdrawal)*</span>***
 
 9.  *Requests* the ADP to report regularly to the COP on the progress of its work;
 
-> 9bis. *Decides* that the ADP shall hold its first session of 2016 in conjunction with the first session of the SBSTA and SBI in 2016 to organize its work on the implementation of the work programme referred to in paragraph 7-9 above and to prepare draft decisions to be recommended by the COP to the CMA for consideration and adoption at its first session;
+ 9bis. *Decides* that the ADP shall hold its first session of 2016 in conjunction with the first session of the SBSTA and SBI in 2016 to organize its work on the implementation of the work programme referred to in paragraph 7-9 above and to prepare draft decisions to be recommended by the COP to the CMA for consideration and adoption at its first session;
 
 **Option 3** (paras 6-9bis):
 
