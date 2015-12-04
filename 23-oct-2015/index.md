@@ -1549,7 +1549,7 @@ iii. [Facilitate the coordination of measures adopted by them to address climate
 
  (d bis) [Each Party shall account for both anthropogenic emissions and removals, and may exclude non anthropogenic and legacy effects]. [move a)-d) to agreement]
 
-(e) [Internationally transferred mitigation outcomes used by any Party to meet its nationally determined mitigation [contribution][commitment][other] [will avoid double counting and]are supplemental to domestic action;](AILAC propose to delete para here, insert at Article 3.5 of agreement)]
+(e) Internationally transferred mitigation outcomes used by any Party to meet its nationally determined mitigation [contribution][commitment][other] [will avoid double counting and]are supplemental to domestic action;](AILAC propose to delete para here, insert at Article 3.5 of agreement)]
 
 (f) [The use of internationally transferred mitigation outcomes is on the basis of an equivalent adjustment by both the transferring Party and the acquiring Party].
 
