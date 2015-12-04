@@ -1241,8 +1241,7 @@ iii. [Facilitate the coordination of measures adopted by them to address climate
 
 2.  The CMA may provide further guidance to those subsidiary bodies and institutional arrangements [including the functions to be exercised by such bodies and institutional arrangements] [including for members of such bodies and institutional arrangements nominated by Parties to the Convention that are not Parties to this Agreement] [to the extent that these bodies and institutional arrangements serve this Agreement].
 
-**\
-Article 16 *<span style="font-variant:small-caps;">*(signature and instruments of ratification, acceptance, approval or accesssion)*</span>***
+**Article 16 *<span style="font-variant:small-caps;">*(signature and instruments of ratification, acceptance, approval or accesssion)*</span>***
 
 1.  This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the Convention. It shall be open for signature at the United Nations Headquarters in New York, the United States of America, from 22 April 2016 to 21 April 2017. Thereafter, the Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary;
 
@@ -1310,8 +1309,7 @@ Article 16 *<span style="font-variant:small-caps;">*(signature and instruments o
 
  No reservations may be made to this Agreement. *[Placeholder for further text on reservation]*
 
-**\
-Article 25 *<span style="font-variant:small-caps;">*(withdrawal)*</span>***
+**Article 25 *<span style="font-variant:small-caps;">*(withdrawal)*</span>***
 
 1.  At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
 
@@ -1325,8 +1323,7 @@ Article 25 *<span style="font-variant:small-caps;">*(withdrawal)*</span>***
 
 [Placeholder for annexes] ]
 
- **\
- B. DRAFT DECISION**[^13]
+ **B. DRAFT DECISION**[^13]
 
  *[ The Conference of the Parties,*
 
@@ -1836,7 +1833,7 @@ e)  Information on investment plans to implement nationally determined contribut
 
 60. [Ensure that the provision of financial resources, development and transfer of technology and capacity-building for enhanced climate actions, including for loss and damage, shall be measured, reported and verified through modalities established under the Convention by the relevant subsidiary bodies of the Convention. Such modalities shall ensure that there shall be no double counting of financial resources provided and ensuring the environmental integrity of this agreement.] *{Note: substantive discussions with regard to transparency are taking place with regard to Article 9 of the Agreement}*
 
-61\. [Measurement, reporting and verification of financial resources, including for meeting costs of\
+61. [Measurement, reporting and verification of financial resources, including for meeting costs of\
 adaptation, transfer of technology and capacity-building shall be provided in accordance with Articles\
 4.3, 4.4 and 4.5, 4.8, and 4.9, in implementation of Article 4.7 of the Convention, as well as financing\
 provided through the Warsaw Mechanism for Loss and Damage.] *{Note: substantive discussions with\
