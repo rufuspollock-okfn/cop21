@@ -1,14 +1,14 @@
 # Site settings
-title: Site Long Title
-short_title: Site Title
+title: Paris 2015 COP21 Treaty Texts
+short_title: COP21 Treaty Text
 description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend metus eget justo tincidunt, nec consequat turpis pretium. Etiam varius tellus tortor, in mattis ex convallis vel.
+    Making the key negotiating texts for the international climate change conference accessible and usable
 baseurl: ""
-url: "http://opendatahandbook.org" # the base hostname & protocol for your site
+url: "http://cop21.okfnlabs.org" # the base hostname & protocol for your site
 github_username:  okfn
-github_repo:  opendatahandbook
+github_repo:  cop21
 paypal: admin@okfn.org
-contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
+contact: https://discuss.okfn.org/t/cop21-negotiating-texts-project/1647
 
 devs:
   -
@@ -21,17 +21,6 @@ contributors:
       link: http://rufuspollock.org/
 
 supporters:
-  -
-    name: Shuttleworth Foundation
-    logo: shuttleworth.png
-    footer_logo: shuttleworth-footer.png
-    url: https://www.shuttleworthfoundation.org/
-  -
-    name: The World Bank
-    logo: worldbank.png
-    footer_logo: worldbank-footer.png
-    url: http://www.worldbank.org/
-
 
 #googleanalytics: UA-XXXXX-X
 
@@ -42,16 +31,10 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "pages"
+      path: ""
     values:
       layout: page
-      section: pages
-  -
-    scope:
-      path: "posts"
-    values:
-      layout: post
-      section: posts
+      section: texts
 
 
 related_projects:
