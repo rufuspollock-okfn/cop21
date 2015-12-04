@@ -13,6 +13,14 @@ binding agreement to succeed the 1992 Kyoto. In particular, in Durban in 2011,
 all countries agreed that an “outcome with legal force ... and applicable to
 all parties, would be adopted at the conference in December 2015.”
 
+## Data
+
+See `datapackage.json` for best listing - nice [online view here][online].
+
+* Results of negotiations at COP21 itself are being posted here: http://unfccc.int/meetings/paris_nov_2015/items/9326.php
+
+[online]: http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2Fokfn%2Fcop21#data
+
 ## Notes
 
 The climate negotiations can be hard to follow. As a large scale international
