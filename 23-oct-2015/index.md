@@ -232,6 +232,7 @@ No text additional to Article 3.2 **Option 2:**
 (o) [Ensure environmental integrity;]
 
 (p) [Other.]]\
+
 **Option 2:**
 
  [Each developed country Party's *NDMC/NDMCC* [and of those Parties in a position to do so][shall][should][other]:
