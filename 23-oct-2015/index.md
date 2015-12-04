@@ -610,7 +610,7 @@ In the context of *NDMC/NDMCC,* when recognising and implementing mitigation act
 
 **Option 2:**
 
-> Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+ Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
 (a) Enhance mitigation ambition and the mobilization of financing for climate action;
 
