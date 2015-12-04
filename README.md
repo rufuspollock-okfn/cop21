@@ -17,10 +17,11 @@ all parties, would be adopted at the conference in December 2015.”
 
 See `datapackage.json` for best listing - nice [online view here][online].
 
-* [23 Oct 2015 - final draft text for COP21][23oct] (PDF)
+* [23 Oct 2015 - final draft text for COP21][23oct] (PDF) ([Word Version][23octword])
 * Results of negotiations at COP21 itself are being posted here: http://unfccc.int/meetings/paris_nov_2015/items/9326.php
 
 [23oct]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
+[23octword]: https://unfccc.int/files/bodies/awg/application/vnd.openxmlformats-officedocument.wordprocessingml.document/ws_1_and_2_2330_.docx
 [online]: http://data.okfn.org/tools/view?url=https%3A%2F%2Fgithub.com%2Fokfn%2Fcop21#data
 
 ## Notes
