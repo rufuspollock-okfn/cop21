@@ -1,16 +1,17 @@
-***Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action***
-
-**Work of the ADP contact group**
+---
+title: Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
+author: Work of the ADP contact group
+---
 
 > *Version of 23 October 2015@23:30hrs*[^1]
->
-> **A. DRAFT AGREEMENT**
+
+# A. DRAFT AGREEMENT
 
 [The Parties to this Agreement,
 
-^Pp1^ *Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
+*Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
 
-^Pp2^ *In furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
+*In furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
 
 ^Pp3^ *Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
 
@@ -30,9 +31,9 @@
 
 ^Pp11^ *Also emphasizing* of the importance of aligning actions with the goal of promoting food security and livelihood security, restoration of degraded lands, health, and ecosystem integrity, participation in environmental decision-making by civil society and individuals, and a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities and strategies [towards environmentally sustainable economies for all],
 
-^Pp12^ **Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
+**Option 1:** *Recognizing* the importance and special characteristics of land use, including forests, in relation to, inter alia, food security, diverse land management systems, removals as well as emissions, multiple sustainability objectives, disturbance, permanence, legacy and non-anthropogenic effects,
 
-> **Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
+**Option 2:** *Recognizing* the fundamental priority of the international community in the eradication of hunger and safeguarding food security,
 
 ^Pp13^ *Recognizing* the critical role played by sinks and reservoirs of greenhouse gases, [such as forests,] through mitigation and adaptation actions, [including REDD-plus,] [and the Joint Mitigation and Adaptation Mechanism] to attain the stabilization of greenhouse gas concentrations in the atmosphere, conserve biological diversity, restore ecosystems and enhance ecosystem services, including food security, while acknowledging their vulnerability to climate change and associated natural disturbances;
 
@@ -40,39 +41,26 @@
 
 ^Pp1*5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
 
-> Have agreed as follows:
+Have agreed as follows:
 
-**Article 1 *<span style="font-variant:small-caps;">*(definitions)*</span>***
+### Article 1 *(definitions)*
 
-> For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
+For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
-1\. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
-
-2\. “Party” means a Party to this Agreement;
-
-3\. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
-
-4\. [*Placeholder* for “countries in need of support”;]
-
-5\. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
-
-6\. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
-
-7\. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
-
-7bis. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
-
-8\. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-
-9\. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-
-10\. [*Placeholder* for “climate finance”];
-
-11\. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
-
-12\. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
-
-13\. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
+1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
+2. “Party” means a Party to this Agreement;
+3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
+4. [*Placeholder* for “countries in need of support”;]
+5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
+6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
+7. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
+8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
+9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+11. [*Placeholder* for “climate finance”];
+12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
+13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
+14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
 
 *[Further definitions may be required at a later stage in the negotiating process.]*
 
