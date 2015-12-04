@@ -1,9 +1,13 @@
 ---
 title: Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
-authors: ["Work of the ADP contact group"]
+authors: ["ADP contact group"]
+edit: true
 ---
 
 *Version of 23 October 2015@23:30hrs*[^1]
+
+* TOC
+{:toc}
 
 ## A. DRAFT AGREEMENT
 
