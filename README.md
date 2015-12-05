@@ -1,6 +1,6 @@
-Negotiating texts for COP21, the 21st Conference of Parties to the UN Framework Convention on Climate Change, taking place in Paris in December 2015.
+Negotiating texts for COP21, the 21st Conference of Parties (COP) to the UN Framework Convention on Climate Change, taking place in Paris in December 2015.
 
-Paris is the 21st Conference of the Parties (COP) to the 1992 United Nations Framework Convention on Climate Change (UNFCCC) - hence COP21. Delegates from 195 countries will negotiate with the aim of reaching agreement on the timetable and actions to reduce global greenhouse gas (GHG) emissions to a level that limits the global average temperature increase to "below 2°C or 1.5°C above pre-industrial levels".  
+Delegates from 195 countries will negotiate with the aim of reaching agreement on the timetable and actions to reduce global greenhouse gas (GHG) emissions to a level that limits the global average temperature increase to "below 2°C or 1.5°C above pre-industrial levels".  
 
 There are high hopes that this conference may be the first to deliver a new binding agreement to succeed the 1992 Kyoto. In particular, in Durban in 2011, all countries agreed that an “outcome with legal force ... and applicable to all parties, would be adopted at the conference in December 2015.”
 
