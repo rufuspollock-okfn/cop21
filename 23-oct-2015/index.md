@@ -754,6 +754,7 @@ mechanism of the Convention.
  **Option 1:** Parties shall cooperate and take appropriate measures to develop, adopt and implement policies, strategies, regulations and/or action plans on climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
 
  **Option 2:** Parties [shall] [should] cooperate and take appropriate measures to enhance climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
+ 
 ### Article 9 *(transparency)*
 
 1.  **Option 1:** A robust transparency framework covering both action and support, differentiated between developed and developing countries, building on the arrangements under the Convention, related COP decisions and mechanisms established by Cancun agreements (decision 1/CP.16), applicable to all Parties, providing flexibility to developing countries Parties is hereby established.
