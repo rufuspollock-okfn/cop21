@@ -6,6 +6,8 @@ edit: true
 
 *Version of 23 October 2015@23:30hrs*[^1]
 
+<p style="text-align: center; font-size: 24px; font-weight: bold;"><a href="https://github.com/okfn/cop21/issues/2">HELP US FINISH PROOFING THIS TEXT</a></p>
+
 * TOC
 {:toc}
 
@@ -15,7 +17,7 @@ edit: true
 
 *Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
 
-*In [furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities\^ and respective capabilities in light of different national circumstances,]]
+*In [furtherance][pursuit]* of the objective, [principles and provisions] of the Convention [as set out in Articles 2, 3 and 4], [including the principles of equity and common but differentiated responsibilities and respective capabilities in light of different national circumstances,]]
 
 *Recalling* decisions 1/CP.17, 2/CP.18, 1/CP.19, and 1/CP 20,
 
