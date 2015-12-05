@@ -683,39 +683,39 @@ The CMA shall adopt modalities and procedures for the mechanism referred above o
 
 ### Article 7 *(technology development and transfer)*
 
-1.  All Parties[, in accordance with the principles and provisions of the Convention, in particular Article 4 [and Article 11]], noting the importance of [meeting the] technology [requirements] for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing deployment and dissemination efforts, [shall][should] strengthen cooperative action [among Parties] [to accelerate and upscale] [on] [technology development and transfer] [through];
+1. All Parties[, in accordance with the principles and provisions of the Convention, in particular Article 4 [and Article 11]], noting the importance of [meeting the] technology [requirements] for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing deployment and dissemination efforts, [shall][should] strengthen cooperative action [among Parties] [to accelerate and upscale] [on] [technology development and transfer] [through];
 
  [inter alia:
 
-(a) [Improve endogenous capacities and enabling environment according to nationally determined needs and priorities, in accordance with Article 4.5 of the Convention]
+ - [Improve endogenous capacities and enabling environment according to nationally determined needs and priorities, in accordance with Article 4.5 of the Convention]
 
-(b) Address barriers [in accessing to][for] the transfer of safe, appropriate and environmentally, and socially sound technologies [by developing countries]; and
+ - Address barriers [in accessing to][for] the transfer of safe, appropriate and environmentally, and socially sound technologies [by developing countries]; and
 
-(c) Foster cooperative approaches to research and development].
+ - Foster cooperative approaches to research and development].
 
- [1ter. **Option 1:** The [CMA] shall, at its first session, establish a global goal for technology development and transfer[, with the aim of improving the resilience of countries through adaptation and mitigation.][, under which][ In this regard] developed country Parties shall regularly prepare, communicate and implement their commitments on provision of developed country Parties' ready-for-transfer technologies and know-how as well as providing financial resources for collaborative research and development of environmentally sound technologies and enhancing the access of developing countries to such technologies, that match developing country Parties' technology needs, in order to progressively scale up support and cooperation for technology development and transfer, taking into account the limit to global average temperature increase referred to in Article 2, paragraph 2 of the Agreement.]
+ **Option 1:** The [CMA] shall, at its first session, establish a global goal for technology development and transfer[, with the aim of improving the resilience of countries through adaptation and mitigation.][, under which][ In this regard] developed country Parties shall regularly prepare, communicate and implement their commitments on provision of developed country Parties' ready-for-transfer technologies and know-how as well as providing financial resources for collaborative research and development of environmentally sound technologies and enhancing the access of developing countries to such technologies, that match developing country Parties' technology needs, in order to progressively scale up support and cooperation for technology development and transfer, taking into account the limit to global average temperature increase referred to in Article 2, paragraph 2 of the Agreement.]
 
  **Option 2:** No text
 
-2.  **Option 1:** The CMA shall, at its first session, consider and adopt a technology framework in accordance with the guidelines contained in decision 1/CP.21. Such a technology framework would be intended to provide direction and overarching guidance to the work of the existing institutions in the medium and long term and to strengthen them.
+3.**Option 1:** The CMA shall, at its first session, consider and adopt a technology framework in accordance with the guidelines contained in decision 1/CP.21. Such a technology framework would be intended to provide direction and overarching guidance to the work of the existing institutions in the medium and long term and to strengthen them.
 
  **Option 2:** The Technology Framework shall provide direction and overarching guidance in respect of technology assessments, identifying those with potential for high impact, and identifying options for enhancing access, and addressing barriers to their deployment. The framework shall further guide the work of the Technology [Mechanism] [institutions] [under this Agreement] in the medium to long term, and strengthen them.
 
-2bis. **Option 1:** In accordance with Article 4, paragraph 5 of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties, free of cost, in order to enhance their actions to address the adverse effects of climate change.
+4.**Option 1:** In accordance with Article 4, paragraph 5 of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties, free of cost, in order to enhance their actions to address the adverse effects of climate change.
 
  **Option 2:** No text
 
-3.  **Option 1:** The [Technology Mechanism] [institutional arrangements for technology established under the Convention] shall [be strengthened and] serve this Agreement [by facilitating enhanced action on technology development and transfer].
+5.**Option 1:** The [Technology Mechanism] [institutional arrangements for technology established under the Convention] shall [be strengthened and] serve this Agreement [by facilitating enhanced action on technology development and transfer].
 
  **Option 2:** The Technology Mechanism shall serve this Agreement and be strengthened by facilitating enhanced action which include inter alia; anchoring dedicated nodal research, development and demonstration facility on technology development and transfer.
 
-4.  **Option 1:** Developing country Parties are eligible for support in the implementation of this Article.
+6.**Option 1:** Developing country Parties are eligible for support in the implementation of this Article.
 
  **Option 2:** [In accordance with Article 4, paragraphs 3[ and 5][, 5 and 9] of the Convention,] developed country Parties and other Parties included in Annex II to the Convention shall provide support, including financial support, for strengthening cooperative action the implementation of the technology framework through the Technology Mechanism. The availability of the financial support shall include through the Financial Mechanism.
 
  **Option 3:** No text
 
-5.  **Option 1:** Developed country Parties and other Parties included in Annex II to the Convention shall provide support for the research, development and application of environmentally sound technologies and facilitate the transfer of and access to such technologies for developing country Parties, including by, inter alia, strengthening cooperative action, providing financial resources to address barriers caused by the absence of domestic research and development capability and innovations, and enhancing access to environmentally sound technologies and know-how.
+7.**Option 1:** Developed country Parties and other Parties included in Annex II to the Convention shall provide support for the research, development and application of environmentally sound technologies and facilitate the transfer of and access to such technologies for developing country Parties, including by, inter alia, strengthening cooperative action, providing financial resources to address barriers caused by the absence of domestic research and development capability and innovations, and enhancing access to environmentally sound technologies and know-how.
 
  **Option 2:** No text
 
@@ -729,32 +729,31 @@ The CMA shall adopt modalities and procedures for the mechanism referred above o
 
  **Option 4:** The objective of capacity building under this Agreement is to enhance the capacities of Parties, in particular Parties in need, to effectively implement this Agreement.
 
-2. **Option 1:** Capacity-building should be based on and respond to national needs and foster country ownership of Parties, in particular for developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned and should be an effective, iterative process that is participatory, country-driven, cross-cutting and gender-responsive.
+2.**Option 1:** Capacity-building should be based on and respond to national needs and foster country ownership of Parties, in particular for developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned and should be an effective, iterative process that is participatory, country-driven, cross-cutting and gender-responsive.
 
  **Option 2:** Capacity-building should be country-driven, based on and responsive to national needs and foster country ownership by developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned, including under the Convention, and should be an effective, iterative process that is participatory, cross-cutting and gender-responsive.
 
-**3 Option 1:** Developed country Parties shall scale up support to enhance the capacity of\
+3.**Option 1:** Developed country Parties shall scale up support to enhance the capacity of\
 developing country Parties to implement this Agreement, mainly through the financial\
 mechanism of the Convention.
 
  **Option 2:** All Parties should cooperate to enhance the capacity of developing country Parties in need of support to implement this Agreement.
 
-3.bis. **Option 1:** Developed country Parties shall regularly prepare, communicate and implement plans, policies, actions and measures on capacity-building support to developing country Parties, in order to progressively scale up such support and cooperation to enhance the capacity of developing country Parties to implement this Agreement, including through regional, bilateral and multilateral approaches.
+4.**Option 1:** Developed country Parties shall regularly prepare, communicate and implement plans, policies, actions and measures on capacity-building support to developing country Parties, in order to progressively scale up such support and cooperation to enhance the capacity of developing country Parties to implement this Agreement, including through regional, bilateral and multilateral approaches.
 
  **Option 2:** All Parties should regularly prepare and communicate actions or measures on capacity-building, in order to enhance the capacity of developing country Parties in need of support to implement this Agreement, including through regional, bilateral and multilateral approaches. Developing country Parties shall regularly communicate progress made on implementing any capacity-building plans, policies actions or measures, including the impact and estimated results of support received for capacity-building.
 
  **Option 3:** No text (issue to be dealt with in the Article on transparency)
 
- 4. **Option 1:** The provision of capacity-building, including under this Agreement, shall be enhanced through, inter alia, effective institutional arrangements. Existing institutional arrangements shall therefore be enhanced, as appropriate, to improve the provision of capacity-building. In order to further enhance and coordinate capacity-building consistent with this Agreement, an international capacity-building mechanism is hereby established to serve the Agreement.
+5.**Option 1:** The provision of capacity-building, including under this Agreement, shall be enhanced through, inter alia, effective institutional arrangements. Existing institutional arrangements shall therefore be enhanced, as appropriate, to improve the provision of capacity-building. In order to further enhance and coordinate capacity-building consistent with this Agreement, an international capacity-building mechanism is hereby established to serve the Agreement.
 
  **Option 2:** Institutional arrangements related to capacity-building serving this Agreement should enhance the effectiveness of capacity building efforts.
 
-### Article 8 bis**
+### Article 8 bis
 
  **Option 1:** Parties shall cooperate and take appropriate measures to develop, adopt and implement policies, strategies, regulations and/or action plans on climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
 
  **Option 2:** Parties [shall] [should] cooperate and take appropriate measures to enhance climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
-
 ### Article 9 *(transparency)*
 
 1.  **Option 1:** A robust transparency framework covering both action and support, differentiated between developed and developing countries, building on the arrangements under the Convention, related COP decisions and mechanisms established by Cancun agreements (decision 1/CP.16), applicable to all Parties, providing flexibility to developing countries Parties is hereby established.
