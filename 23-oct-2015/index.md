@@ -580,7 +580,7 @@ The CMA shall adopt modalities and procedures for the mechanism referred above o
 
 ### Article 5 *(loss and damage)*
 
-**[Option 1:**
+**Option I:**
 
 1.  An international mechanism to address loss and damage is hereby defined under this agreement/protocol and shall be bound by the principles and provisions of the Convention, in particular common but differentiated responsibilities and respective capabilities.
 
@@ -594,11 +594,11 @@ The CMA shall adopt modalities and procedures for the mechanism referred above o
 
 6.  The governing body/CMP/CMA shall, at its first session, initiate a process to develop approaches to address irreversible and permanent damage resulting from human-induced climate change, and shall endeavour to complete this process within four years.]
 
-**[Option 2:** No reference to loss and damage (no Article 5).]
+**Option II:** No reference to loss and damage (no Article 5).]
 
 ### Article 6 *(finance)*
 
-***Option I***
+***Option 1:***
 
 1.  [Over time, [all] finance flows should [promote][and][be consistent with] the transformation to low-emission and climate resilient societies and economies.]
 
@@ -608,81 +608,78 @@ The CMA shall adopt modalities and procedures for the mechanism referred above o
 
 4.  [[Developed country Parties should take the lead and][Developed country Parties[, Parties with economies in transition] [and Parties [in a position][with capacity] to do so]] [All Parties [in a position][with capacity] to do so] [shall][should][other] provide support to assist developing country Parties with respect to both mitigation and adaptation [and others in a position to do so should complement such efforts].]
 
-***Option II***
+***Option 2:***
 
 1. [In the implementation of this Agreement, developed country Parties and other developed Parties included in Annex II to the Convention shall provide and mobilize new and additional, adequate, predictable, accessible, sustained and scaled-up financial resources to developing countries to enhance the implementation of their policies, strategies, regulations, and action plans and their climate change actions with respect to both mitigation and adaptation to contribute to the achievement of the objective of this Agreement, meeting costs of adaptation, addressing loss and damage and including access to and transfer of environmentally-sound technologies and capacity-building, based on the principles and in accordance with the provisions of the Convention.] *{This paragraph would replace option 1 paragraphs 1 to 4}*
 
-5.  [Parties [[shall][should][other] take appropriate steps to][should promote the mobilization of climate finance from a wide variety of instruments and channels, including public, private, bilateral, multilateral, domestic, and international. In this regard]:
+2. [Parties [[shall][should][other] take appropriate steps to][should promote the mobilization of climate finance from a wide variety of instruments and channels, including public, private, bilateral, multilateral, domestic, and international. In this regard]:
+ - [Recognizing the importance of mobilizing domestic resources [in the first instance], Parties [in a position][with capacity] to do so should provide support to assist developing country Parties in need of support with respect to both mitigation and adaptation;]
 
-<!-- -->
+ 	*{Substantive overlap with option 1 paragraph 4 and option 2 paragraph 1}*
 
-(a) [Recognizing the importance of mobilizing domestic resources [in the first instance], Parties [in a position][with capacity] to do so should provide support to assist developing country Parties in need of support with respect to both mitigation and adaptation;]
+ - Parties [shall][should] strive to improve domestic [and international] enabling environments [and policy frameworks] to [attract] [and] [mobilize] low-emission, climate-resilient [finance and] investment, noting that cooperative action and support may enhance such efforts;
 
- *{Substantive overlap with option 1 paragraph 4 and option 2 paragraph 1}*
+ - [Parties should] [prioritize the provision of] [recognize the importance of providing] [the most concessional finance] [grant-based [and concessional finance][support]] to the poorest, most vulnerable, and/or those with the least ability to mobilize other resources, [including][especially] for adaptation[, with priority given to financing for activities that are readily implementable, scalable, results based and deliver co-benefits];]
 
-(b) Parties [shall][should] strive to improve domestic [and international] enabling environments [and policy frameworks] to [attract] [and] [mobilize] low-emission, climate-resilient [finance and] investment, noting that cooperative action and support may enhance such efforts;
+ - [Prioritize financial support for results-based payments for verifiable achieved emission reductions related to existing approaches under the Convention;]
 
-(c) [Parties should] [prioritize the provision of] [recognize the importance of providing] [the most concessional finance] [grant-based [and concessional finance][support]] to the poorest, most vulnerable, and/or those with the least ability to mobilize other resources, [including][especially] for adaptation[, with priority given to financing for activities that are readily implementable, scalable, results based and deliver co-benefits];]
+ - [Parties should integrate climate considerations, including resilience, into their domestic development plans, international development assistance, and domestic and international investments;]
 
-(d) [Prioritize financial support for results-based payments for verifiable achieved emission reductions related to existing approaches under the Convention;]
+ - [Parties should [reduce international support for high-emission [and maladaptive] investments] [and[/or]][or] [enhance international support for low-emission and climate-resilient investments].]
 
-(e) [Parties should integrate climate considerations, including resilience, into their domestic development plans, international development assistance, and domestic and international investments;]
 
-(f) [Parties should [reduce international support for high-emission [and maladaptive] investments] [and[/or]][or] [enhance international support for low-emission and climate-resilient investments].]
 
-<!-- -->
+3.[Parties [shall][should][other] explore options for simplifying procedures for accessing support [and improving readiness], in particular for the LDCs and SIDS.]
 
-6.  [Parties [shall][should][other] explore options for simplifying procedures for accessing support [and improving readiness], in particular for the LDCs and SIDS.]
+4.[Parties [shall][should][other] implement and improve where necessary the pricing of greenhouse gas emissions.]
 
-7.  [Parties [shall][should][other] implement and improve where necessary the pricing of greenhouse gas emissions.]
+5.**Option 1** [[Parties recognize the importance of the Green Climate Fund and other multilateral mechanisms [and other efforts] for] The mobilization of climate finance [that] [shall][should][other] be scaled up [in a predictable and transparent manner] [beyond previous efforts] [from USD 100 billion per year] from 2020.]
 
-8.  [[Parties recognize the importance of the Green Climate Fund and other multilateral mechanisms [and other efforts] for] The mobilization of climate finance [that] [shall][should][other] be scaled up [in a predictable and transparent manner] [beyond previous efforts] [from USD 100 billion per year] from 2020.]
-
-8bis. [The provision and mobilization of financial resources by developed country Parties and other developed Parties included in Annex II shall represent a progression beyond their previous efforts, and financial resources shall be scaled up from a floor of US\$100 billion per year from 2020, including a clear burden-sharing formula among them, and in line with needs and priorities identified by developing country Parties in the context of contributing to the achievement of the objective (Article 2/XX) of this Agreement.
+**Option 2**. [The provision and mobilization of financial resources by developed country Parties and other developed Parties included in Annex II shall represent a progression beyond their previous efforts, and financial resources shall be scaled up from a floor of US\$100 billion per year from 2020, including a clear burden-sharing formula among them, and in line with needs and priorities identified by developing country Parties in the context of contributing to the achievement of the objective (Article 2/XX) of this Agreement.
 
  These resources shall be provided in a measurable, reportable and verifiable manner, and be based on clear road map with individual annual targets in the post-2020 period, with clearly identified pathways to annual expected levels of available resources towards achieving short-term quantified goals. It shall take into account an equitable regional distribution of financial resources and a gender-sensitive approach, and include the implementation of Articles 5 and 6 of the Convention.]
 
-8ter. [Enhancing the scale and effectiveness of climate finance depends on the actions set forward in paragraph 5.]
+**Option 3**. [Enhancing the scale and effectiveness of climate finance depends on the actions set forward in paragraph 5.]
 
-9.  [[Parties] [recognize][recognizing][note][noting] [the [desirability][role] of][that sources may include] a wide variety of sources, public and private, bilateral and multilateral, including [alternative][additional] sources[, noting the need for a diversity of sources and instruments to fit recipients' changing economic circumstances].]
+6.**Option 1**: [[Parties] [recognize][recognizing][note][noting] [the [desirability][role] of][that sources may include] a wide variety of sources, public and private, bilateral and multilateral, including [alternative][additional] sources[, noting the need for a diversity of sources and instruments to fit recipients' changing economic circumstances].]
 
-9bis. [Public funds, distinct from Official Development Assistance, will be the main source of financing, noting that sources may include a wide variety of sources, public and private, bilateral and multilateral, including additional sources to meet developing country needs for mitigation and adaptation actions. In the mobilization of finance from various sources, Parties shall abide by the principles of fiscal sovereignty and avoid incidence on developing country Parties[, particularly disguise distortions to trade].]
+**Option 2:** [Public funds, distinct from Official Development Assistance, will be the main source of financing, noting that sources may include a wide variety of sources, public and private, bilateral and multilateral, including additional sources to meet developing country needs for mitigation and adaptation actions. In the mobilization of finance from various sources, Parties shall abide by the principles of fiscal sovereignty and avoid incidence on developing country Parties[, particularly disguise distortions to trade].]
 
-10. [[Developed country Parties [and other developed Parties included in Annex II]] [Developed country Parties[, Parties with economies in transition] and Parties [in a position][with capacity] to do so] [All Parties] [shall][should][other] [periodically] [prepare and] communicate [biennially on the provision and implementation] [[relevant, indicative] information] [on the [provision of financial resources, including quantitative and qualitative information on the] [projected][achieved] [efforts to mobilize climate finance][levels of public [climate finance][financial resources to be provided to developing country Parties]][about their plans related to paragraph 5, as appropriate].]
+7.**Option 1:** [[Developed country Parties [and other developed Parties included in Annex II]] [Developed country Parties[, Parties with economies in transition] and Parties [in a position][with capacity] to do so] [All Parties] [shall][should][other] [periodically] [prepare and] communicate [biennially on the provision and implementation] [[relevant, indicative] information] [on the [provision of financial resources, including quantitative and qualitative information on the] [projected][achieved] [efforts to mobilize climate finance][levels of public [climate finance][financial resources to be provided to developing country Parties]][about their plans related to paragraph 5, as appropriate].]
 
-10bis. [Parties should periodically communicate relevant, indicative information about their plans related to paragraph 5, as appropriate.]
+**Option 2:** [Parties should periodically communicate relevant, indicative information about their plans related to paragraph 5, as appropriate.]
 
-11. [The short-term collective quantified goal by developed country Parties shall be (periodically) reviewed and assessed based on needs and priorities identified by developing country Parties, in accordance with modalities and procedures to be developed by the CMA, in the context of achieving the objective of this Agreement.]
+8.[The short-term collective quantified goal by developed country Parties shall be (periodically) reviewed and assessed based on needs and priorities identified by developing country Parties, in accordance with modalities and procedures to be developed by the CMA, in the context of achieving the objective of this Agreement.]
 
-12. [The CMA shall facilitate the communication of finance efforts for the stocktake referred to in Article 10, taking into account the [annual reports][biennial assessment] of the Standing Committee on Finance.] *{Pending outcome of discussions on Article 10}*
+9.[The CMA shall facilitate the communication of finance efforts for the stocktake referred to in Article 10, taking into account the [annual reports][biennial assessment] of the Standing Committee on Finance.] *{Pending outcome of discussions on Article 10}*
 
-13. *[Placeholder: outcome on discussion on MRV and Article 9 on transparency]*
+10.*[Placeholder: outcome on discussion on MRV and Article 9 on transparency]*
 
-14. *[Placeholder: notion of avoiding double counting]*
+11.*[Placeholder: notion of avoiding double counting]*
 
-15. [[Parties][The provision of [support][these scaled-up resources]] [should][shall] strive to [achieve a] balance [of] [adaptation support [relative to][and] mitigation support][50:50 allocation for mitigation and adaptation actions of developing country Parties], [bearing in mind][taking into account the] country-driven strategies, priorities and needs [of developing country Parties which are particularly vulnerable to the adverse effects of climate change, including small island developing States (SIDS), least-developed countries (LDCs), and Africa].]
+12.[[Parties][The provision of [support][these scaled-up resources]] [should][shall] strive to [achieve a] balance [of] [adaptation support [relative to][and] mitigation support][50:50 allocation for mitigation and adaptation actions of developing country Parties], [bearing in mind][taking into account the] country-driven strategies, priorities and needs [of developing country Parties which are particularly vulnerable to the adverse effects of climate change, including small island developing States (SIDS), least-developed countries (LDCs), and Africa].]
 
-16. [Parties recognize that financing for adaptation should be public and grant-based.]
+13.[Parties recognize that financing for adaptation should be public and grant-based.]
 
-17. [The provision of financial resources, including for the transfer of technology shall ensure facilitated and enhanced direct access, pursue a country-driven approach, delivered through simplified procedures, and continuous readiness support in particular to capacity-constrained developing countries, in particular LDCs and SIDs. It shall likewise ensure adequacy and predictability of resources, and avoid double counting.]
+14.[The provision of financial resources, including for the transfer of technology shall ensure facilitated and enhanced direct access, pursue a country-driven approach, delivered through simplified procedures, and continuous readiness support in particular to capacity-constrained developing countries, in particular LDCs and SIDs. It shall likewise ensure adequacy and predictability of resources, and avoid double counting.]
 
-18. [The CMA shall ensure that adequate support is available to the International Mechanism to address Loss and Damage as defined in Article (XX), as well as to promote and support the development and implementation of approaches to address irreversible and permanent damage resulting from human-induced climate change.]
+15.[The CMA shall ensure that adequate support is available to the International Mechanism to address Loss and Damage as defined in Article (XX), as well as to promote and support the development and implementation of approaches to address irreversible and permanent damage resulting from human-induced climate change.]
 
-19. [Parties may transfer mitigation outcomes for the purpose of fulfilling commitments and supporting actions under this Agreement in accordance with relevant COP decisions.]
+16.[Parties may transfer mitigation outcomes for the purpose of fulfilling commitments and supporting actions under this Agreement in accordance with relevant COP decisions.]
 
  *{Placement proposal: mitigation Article of the Agreement section}*
 
-20. [The Financial Mechanism, as [established by][defined in] Article 11 of the Convention, shall serve as the financial mechanism of this Agreement, including [the Green Climate Fund and the Global Environment Facility as] its operating entities[, in line with their respective mandates][The Financial Mechanism established by Article 11 of the Convention, including its operating entities, shall serve as the Financial Mechanism of this Agreement].]
+17.[The Financial Mechanism, as [established by][defined in] Article 11 of the Convention, shall serve as the financial mechanism of this Agreement, including [the Green Climate Fund and the Global Environment Facility as] its operating entities[, in line with their respective mandates][The Financial Mechanism established by Article 11 of the Convention, including its operating entities, shall serve as the Financial Mechanism of this Agreement].]
 
- [Its operation shall remain open to be entrusted to other existing international entities. The guidance to the entity or entities entrusted with the operation of the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply mutatis mutandis to the provisions of the paragraph.]
+ - [Its operation shall remain open to be entrusted to other existing international entities. The guidance to the entity or entities entrusted with the operation of the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply mutatis mutandis to the provisions of the paragraph.]
 
  *{Placementproposal: issue to be addressed in decision paragraph 45}*
 
- [The Funds under the Convention such as the Special Climate Change Fund (SCCF) and the Least-Developed Countries Fund (LDCF), and the Adaptation Fund under the Kyoto Protocol to the UNFCCC (KP) shall also serve this Agreement. Other funds may be established under this Agreement as may be deemed necessary. These funds shall operate under the guidance and authority of the CMA in relation to activities to be developed and implemented under this Agreement.] *{Placementproposal: issue to be addressed in decision paragraphs 44 and 45}*
+ - [The Funds under the Convention such as the Special Climate Change Fund (SCCF) and the Least-Developed Countries Fund (LDCF), and the Adaptation Fund under the Kyoto Protocol to the UNFCCC (KP) shall also serve this Agreement. Other funds may be established under this Agreement as may be deemed necessary. These funds shall operate under the guidance and authority of the CMA in relation to activities to be developed and implemented under this Agreement.] *{Placementproposal: issue to be addressed in decision paragraphs 44 and 45}*
 
- [The Adaptation Fund Board, established by decision 1/CMP.3 shall be designated as an operating entity entrusted with the operation of the financial mechanism, referred to in Article 6.20, for the implementation of this Agreement.] *{Placementproposal: issue to be addressed in Agreement on interim arrangements}*
+ - [The Adaptation Fund Board, established by decision 1/CMP.3 shall be designated as an operating entity entrusted with the operation of the financial mechanism, referred to in Article 6.20, for the implementation of this Agreement.] *{Placementproposal: issue to be addressed in Agreement on interim arrangements}*
 
-21. [The Standing Committee on Finance established under the Convention shall [serve this Agreement.] [assist the CMA in exercising its functions with respect to the Financial Mechanism of the Convention, in line with its functions and responsibilities established under the COP.] [Other thematic bodies of the Convention shall likewise assist the CMA, which may also establish other thematic bodies as may be necessary.]] *{Placement proposal: issue to be addressed in decision part; issue of other thematic bodies not appropriate for finance section of the agreement}*
+18.[The Standing Committee on Finance established under the Convention shall [serve this Agreement.] [assist the CMA in exercising its functions with respect to the Financial Mechanism of the Convention, in line with its functions and responsibilities established under the COP.] [Other thematic bodies of the Convention shall likewise assist the CMA, which may also establish other thematic bodies as may be necessary.]] *{Placement proposal: issue to be addressed in decision part; issue of other thematic bodies not appropriate for finance section of the agreement}*
 
 ### Article 7 *(technology development and transfer)*
 
