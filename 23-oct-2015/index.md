@@ -697,127 +697,102 @@ mechanism of the Convention.
 
     **Option 4:** Building on existing Convention arrangements, a transparency framework for action and support, that takes into account Parties different capacity and applicable to all Parties, is hereby established.
 
-*{A suggestion made that it is possible to merge 9.2 and 9.3 under one chapeau}*
+    *{A suggestion made that it is possible to merge 9.2 and 9.3 under one chapeau}*
 
-2. The purpose of the system for transparency of action is to: **Option 1:**
+2. The purpose of the system for transparency of action is to:
 
-<!-- -->
+    **Option 1:**
 
-(a) Provide a clear understanding of the emissions and removals of individual Parties;
-
-(b) Facilitate understanding of global aggregate net emissions [in the light of the global temperature goal][in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
-
-(c) Ensure clarity and tracking of progress made in implementing and achieving individual Parties' respective [contributions] [commitments] [other] under Article 3;
-
-(d) [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties' actions[^11] under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
-
- [(e) Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9.}*
+    (a) Provide a clear understanding of the emissions and removals of individual Parties;
+    (b) Facilitate understanding of global aggregate net emissions [in the light of the global temperature goal][in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
+    (c) Ensure clarity and tracking of progress made in implementing and achieving individual Parties' respective [contributions] [commitments] [other] under Article 3;
+    (d) [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties' actions[^11] under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
+    (e) [Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9.}*
 
     **Option 2:**
-
- Provide a clear understanding of climate change actions in the light of the objective as set by Article 2 of the Convention and consistent with the principles and commitments of Articles 3 and 4 of the Convention.
+    
+    Provide a clear understanding of climate change actions in the light of the objective as set by Article 2 of the Convention and consistent with the principles and commitments of Articles 3 and 4 of the Convention.
 
 3. The purpose of the system for transparency of support is to:
 
-(a) Provide a clear understanding of the support provided and received [as relevant] by individual Parties [as well as needs of developing country Parties] [and assist Parties in identifying gaps in support provided and received], without placing an undue burden on SIDS and LDCs;
+    (a) Provide a clear understanding of the support provided and received [as relevant] by individual Parties [as well as needs of developing country Parties] [and assist Parties in identifying gaps in support provided and received], without placing an undue burden on SIDS and LDCs;
+    (b) Provide[, to the extent possible,] a full overview of aggregate support provided and [mobilized] [in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
+    (c) Ensure [clarity and tracking][measurement, reporting and verification] of progress made by developed country Parties in providing support in accordance with Articles 6, 7 and 8;
+    (d) Ensure clarity and tracking of support needed and received by developing country Parties in accordance with Articles 6, 7 and 8;
+    (e) Ensure that there shall be no double counting of financial resources provided [and ensure environmental integrity of this agreement]. *{While the first concept is relevant here, the second bracketed concept does not relate to this section on support, and could be moved elsewhere.}*
 
-(b) Provide[, to the extent possible,] a full overview of aggregate support provided and [mobilized] [in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
-
-(c) Ensure [clarity and tracking][measurement, reporting and verification] of progress made by developed country Parties in providing support in accordance with Articles 6, 7 and 8;
-
-(d) Ensure clarity and tracking of support needed and received by developing country Parties in accordance with Articles 6, 7 and 8;
-
-(e) Ensure that there shall be no double counting of financial resources provided [and ensure environmental integrity of this agreement]. *{While the first concept is relevant here, the second bracketed concept does not relate to this section on support, and could be moved elsewhere.}*
-
-*{Further discussion is needed on: the relationship between the system and existing arrangements; the nature of flexibility,; and the potential role of 'nationally determined'.}*
+    *{Further discussion is needed on: the relationship between the system and existing arrangements; the nature of flexibility,; and the potential role of 'nationally determined'.}*
 
 4. **Option 1:** Each Party[, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives, and circumstances,] [shall][should][other] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
 
     **Option 2:** Each Party [shall][should][other], [regularly] [biennially] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
 
-(a) Its national inventory of anthropogenic emissions by sources and removals by sinks of greenhouse gases, [using common metrics and] comparable methodologies as agreed on by the [CMA][COP];
+    (a) Its national inventory of anthropogenic emissions by sources and removals by sinks of greenhouse gases, [using common metrics and] comparable methodologies as agreed on by the [CMA][COP];
+    (b) [Projected estimated emissions and removals;]
+    (c) Progress made in implementing and achieving [nationally determined] mitigation [contribution][commitment][other] *{precise language will be consistent with Article 3};*
+    (d) [Vulnerability to] climate change impacts and [adaptation][actions taken] to build resilience and reduce vulnerability [and progress on implementing any adaptation action under Article 4, paragraph 7] *{Precise language will be consistent with Article 4};*
+    (e) Support provided and received, as relevant *{Precise language will be consistent with Article 6, 7 and 8};*
+    (f) Specific information requirements under Article 6, 7 and 8, [efforts to improve domestic enabling environments; and on the use, impact and estimated results of support for [mitigation] actions] *{Precise language will be consistent with Article 6, 7 and 8}.*
 
- [(b) Projected estimated emissions and removals;]
+    *{Paragraphs 4 and 5 should be considered together as Parties have different views on the logic, implication and structure of these two paragraphs}*
 
-(c) Progress made in implementing and achieving [nationally determined] mitigation [contribution][commitment][other] *{precise language will be consistent with Article 3};*
+5. **Option1**: The information provided by each Party shall be reviewed at least biennially by international technical expert review. The review process shall provide a thorough, objective and comprehensive technical assessment of the implementation by a Party of the requirements of the Agreement. The technical expert review shall be carried out by an expert review team, based upon guidance adopted by the CMA at its first session.
 
-(d) [Vulnerability to] climate change impacts and [adaptation][actions taken] to build resilience and reduce vulnerability [and progress on implementing any adaptation action under Article 4, paragraph 7] *{Precise language will be consistent with Article 4};*
+    The expert review team shall produce a report on the results of the technical expert review, which shall be communicated to the CMA. The expert review team shall consult the Party concerned on the report prior to its communication to the CMA. The report shall analyse the extent to which the Party is on track to achieving its obligations under this agreement, as well as the extent to which the Party's reporting is in line with the guidelines.
 
-(e) Support provided and received, as relevant *{Precise language will be consistent with Article 6, 7 and 8};*
+    The report shall identify any issues related to compliance.
 
-(f) Specific information requirements under Article 6, 7 and 8, [efforts to improve domestic enabling environments; and on the use, impact and estimated results of support for [mitigation] actions] *{Precise language will be consistent with Article 6, 7 and 8}.*
+    **Option 2**:The information required under this Article shall be subject to a technical expert review in accordance with common guidelines and procedures adopted by the CMA. The review will consider the consistency with guidelines adopted by the CMA, the Party's implementation and achievement of its nationally determined mitigation [commitment / contribution], and identify any areas for improvement in reporting. For Parties with least capacity, the expert review may also identify capacity building needs. The technical expert review shall be carried out by an expert review team. The expert review team shall produce a report for publication by Secretariat and consideration by the CMA;
 
-*{Paragraphs 4 and 5 should be considered together as Parties have different views on the logic, implication and structure of these two paragraphs}*
+    Each Party shall undergo a multilateral and facilitative examination of the implementation of its [nationally determined mitigation] [contribution / commitment / other].
 
-5.
+    **Option 3:** Built on the existing MRV arrangements under the Convention:
 
-**Option1**:The information provided by each Party shall be reviewed at least biennially by international technical expert review. The review process shall provide a thorough, objective and comprehensive technical assessment of the implementation by a Party of the requirements of the Agreement. The technical expert review shall be carried out by an expert review team, based upon guidance adopted by the CMA at its first session.
+    (a) Developed country Parties shall report information related to their actions and provision of support to developing countries in accordance with the provisions of the Convention and relevant decisions of the COP mutatis mutandis under the Agreement, in their national communications, biennial reports and annual inventory reports. All of that information will be verified through a robust technical review process followed by a multilateral assessment process, and result in a conclusion with consequences for compliance;
+    (b) Developing country Parties should report information on their actions and support received according to the Convention and relevant decisions of the COP, inter alia procedures set up under decisions 1/CP.16 and 2/CP.17 mutatis mutandis, and the level of support received from developed country Parties.
 
- The expert review team shall produce a report on the results of the technical expert review, which shall be communicated to the CMA. The expert review team shall consult the Party concerned on the report prior to its communication to the CMA. The report shall analyse the extent to which the Party is on track to achieving its obligations under this agreement, as well as the extent to which the Party's reporting is in line with the guidelines.
+    (5bis)  Developed country Parties and other developed Parties included in Annex II shall ensure transparency of support by:
 
- The report shall identify any issues related to compliance.
+    (a) Providing clear information in national communications and biennial reports;
+    (b) Providing a clear road map with individual annual commitments for public funding, technology transfer and capacity-building support in the post-2020 period;
+    (c) Drawing on the work according to the mandate of the Standing Committee on Finance under the COP to assist the COP in exercising its functions with respect to the MRV of support provided to developing country Parties;
+    (d) Drawing on the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA) on methodologies for the reporting of financial information.
 
-**Option 2**:The information required under this Article shall be subject to a technical expert review in accordance with common guidelines and procedures adopted by the CMA. The review will consider the consistency with guidelines adopted by the CMA, the Party's implementation and achievement of its nationally determined mitigation [commitment / contribution], and identify any areas for improvement in reporting. For Parties with least capacity, the expert review may also identify capacity building needs. The technical expert review shall be carried out by an expert review team. The expert review team shall produce a report for publication by Secretariat and consideration by the CMA;
+6. **Option I:** [The CMA shall at its first session, building on lessons learned [and elaborating on the provisions above], adopt [common] modalities, procedures and guidelines, [to elaborate on the provisions above] [as appropriate, for promoting environmental integrity] [for the reporting and review of the information as set out in paragraph 4]. It shall take into account, inter alia:
 
- Each Party shall undergo a multilateral and facilitative examination of the implementation of its [nationally determined mitigation] [contribution / commitment / other].
+    (a) The need for flexibility in the light of capability;
+    (b) The importance of facilitating improved reporting and transparency over time;
+    (c) The need to avoid undue burden and duplication, taking into account the particular situation of small States Parties with limited administrative capacities;
+    (d) The facilitative, non-intrusive nature of review;
+    (e) The need to ensure no backsliding;
+    (f) The need to ensure no double counting;
+    (g) The need to ensure environmental integrity.]
 
-**Option 3:** Built on the existing MRV arrangements under the Convention:
+    **Option II:** The CMA shall at its first session, building on lessons learned from reporting under the Convention and elaborating on the provisions above, adopt common modalities, procedures and guidelines, as appropriate, for transparency of action and support.
 
-(a) Developed country Parties shall report information related to their actions and provision of support to developing countries in accordance with the provisions of the Convention and relevant decisions of the COP mutatis mutandis under the Agreement, in their national communications, biennial reports and annual inventory reports. All of that information will be verified through a robust technical review process followed by a multilateral assessment process, and result in a conclusion with consequences for compliance;
+7. The transparency system shall be guided by the Principles and provisions of the Convention and be conducted in facilitative, non-intrusive, non-punitive, respectful of national sovereignty, provide flexibility and avoid undue burden to developing countries.
 
-(b) Developing country Parties should report information on their actions and support received according to the Convention and relevant decisions of the COP, inter alia procedures set up under decisions 1/CP.16 and 2/CP.17 mutatis mutandis, and the level of support received from developed country Parties.
+8. There shall be a transition period of [5][10] years for developing country Parties.
 
- Developed country Parties and other developed Parties included in Annex II shall ensure transparency of support by:
+9. The rules and guidance related to accounting [that are set forth in decision 1/CP.21,] [including with respect to [land use], will apply along with any subsequent decisions by the CMA.
 
-(a) Providing clear information in national communications and biennial reports;
+10. The secretariat shall maintain [in a public registry] Parties' nationally determined [contributions][commitments] other] [and use such information to assess the aggregate effect of the [contributions][commitments] and progress towards implementation of the Convention.]
 
-(b) Providing a clear road map with individual annual commitments for public funding, technology transfer and capacity-building support in the post-2020 period;
+11. [The CMA shall facilitate the enhancement of the clarity, transparency and understanding of the nationally determined [contributions] communicated by Parties.]
 
-(c) Drawing on the work according to the mandate of the Standing Committee on Finance under the COP to assist the COP in exercising its functions with respect to the MRV of support provided to developing country Parties;
+12. [The CMA shall cooperate with the Conference of the Parties to avoid overlap and duplication.]
 
-(d) Drawing on the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA) on methodologies for the reporting of financial information.
+    *{Proposed to move this to Article 12 (CMA)}*
 
-**Option I:**
+13. [Developing country Parties shall [[receive][be eligible for] support to [assist in the implementation of][implement] this Article]][implement this Article consistent with their capacities and the level of support provided].
 
-6. [The CMA shall at its first session, building on lessons learned [and elaborating on the provisions above], adopt [common] modalities, procedures and guidelines, [to elaborate on the provisions above] [as appropriate, for promoting environmental integrity] [for the reporting and review of the information as set out in paragraph 4]. It shall take into account, inter alia:
+14. [Developed country Parties][shall][should][other]provide support to developing country Parties in the implementation of this Article.]
 
-  ---------------- ------------------------------------------------------------------------------------
-  (a)              The need for flexibility in the light of capability;
-  (b)              The importance of facilitating improved reporting and transparency over time;
-  (c)              The need to avoid undue burden and duplication, taking into account the particular
-                   situation of small States Parties with limited administrative capacities;
-  (d)              The facilitative, non-intrusive nature of review;
-  (e)              The need to ensure no backsliding;
-  (f)              The need to ensure no double counting;
-  (g)              The need to ensure environmental integrity.]
-  **Option II:**   
-  ---------------- ------------------------------------------------------------------------------------
+15. Developed country Parties, the operating entities of the financial mechanism and any other organizations in a position to do so shall allocate financial resources for the building of transparency-related capacity of developing country Parties in need, on a continuous basis.
 
-6. The CMA shall at its first session, building on lessons learned from reporting under the Convention and elaborating on the provisions above, adopt common modalities, procedures and guidelines, as appropriate, for transparency of action and support.
+16. [The CMA shall periodically review its decisions and update them, as appropriate [and at least once every 5 years].] *{Proposed to move this to the section on the transparency of action and support in the draft decision}*
 
-6bis. The transparency system shall be guided by the Principles and provisions of the Convention and be conducted in facilitative, non-intrusive, non-punitive, respectful of national sovereignty, provide flexibility and avoid undue burden to developing countries.
-
-6bis.1 There shall be a transition period of [5][10] years for developing country Parties.
-
-6ter. The rules and guidance related to accounting [that are set forth in decision 1/CP.21,] [including with respect to [land use], will apply along with any subsequent decisions by the CMA.
-
-6quater.The secretariat shall maintain [in a public registry] Parties' nationally determined [contributions][commitments] other] [and use such information to assess the aggregate effect of the [contributions][commitments] and progress towards implementation of the Convention.]
-
-6quinquies.[The CMA shall facilitate the enhancement of the clarity, transparency and understanding of the nationally determined [contributions] communicated by Parties.]
-
-7. [The CMA shall cooperate with the Conference of the Parties to avoid overlap and duplication.]
-
- *{Proposed to move this to Article 12 (CMA)}*
-
-8. [Developing country Parties shall [[receive][be eligible for] support to [assist in the implementation of][implement] this Article]][implement this Article consistent with their capacities and the level of support provided].
-
-8bis. [Developed country Parties][shall][should][other]provide support to developing country Parties in the implementation of this Article.]
-
-8ter. Developed country Parties, the operating entities of the financial mechanism and any other organizations in a position to do so shall allocate financial resources for the building of transparency-related capacity of developing country Parties in need, on a continuous basis.
-
-9. [The CMA shall periodically review its decisions and update them, as appropriate [and at least once every 5 years].] *{Proposed to move this to the section on the transparency of action and support in the draft decision}*
-
-10. The transparency arrangements under the Convention, including national communications, biennial reports and biennial update reports, international assessment and review (IAR) and international consultation and analysis (ICA) shall serve this Agreement.
+17. The transparency arrangements under the Convention, including national communications, biennial reports and biennial update reports, international assessment and review (IAR) and international consultation and analysis (ICA) shall serve this Agreement.
 
 ### Article 10 *(global stocktake)*
 
