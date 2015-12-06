@@ -54,30 +54,18 @@ Have agreed as follows:
 For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
 1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
-
 2. “Party” means a Party to this Agreement;
-
 3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
-
 4. [*Placeholder* for “countries in need of support”;]
-
 5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
-
 6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
-
 7. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
-
 8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
-
 9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
 10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-
 11. [*Placeholder* for “climate finance”];
-
 12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
-
 13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
-
 14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
 
 *[Further definitions may be required at a later stage in the negotiating process.]*
@@ -88,11 +76,9 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 1. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
 
-   a. hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
-
-   b. pursue a transformation towards sustainable development, to foster societies that are resilient to climate change and economies that are low in greenhouse gas emissions and to ensure that food production and distribution are not threatened.
-
-   c. increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
+   1. hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
+   2. pursue a transformation towards sustainable development, to foster societies that are resilient to climate change and economies that are low in greenhouse gas emissions and to ensure that food production and distribution are not threatened.
+   3. increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
 
 2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational equity].]
 
@@ -120,45 +106,45 @@ No text
 
 1. **Collective long-term goal**
 
-   **Option 1:** [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by 2050][by 2100].[^2]]
+    **Option 1:** [Parties aim [to achieve the global temperature goal], in accordance with the best available science [and the principles of the Convention], through [long-term global [low-[carbon][emission] transformation] [[climate][carbon] neutrality]], [and peaking their [net] emissions] [by 2030][20XX][as soon as possible], [with a [x]40-[y]70% net emission reduction below 2010 levels by 2050][according to the global carbon budget distribution based on climate justice], and [overall reductions][[net] zero emissions] [over the course of the century][by 2050][by 2100].[^2]]
 
-   **Option 2:** [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space *[placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.]*.]
+    **Option 2:** [Parties aim to reach long-term global low-emission transformation, in the context of sustainable development and equitable access to atmospheric space *[placeholder for further elaboration of the context, including CBDR, comprehensiveness, distribution of global carbon budget based on climate justice and etc.]*.]
 
-   **Option 3:** [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
+    **Option 3:** [In pursuit of the objective of the Convention set out in its Article 2,][and][to achieve the long-term temperature goal set out in Article 2 of this Agreement,] Parties aim to reach [by X date] [as soon as possible] [a peaking of global greenhouse gas emissions] [and rapid reductions of global greenhouse gas emissions thereafter to at least] [40-70] [70-95] per cent below 2010 levels by 2050] [and zero net greenhouse gas emissions in the period 2060 - 2080] [[bearing in mind that peaking will vary for different countries and will be longer for developing countries] [[and] bearing in mind social and economic development and poverty eradication are the first and overriding priorities of developing country Parties]][[in pursuing [decarbonisation of the global economy over the course of this century] [global low - carbon transformation] [global low-emission transformation]] [in the sharing of the remaining global emission budget]].
 
 2. **Individual efforts**
 
-   **Option 1:** Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil] [implement] [a][successive] nationally determined mitigation [contribution][commitment][component of the contribution referred to in Article 2 bis] (NDMC) which the Party [shall][should][other] implement.
+    **Option 1:** Each Party [shall][should][other] regularly [prepare] communicate [maintain] [fulfil] [implement] [a][successive] nationally determined mitigation [contribution][commitment][component of the contribution referred to in Article 2 bis] (NDMC) which the Party [shall][should][other] implement.
 
-   **Option 2:** [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
+    **Option 2:** [Each Party][All Parties] [recognizing the principle of common but differentiated responsibilities and respective capabilities] [shall][should][other] regularly [formulate] [prepare], [communicate] [submit], [maintain] [update] and [shall][should][other] [implement] [fulfil] [intended][nationally determined mitigation [commitments][contributions][actions]] [nationally determined mitigation commitments and/or contributions] [a nationally determined contribution with a mitigation component], [, which can be in the form of co-benefits resulting from [its] [the Party's] adaptation contributions and economic diversification plans] [programmes containing measures to mitigate climate change] *{hereafter* NDMCNDMCC}[placeholder of context, pples, art 4, support, etc.][^3]
 
 3. **Differentiated efforts**
 
-   **Option 1:** No text additional to Article 3.2
+    **Option 1:** No text additional to Article 3.2
    
-   **Option 2:**
+    **Option 2:**
 
-   3.3 In accordance with Article 4, paragraph 2, of the Convention, developed country Parties and other Parties included in Annex I of the Convention shall undertake quantified economy-wide absolute emission reduction commitments/targets, which are comparable, measurable, reportable and verifiable, covering all GHGs and implemented domestically without any conditions;
+    3.3 In accordance with Article 4, paragraph 2, of the Convention, developed country Parties and other Parties included in Annex I of the Convention shall undertake quantified economy-wide absolute emission reduction commitments/targets, which are comparable, measurable, reportable and verifiable, covering all GHGs and implemented domestically without any conditions;
 
-   3.3bis In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner, in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
+    3.3bis In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner, in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
 
-   3.3ter Developed country Parties' post-2020 economy-wide absolute emission reduction commitments/targets shall be progressively more ambitious over time.
+    3.3ter Developed country Parties' post-2020 economy-wide absolute emission reduction commitments/targets shall be progressively more ambitious over time.
 
-   3.3quat Developing country Parties' post-2020 diversified enhanced mitigation actions/efforts will be more ambitious than compared to their pre-2020 actions under the Bali Action Plan, supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.
+    3.3quat Developing country Parties' post-2020 diversified enhanced mitigation actions/efforts will be more ambitious than compared to their pre-2020 actions under the Bali Action Plan, supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.
 
-   **Option 3:** {add *following to 3.2 option* 1}: [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national *circumstances* { *principle based differentiation}*
+    **Option 3:** {add *following to 3.2 option* 1}: [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national *circumstances* { *principle based differentiation}*
 
-   **Option 4:** *{modulators to 3.2}*
+    **Option 4:** *{modulators to 3.2}*
 
-   3.3: Each Party that has previously [communicated] [implemented] absolute economy-wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time. *{modality based differentiation option 1 + progression of modalities}*
+    3.3: Each Party that has previously [communicated] [implemented] absolute economy-wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time. *{modality based differentiation option 1 + progression of modalities}*
 
-   3.3alt: Developed countries [and other Parties [in a position][who determine] to do so] should take the lead in mitigation efforts, including by [communicating] [and implementing] absolute economy-wide emissions reduction [or limitation] targets and all other Parties should aim to do so over time. *[developed countries taking the lead + modality based differentiation option 2]* [Parties may otherwise communicate quantified targets relative to business as usual, carbon intensity of GDP, or other reference point, or non-economy-wide actions.]
+    3.3alt: Developed countries [and other Parties [in a position][who determine] to do so] should take the lead in mitigation efforts, including by [communicating] [and implementing] absolute economy-wide emissions reduction [or limitation] targets and all other Parties should aim to do so over time. *[developed countries taking the lead + modality based differentiation option 2]* [Parties may otherwise communicate quantified targets relative to business as usual, carbon intensity of GDP, or other reference point, or non-economy-wide actions.]
 
-   3.3bis Each Party's *NDMC/NDMCC* [shall][should][other] reflect a progression beyond the Party's previous efforts and highest possible ambition *[level of ambition + progression]* [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
+    3.3bis Each Party's *NDMC/NDMCC* [shall][should][other] reflect a progression beyond the Party's previous efforts and highest possible ambition *[level of ambition + progression]* [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
 
-   3.3bis Alt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]* [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
+    3.3bis Alt Each Party's *NDMC/NDMCC* [shall][should][other] reflect the highest possible ambition *[level of ambition]* [in accordance with][taking into account] its common but differentiated responsibilities and respective capabilities, in light of different national circumstances *[principle based differentiation]*
 
-   3.x[^4] Notwithstanding Articles 3.2 and 3.3 above, Parties that are LDCs, SIDs may communicate their NDMC/NDMCC at their discretion, including information on strategies, plans and actions for low GHG emission development, reflecting their special circumstances. *{applies to all options for 3.3}*
+    3.x[^4] Notwithstanding Articles 3.2 and 3.3 above, Parties that are LDCs, SIDs may communicate their NDMC/NDMCC at their discretion, including information on strategies, plans and actions for low GHG emission development, reflecting their special circumstances. *{applies to all options for 3.3}*
 
 4. **Progression** Each Party's *NDMC/NDMCC* [shall][should][other] be progressively more ambitious over time. [The progression of ambition of developing country Parties' *NDMC/NDMCC* will be supported and enabled by enhanced finance, technology development and transfer and capacity-building by developed country Parties over time.]
 
@@ -168,7 +154,7 @@ No text
 
 7. **Features**[^5]
 
-   **Option 1:** [Each Party' s *NDMC/NDMCC* [shall] [should] [other]:
+    **Option 1:** [Each Party' s *NDMC/NDMCC* [shall] [should] [other]:
    
     1. [Be quantified or quantifiable;]
     2. [Be unconditional, at least in part;][^6][ with developing countries able to specify additional levels of mitigation to be implemented with support;]
@@ -187,9 +173,9 @@ No text
     15. [Ensure environmental integrity;]
     16. [Other.]]
 
-   **Option 2:**
+    **Option 2:**
 
-   [Each developed country Party's *NDMC/NDMCC* [and of those Parties in a position to do so][shall][should][other]:
+    [Each developed country Party's *NDMC/NDMCC* [and of those Parties in a position to do so][shall][should][other]:
 
     1. [Be quantified or quantifiable;]
     2. [Be unconditional;]
@@ -208,7 +194,7 @@ No text
     15. [Ensure environmental integrity;]>
     16. [Other.]]
 
-   [Each developing country Party's *NDMC/NDMCC* [shall][should][other]:
+    [Each developing country Party's *NDMC/NDMCC* [shall][should][other]:
 
     1. [Be expressed as an unconditional target and a conditional target, based on the provision of finance and/or technology transfer and/or capacity building;]
     2. [Be expressed as a sectoral or collection of targets;]
@@ -230,7 +216,7 @@ No text
 
 8. **Timing**
 
-    1. *First communication (streamlinedfrom 3.2, 3.6bis)*
+    1. *First communication*
 
         **Option 1:** Each Party's first *NDMC/NDMCC* is that listed in Annex [x] to the Agreement.[^7]
 
@@ -238,7 +224,7 @@ No text
 
         **Option 3:** No provision on first communication in Agreement [For Decision text]
 
-    2. **Subsequent communications (Merged proposal from (3.6 inc. elements of 3.2 bis, 3.4, 3.4 bis, 7, 3.6bis):**
+    2. *Subsequent communications*
 
         **Option 1:** *communication to 5 year time period*
 
@@ -258,7 +244,7 @@ No text
 
         Successive *NDMC/NDMCC* [shall] [will] [other] be communicated by Parties after completion of the current implementation cycle.
 
-    3. *Consultative period/ex ante (including parts of 3.2 bis, 4 and 4bis, 3.10) *
+    3. *Consultative period/ex ante (including parts of 3.2 bis, 4 and 4bis, 3.10)*
 
         **Option 1:** [In the 12 [-18] month period referred to in paragraph x] [The CMA shall facilitate [conduct]] [All Parties shall participate in] a [preparatory] process to [facilitate] [enhance] the clarity, transparency and understanding of the [intended] [proposed] *NDMC/NDMCC,* including their aggregate effect in the light of the long-term temperature goal in Article 2 of this agreement, including through the production of an aggregate synthesis report. The [preparatory] process shall be conducted in accordance with modalities and procedures to be adopted by the CMA at its first session 
 
@@ -284,7 +270,7 @@ No text
 
       *Additional notes on related provisions:*
 
-      ** 3.4: This restructuring does not deal with the accompanying information requirements, as currently outlined in 3.4. After stripping out the timings elements, the paragraph would read: There shall be a high-level session on mitigation, as part of the process outlined in Article 10 every 5 years, the modalities of which are to be in accordance with decision 1/CP.21 and any subsequent decisions by the CMA]*
+      \* *3.4: This restructuring does not deal with the accompanying information requirements, as currently outlined in 3.4. After stripping out the timings elements, the paragraph would read: There shall be a high-level session on mitigation, as part of the process outlined in Article 10 every 5 years, the modalities of which are to be in accordance with decision 1/CP.21 and any subsequent decisions by the CMA]*
 
 9. **Housing**
 
@@ -366,19 +352,13 @@ No text
 
     [The cooperation of Parties in the implementation of mitigation activities to implement NDMC/NDMCC may include cooperation through the Warsaw Framework for REDD-plus, mechanisms developed under the COP and cooperative approaches involving the international transfer of mitigation outcomes that meet standards and guidelines, to be decided upon by the CMA at its first session, that are aimed at ensuring environmental integrity and that ensure that they deliver real, permanent, additional and verified internationally transferrable mitigation outcomes that shall only be accounted once toward tracking progress toward NDCs. The CMA shall provide for a mechanism to support sustainable development, to be available to assist Parties in fulfilling their NDMC/NDMCC, while respecting the NDMC/NDMCC of the host Party.]
 
-    -   *Potential elements of elaboration of the option:*
-
-    -   *Approval by the Parties involved*
-
-    -   *Transfer of units/outcomes*
-
-    -   *Standards for environmental integrity*
-
-    -   *Real, verified, permanent, additional*
-
-    -   *Accounted once/no double counting (also see the relevance of article 3.5 of the text of October 5^th^ as well as 3.4 quinquies and paragraph 30(e) of the decision)*
-
-    -   *Transparency, accuracy, completeness, comparability, consistency*
+    - *Potential elements of elaboration of the option:*
+    - *Approval by the Parties involved*
+    - *Transfer of units/outcomes*
+    - *Standards for environmental integrity*
+    - *Real, verified, permanent, additional*
+    - *Accounted once/no double counting (also see the relevance of article 3.5 of the text of October 5^th^ as well as 3.4 quinquies and paragraph 30(e) of the decision)*
+    - *Transparency, accuracy, completeness, comparability, consistency*
 
     **Option 3:** Parties acknowledge the importance of cooperation instruments to enhance mitigation commitments at the local, regional and/or international level.
 
@@ -414,47 +394,40 @@ No text
 
 **Option 1:**
 
-1.  Establishes a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+1. Establishes a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
-(a) Enhance mitigation ambition and the mobilization of financing for climate action;
+    1. Enhance mitigation ambition and the mobilization of financing for climate action;
+    2. Incentivise and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party.
 
-(b) Incentivise and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party.
+2. The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
 
-2.  The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
+    *Additional elements to article 3 ter to be reflected in the article (these are also applicable to paragraph 34 of the decision):*
 
- *Additional elements to article 3 ter to be reflected in the article (these are also applicable to paragraph 34 of the decision):*
-
--   *Additional element - own contribution - EU submission on paragraph 34* "Deliver where desired by Participating Parties a net contribution to mitigation over and above the current NDMC/NDMCC of the Parties participating".
-
--   *Approval by the Parties involved*
-
--   *Article 3 ter enabling creation of multiple mechanisms*
-
--   *Sustainable development criteria of the host country*
+    - *Additional element - own contribution - EU submission on paragraph 34* "Deliver where desired by Participating Parties a net contribution to mitigation over and above the current NDMC/NDMCC of the Parties participating".
+    - *Approval by the Parties involved*
+    - *Article 3 ter enabling creation of multiple mechanisms*
+    - *Sustainable development criteria of the host country*
 
 **Option 2:**
 
- Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+1. Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
-(a) Enhance mitigation ambition and the mobilization of financing for climate action;
+    1. Enhance mitigation ambition and the mobilization of financing for climate action;
+    2. Incentivize and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party;
 
-(b) Incentivize and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party;
+2. Requests the SBSTA to elaborate modalities and procedures for the mechanism for sustainable development referred to in paragraph 34 above and report to the IPC at its [X] session with a view to the IPC making recommendations, for consideration and adoption by the CMA at its first session, that inter alia:
 
- Requests the SBSTA to elaborate modalities and procedures for the mechanism for sustainable development referred to in paragraph 34 above and report to the IPC at its [X] session with a view to the IPC making recommendations, for consideration and adoption by the CMA at its first session, that inter alia:
-
-(c) Provide, where desired by the participating Parties, for the creation and issuance of real, permanent, additional and verified mitigation outcomes that may be used to meet NDMC/NDMCC in a manner that is supplementary to domestic action, is consistent with the rules and guidance for accounting, and provides for a share of proceeds for adaptation;
-
-(d) Deliver, where desired by participating Parties, a net decrease or avoidance of emissions;
-
-(e) Build on the mechanism defined in Article 12 of the Kyoto Protocol and related decisions of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol;] {paragraph 34 option 1 of the decision}
+    1. Provide, where desired by the participating Parties, for the creation and issuance of real, permanent, additional and verified mitigation outcomes that may be used to meet NDMC/NDMCC in a manner that is supplementary to domestic action, is consistent with the rules and guidance for accounting, and provides for a share of proceeds for adaptation;
+    2. Deliver, where desired by participating Parties, a net decrease or avoidance of emissions;
+    3. Build on the mechanism defined in Article 12 of the Kyoto Protocol and related decisions of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol;] {paragraph 34 option 1 of the decision}
 
 **Option 3**
 
- [For the purpose of meeting a portion of its mitigation commitment under Article 3, any Party may elect to use certified units (CU) generated under the new market-based mechanism defined under decision 2/CP.17, paragraph 83, subject to the adoption by the CMA of modalities and procedures elaborating each of the elements in decision 1/CP.18 paragraph 51, and the adoption of eligibility rules for participation which promote fair and equitable access for all Parties. These modalities and procedures shall ensure that the design and operation of the mechanism delivers net global emission reductions, through the cancellation of a share of units generated, transferred, used or acquired from offsetting activities.]
+[For the purpose of meeting a portion of its mitigation commitment under Article 3, any Party may elect to use certified units (CU) generated under the new market-based mechanism defined under decision 2/CP.17, paragraph 83, subject to the adoption by the CMA of modalities and procedures elaborating each of the elements in decision 1/CP.18 paragraph 51, and the adoption of eligibility rules for participation which promote fair and equitable access for all Parties. These modalities and procedures shall ensure that the design and operation of the mechanism delivers net global emission reductions, through the cancellation of a share of units generated, transferred, used or acquired from offsetting activities.]
 
 **Option 4:**
 
- Establishes a mechanism to support holistic and integrated approaches to sustainable development in harmony with nature to be available to assist developing country Parties in fulfilling their NDMC/NDMCC including in a balanced manner mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+Establishes a mechanism to support holistic and integrated approaches to sustainable development in harmony with nature to be available to assist developing country Parties in fulfilling their NDMC/NDMCC including in a balanced manner mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
 (a) Enhance mitigation and adaptation ambition and the provision mobilization of public financing technology transfer and capacity building in an integrated manner for climate action;
 
@@ -466,308 +439,267 @@ No text
 
 The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
 
-**Option 5:** No Article 3ter.
+**Option 5:**
+
+No Article 3ter.
 
 ### Article 4 *(adaptation)*
 
-1.
+1. **Option 1:** Parties hereby establish the [global goal][long-term vision] of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, [in accordance with the objective, principles and provisions of the Convention, including common but differentiated responsibilities and respective capabilities, with a view to [enabling climate resilient sustainable development and] ensuring adaptation in the context of the goal of holding the increase in the global average temperature [below 2 C][below [2 or] 1.5 C] referred to in Article 2 of this Agreement].
 
- **Option 1:** Parties hereby establish the [global goal][long-term vision] of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, [in accordance with the objective, principles and provisions of the Convention, including common but differentiated responsibilities and respective capabilities, with a view to [enabling climate resilient sustainable development and] ensuring adaptation in the context of the goal of holding the increase in the global average temperature [below 2 C][below [2 or] 1.5 C] referred to in Article 2 of this Agreement].
+    Parties recognize that adaptation is a [global] challenge faced by all with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems[, taking into account the urgent and immediate needs of those developing countries that are particularly vulnerable].
 
- Parties recognize that adaptation is a [global] challenge faced by all with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems[, taking into account the urgent and immediate needs of those developing countries that are particularly vulnerable].
+    **Option 2:** Parties share the goal of increasing resilience and reducing vulnerability to climate change, recognizing that adaptation is a challenge faced by all, with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems.
 
- **Option 2:** Parties share the goal of increasing resilience and reducing vulnerability to climate change, recognizing that adaptation is a challenge faced by all, with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems.
+2. **Option 1:** [Parties recognize that adaptation will be needed regardless of the level of mitigation reached and that [less adaptation will be needed if[, inter alia,] their collective mitigation efforts are greater].]
 
- 2. **Option 1:** [Parties recognize that adaptation will be needed regardless of the level of mitigation reached and that [less adaptation will be needed if[, inter alia,] their collective mitigation efforts are greater].]
+    **Option 2:** [The [global goal][long-term vision] for adaptation shall be the basis for, inter alia:
 
- **Option 2:** [The [global goal][long-term vision] for adaptation shall be the basis for, inter alia:
+    1. Assessment of the adequacy of support from developed country Parties[[^9]] to developing country Parties[[^10]] and a platform to undertake such an assessment through strengthened measurement, reporting, and verification of support;
+    2. Recognition of adaptation efforts of developing countries;
+    3. Recognition of increased adaptation needs and associated costs in light of mitigation efforts, taking into account that adaptation will be needed regardless of the level of mitigation reached, and also taking into account the relationship between aggregate mitigation ambition, associated climate change impacts, and adaptation needs and cost, and recognizing there are limits to adaptation.]
 
-(a) Assessment of the adequacy of support from developed country Parties[[^9]] to developing country Parties[[^10]] and a platform to undertake such an assessment through strengthened measurement, reporting, and verification of support;
+    **Option 3:** no text
 
-(b) Recognition of adaptation efforts of developing countries;
+3. **Option 1:** Parties [acknowledge][X] that adaptation action should follow a country-driven, gender-responsive, participatory and fully transparent approach, [respecting [human rights][right to life][rights of people under occupation] and] taking into consideration vulnerable groups, communities and ecosystems, and should be based on and guided by the best available science and[, as appropriate,] traditional and indigenous [and local knowledge systems][[peoples knowledge] and [local] knowledge,] [taking into account relevant activity on adaptation of UN specialized organizations] with a view to integrating adaptation into relevant social, economic and environmental policies and actions, where appropriate.
 
-(c) Recognition of increased adaptation needs and associated costs in light of mitigation efforts, taking into account that adaptation will be needed regardless of the level of mitigation reached, and also taking into account the relationship between aggregate mitigation ambition, associated climate change impacts, and adaptation needs and cost, and recognizing there are limits to adaptation.]
+    **Option 2:** Parties acknowledge that adaptation action should follow a country-driven, gender-responsive, participatory and fully transparent approach, taking into consideration vulnerable groups, communities and ecosystems, and should be based on and guided by the best available science and, as appropriate, traditional indigenous and local knowledge systems, [taking into account relevant activity on adaptation of UN specialized organizations,] with a view to integrating adaptation into relevant socio-economic and environmental policies and actions, where appropriate.
 
- **Option 3:** no text
+4. Parties further recognize the importance of [international cooperation and] support for adaptation efforts and the importance of taking into account the needs of those developing countries that are particularly vulnerable, recognizing the particular vulnerabilities of Least Developed Countries and Small Island Developing States. [Parties included in Annex II of the Convention shall enhance the support for the implementation of paragraph 7 of this Article, national adaptation plans and the other adaptation actions, in accordance with the provisions of Article 4 of the Convention, recognizing the urgent and immediate needs and special circumstances of developing country Parties, especially those that are particularly vulnerable.]
 
-3.  **Option 1:** Parties [acknowledge][X] that adaptation action should follow a country-driven, gender-responsive, participatory and fully transparent approach, [respecting [human rights][right to life][rights of people under occupation] and] taking into consideration vulnerable groups, communities and ecosystems, and should be based on and guided by the best available science and[, as appropriate,] traditional and indigenous [and local knowledge systems][[peoples knowledge] and [local] knowledge,] [taking into account relevant activity on adaptation of UN specialized organizations] with a view to integrating adaptation into relevant social, economic and environmental policies and actions, where appropriate.
+5. Parties [shall][should] enhance [their] cooperation, including with respect to:
 
- **Option 2:** Parties acknowledge that adaptation action should follow a country-driven, gender-responsive, participatory and fully transparent approach, taking into consideration vulnerable groups, communities and ecosystems, and should be based on and guided by the best available science and, as appropriate, traditional indigenous and local knowledge systems, [taking into account relevant activity on adaptation of UN specialized organizations,] with a view to integrating adaptation into relevant socio-economic and environmental policies and actions, where appropriate.
+    (a) Sharing information, good practices, experiences and lessons learned[,including through a knowledge dimension informed by science, planning and policy aspects to implement adaptation action;]
+    (b) [Strengthening institutional arrangements [under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to the Parties];
+    (c) [Strengthening information available to underscore the importance of systematic observation of the climate system for advancing scientific knowledge on climate change and advising informed policy-making to include] [early warning and emergency response preparedness][comprehensive climate risk management];
+    (d) [Assessment for the adequacy of support referred to in paragraph 2 (option 2 (a)) above, with a view to ensuring transparency and accountability;]
+    (e) [Assisting developing countries to identify adaptation needs, priorities, support provided and received for adaptation actions and efforts, challenges and gaps encouraging good practices.]
+    (f) [Improving the effectiveness and durability of adaptation actions]
 
-4.  Parties further recognize the importance of [international cooperation and] support for adaptation efforts and the importance of taking into account the needs of those developing countries that are particularly vulnerable, recognizing the particular vulnerabilities of Least Developed Countries and Small Island Developing States. [Parties included in Annex II of the Convention shall enhance the support for the implementation of paragraph 7 of this Article, national adaptation plans and the other adaptation actions, in accordance with the provisions of Article 4 of the Convention, recognizing the urgent and immediate needs and special circumstances of developing country Parties, especially those that are particularly vulnerable.]
+6. Each Party, in accordance with [Article 4, paragraph 1 of the Convention and] its national circumstances and priorities [shall][should] engage in [a] [national] adaptation planning [process], [including national adaptation plans,] and/or enhance other relevant plans, policies, actions, and/or contributions, which could include:
 
-5.  Parties [shall][should] enhance [their] cooperation, including with respect to:
+    (a) Assessments of climate change impacts [and][or] vulnerability [with a view to identifying the vulnerable people, places, ecosystems and sectors];
+    (b) [Prioritizing action with respect to the most vulnerable people, places, [and] ecosystems [and sectors];]
+    (c) Strengthening [governance and enabling environments for][arrangements for implementation of] adaptation;
+    (d) Monitoring[, reporting], evaluating, and learning from, adaptation plans, policies, programmes and actions;
+    (e) [Building resilience of socio-economic and ecological systems, including through economic diversification and sustainable management of natural resources;]
+    (f) [Enhancing of implementation of plans, policies and actions in a manner that is continuous and shall have continuous and enhanced international support.]
+    (g) [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions, in the context of broader economic and development efforts.]
 
-<!-- -->
+7. Each Party [shall][should][may] submit [[an] adaptation communication[s]][communications or undertakings on adaptation] that [shall][should][may][, with a view to sharing good practices, experiences, and lessons learned, including on progress in implementing adaptation action, and to build capacity] include:
 
-(a) Sharing information, good practices, experiences and lessons learned[,including through a knowledge dimension informed by science, planning and policy aspects to implement adaptation action;]
+    (a) Its priorities[, experiences, efforts], needs, plans [and actions];
+    (b) [The level of support needed by developing country Parties in order to enhance adaptation action;]
+    (c) [Actions on provision of support to developing country Parties by developed country Parties;]
 
-(b) [Strengthening institutional arrangements [under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to the Parties];
+8. The [adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, [shall][should][may] be:
 
-(c) [Strengthening information available to underscore the importance of systematic observation of the climate system for advancing scientific knowledge on climate change and advising informed policy-making to include] [early warning and emergency response preparedness][comprehensive climate risk management];
+    (a) Submitted independently[, included in,] or in conjunction with another communication\^ including a national adaptation plan, an [intended] nationally determined contribution, and/or a national communication][, in a manner that does not create an additional burden to [developing country] Parties;]
+    (b) Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
 
-(d) [Assessment for the adequacy of support referred to in paragraph 2 (option 2 (a)) above, with a view to ensuring transparency and accountability;]
+         Option 2: no text
 
-(e) [Assisting developing countries to identify adaptation needs, priorities, support provided and received for adaptation actions and efforts, challenges and gaps encouraging good practices.]
+9. **Option 1:** The [[an] adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above shall be [recorded in [a registry][[another][other] modalit[y][ies]]] made publicly available by the secretariat [on the UNFCCC website][in accordance with modalities to be decided by the [CMA][CMP] at its first session].
 
-(f) [Improving the effectiveness and durability of adaptation actions]
-
-<!-- -->
-
-6.  Each Party, in accordance with [Article 4, paragraph 1 of the Convention and] its national circumstances and priorities [shall][should] engage in [a] [national] adaptation planning [process], [including national adaptation plans,] and/or enhance other relevant plans, policies, actions, and/or contributions, which could include:
-
-<!-- -->
-
-(a) Assessments of climate change impacts [and][or] vulnerability [with a view to identifying the vulnerable people, places, ecosystems and sectors];
-
-(b) [Prioritizing action with respect to the most vulnerable people, places, [and] ecosystems [and sectors];]
-
-(c) Strengthening [governance and enabling environments for][arrangements for implementation of] adaptation;
-
-(d) Monitoring[, reporting], evaluating, and learning from, adaptation plans, policies, programmes and actions;
-
-<!-- -->
-
-(a) [Building resilience of socio-economic and ecological systems, including through economic diversification and sustainable management of natural resources;]
-
-(b) [Enhancing of implementation of plans, policies and actions in a manner that is continuous and shall have continuous and enhanced international support.]
-
-(c) [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions, in the context of broader economic and development efforts.]
-
-<!-- -->
-
-7.  Each Party [shall][should][may] submit [[an] adaptation communication[s]][communications or undertakings on adaptation] that [shall][should][may][, with a view to sharing good practices, experiences, and lessons learned, including on progress in implementing adaptation action, and to build capacity] include:
-
-<!-- -->
-
-(a) Its priorities[, experiences, efforts], needs, plans [and actions];
-
-(b) [The level of support needed by developing country Parties in order to enhance adaptation action;]
-
-(c) [Actions on provision of support to developing country Parties by developed country Parties;]
-
-<!-- -->
-
-8.  The [adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, [shall][should][may] be:
-
-<!-- -->
-
-(a) Submitted independently[, included in,] or in conjunction with another communication\^ including a national adaptation plan, an [intended] nationally determined contribution, and/or a national communication][, in a manner that does not create an additional burden to [developing country] Parties;]
-
-(b) Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
-
- Option 2: no text
-
-9.  **Option 1:** The [[an] adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above shall be [recorded in [a registry][[another][other] modalit[y][ies]]] made publicly available by the secretariat [on the UNFCCC website][in accordance with modalities to be decided by the [CMA][CMP] at its first session].
-
- **Option 2:** no text
+   **Option 2:** no text
 
 10. **Option 1:** [There shall be a [high-level session][global stocktake] on adaptation every [X] years, with the purpose of [raising the profile of adaptation efforts undertaken and considering experiences, challenges, and future priorities, with a view to increasing the effectiveness of adaptation actions][enhancing implementation of adaptation action based on the [an adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, assessing the adequacy of support, and recognizing adaptation efforts of developing countries], and guided by modalities to be adopted by the [CMA][CMP] at its first session.]
 
- **Option 2:** [The [CMA][CMP] shall facilitate the communication of adaptation efforts for the stocktake referred to in Article 10.]
+   **Option 2:** [The [CMA][CMP] shall facilitate the communication of adaptation efforts for the stocktake referred to in Article 10.]
 
- **Option 3:** no text
+   **Option 3:** no text
 
 11. **Option 1:** [The Adaptation Committee and the Least Developed Countries Expert Group[, the Adaptation Fund, the Green Climate Fund, LDCF, SCCF, the Technology Executive Committee, the Consultative Group of Experts on National Communications from Parties not included in Annex I to the Convention, and other relevant bodies] shall serve this Agreement[, be enhanced and their work intensified, as appropriate, within their respective mandates][under the guidance by the CMA].]
 
- **Option 2:** Institutional arrangements for adaptation under the Convention shall serve this agreement. The CMA shall, based on a review of institutional arrangements under the Convention, further elaborate the adaptation framework for this Agreement, in order to enhance its coherence and effectiveness, building on, consolidating and coordinating institutional arrangements relevant to adaptation under the Convention.
+    **Option 2:** Institutional arrangements for adaptation under the Convention shall serve this agreement. The CMA shall, based on a review of institutional arrangements under the Convention, further elaborate the adaptation framework for this Agreement, in order to enhance its coherence and effectiveness, building on, consolidating and coordinating institutional arrangements relevant to adaptation under the Convention.
 
 12. **Option 1:** [[Developing country] Parties [in need][other Parties in need of support] are eligible for support in the implementation of this Article]
 
- **Option 2:** [Developed country Parties shall provide developing country Parties, taking into account the need of those that are particularly vulnerable, with long-term, scaled-up, predictable, new and additional finance, technology and capacity-building, consistent with relevant provisions of the Convention, to implement urgent, short-, medium- and long-term adaptation actions, plans, programmes and projects at the local, national, subregional and regional levels, in and across different economic and social sectors and ecosystems][Developed countries [shall][should] transfer technology, in particular for early warning systems through United Nations mechanisms, in order to make it accessible for all].
+    **Option 2:** [Developed country Parties shall provide developing country Parties, taking into account the need of those that are particularly vulnerable, with long-term, scaled-up, predictable, new and additional finance, technology and capacity-building, consistent with relevant provisions of the Convention, to implement urgent, short-, medium- and long-term adaptation actions, plans, programmes and projects at the local, national, subregional and regional levels, in and across different economic and social sectors and ecosystems][Developed countries [shall][should] transfer technology, in particular for early warning systems through United Nations mechanisms, in order to make it accessible for all].
 
- **Option 3:** no text *(text on adaptation support to be considered in Articles 6, 7, 8, and 9)*
+    **Option 3:** no text *(text on adaptation support to be considered in Articles 6, 7, 8, and 9)*
 
 ### Article 5 *(loss and damage)*
 
 **Option I:**
 
-1.  An international mechanism to address loss and damage is hereby defined under this agreement/protocol and shall be bound by the principles and provisions of the Convention, in particular common but differentiated responsibilities and respective capabilities.
+1. An international mechanism to address loss and damage is hereby defined under this agreement/protocol and shall be bound by the principles and provisions of the Convention, in particular common but differentiated responsibilities and respective capabilities.
 
-2.  The purpose of the mechanism shall be to promote and support the development and implementation of approaches to address loss and damage associated with the adverse effects of climate change, inter alia, extreme events and slow onset events, in developing countries that are particularly vulnerable to the adverse effects of climate change.
+2. The purpose of the mechanism shall be to promote and support the development and implementation of approaches to address loss and damage associated with the adverse effects of climate change, inter alia, extreme events and slow onset events, in developing countries that are particularly vulnerable to the adverse effects of climate change.
 
-3.  The international mechanism on loss and damage shall draw upon, further develop and elaborate on the work of the Warsaw International Mechanism on Loss and Damage pursuant to relevant COP decisions, including the development of modalities and procedures for the mechanism's operation and support. It can involve, as appropriate, existing bodies and expert groups under the Convention, as well as relevant organizations and expert bodies outside the Convention, and be informed by relevant precedents in international law.
+3. The international mechanism on loss and damage shall draw upon, further develop and elaborate on the work of the Warsaw International Mechanism on Loss and Damage pursuant to relevant COP decisions, including the development of modalities and procedures for the mechanism's operation and support. It can involve, as appropriate, existing bodies and expert groups under the Convention, as well as relevant organizations and expert bodies outside the Convention, and be informed by relevant precedents in international law.
 
-4.  The international mechanism on loss and damage shall be subject to the authority and guidance of the governing body/CMP/CMA and supported through the financial mechanism of the Convention.
+4. The international mechanism on loss and damage shall be subject to the authority and guidance of the governing body/CMP/CMA and supported through the financial mechanism of the Convention.
 
-5.  The governing body/CMP/CMA shall, at its first session, establish a climate change displacement coordination facility to help coordinate efforts to address the displacement of people as a result of the extreme impacts of climate change.
+5. The governing body/CMP/CMA shall, at its first session, establish a climate change displacement coordination facility to help coordinate efforts to address the displacement of people as a result of the extreme impacts of climate change.
 
-6.  The governing body/CMP/CMA shall, at its first session, initiate a process to develop approaches to address irreversible and permanent damage resulting from human-induced climate change, and shall endeavour to complete this process within four years.]
+6. The governing body/CMP/CMA shall, at its first session, initiate a process to develop approaches to address irreversible and permanent damage resulting from human-induced climate change, and shall endeavour to complete this process within four years.]
 
 **Option II:** No reference to loss and damage (no Article 5).]
 
 ### Article 6 *(finance)*
 
-***Option 1:***
+**Option 1:**
 
-1.  [Over time, [all] finance flows should [promote][and][be consistent with] the transformation to low-emission and climate resilient societies and economies.]
+1. [Over time, [all] finance flows should [promote][and][be consistent with] the transformation to low-emission and climate resilient societies and economies.]
 
-2.  [To this end, all Parties shall take action to mobilize, and/or facilitate the mobilisation of, climate finance in line with their respective and evolving responsibilities and capabilities. Some Parties may need support in order to take action.]
+2. [To this end, all Parties shall take action to mobilize, and/or facilitate the mobilisation of, climate finance in line with their respective and evolving responsibilities and capabilities. Some Parties may need support in order to take action.]
 
-3.  [The actions taken by Parties in the mobilization of climate finance shall reflect and be dynamically adapted to future changes in needs, developments and environmental and economic realities, reflecting evolving capabilities and responsibilities.]
+3. [The actions taken by Parties in the mobilization of climate finance shall reflect and be dynamically adapted to future changes in needs, developments and environmental and economic realities, reflecting evolving capabilities and responsibilities.]
 
-4.  [[Developed country Parties should take the lead and][Developed country Parties[, Parties with economies in transition] [and Parties [in a position][with capacity] to do so]] [All Parties [in a position][with capacity] to do so] [shall][should][other] provide support to assist developing country Parties with respect to both mitigation and adaptation [and others in a position to do so should complement such efforts].]
+4. [[Developed country Parties should take the lead and][Developed country Parties[, Parties with economies in transition] [and Parties [in a position][with capacity] to do so]] [All Parties [in a position][with capacity] to do so] [shall][should][other] provide support to assist developing country Parties with respect to both mitigation and adaptation [and others in a position to do so should complement such efforts].]
 
-***Option 2:***
+**Option 2:**
 
 1. [In the implementation of this Agreement, developed country Parties and other developed Parties included in Annex II to the Convention shall provide and mobilize new and additional, adequate, predictable, accessible, sustained and scaled-up financial resources to developing countries to enhance the implementation of their policies, strategies, regulations, and action plans and their climate change actions with respect to both mitigation and adaptation to contribute to the achievement of the objective of this Agreement, meeting costs of adaptation, addressing loss and damage and including access to and transfer of environmentally-sound technologies and capacity-building, based on the principles and in accordance with the provisions of the Convention.] *{This paragraph would replace option 1 paragraphs 1 to 4}*
 
 2. [Parties [[shall][should][other] take appropriate steps to][should promote the mobilization of climate finance from a wide variety of instruments and channels, including public, private, bilateral, multilateral, domestic, and international. In this regard]:
- - [Recognizing the importance of mobilizing domestic resources [in the first instance], Parties [in a position][with capacity] to do so should provide support to assist developing country Parties in need of support with respect to both mitigation and adaptation;]
 
- 	*{Substantive overlap with option 1 paragraph 4 and option 2 paragraph 1}*
+    1. [Recognizing the importance of mobilizing domestic resources [in the first instance], Parties [in a position][with capacity] to do so should provide support to assist developing country Parties in need of support with respect to both mitigation and adaptation;]
 
- - Parties [shall][should] strive to improve domestic [and international] enabling environments [and policy frameworks] to [attract] [and] [mobilize] low-emission, climate-resilient [finance and] investment, noting that cooperative action and support may enhance such efforts;
+      *{Substantive overlap with option 1 paragraph 4 and option 2 paragraph 1}*
+    2. Parties [shall][should] strive to improve domestic [and international] enabling environments [and policy frameworks] to [attract] [and] [mobilize] low-emission, climate-resilient [finance and] investment, noting that cooperative action and support may enhance such efforts;
+    3. [Parties should] [prioritize the provision of] [recognize the importance of providing] [the most concessional finance] [grant-based [and concessional finance][support]] to the poorest, most vulnerable, and/or those with the least ability to mobilize other resources, [including][especially] for adaptation[, with priority given to financing for activities that are readily implementable, scalable, results based and deliver co-benefits];]
+    4. [Prioritize financial support for results-based payments for verifiable achieved emission reductions related to existing approaches under the Convention;]
+    5. [Parties should integrate climate considerations, including resilience, into their domestic development plans, international development assistance, and domestic and international investments;]
+    6. [Parties should [reduce international support for high-emission [and maladaptive] investments] [and[/or]][or] [enhance international support for low-emission and climate-resilient investments].]
 
- - [Parties should] [prioritize the provision of] [recognize the importance of providing] [the most concessional finance] [grant-based [and concessional finance][support]] to the poorest, most vulnerable, and/or those with the least ability to mobilize other resources, [including][especially] for adaptation[, with priority given to financing for activities that are readily implementable, scalable, results based and deliver co-benefits];]
+3. [Parties [shall][should][other] explore options for simplifying procedures for accessing support [and improving readiness], in particular for the LDCs and SIDS.]
 
- - [Prioritize financial support for results-based payments for verifiable achieved emission reductions related to existing approaches under the Convention;]
+4. [Parties [shall][should][other] implement and improve where necessary the pricing of greenhouse gas emissions.]
 
- - [Parties should integrate climate considerations, including resilience, into their domestic development plans, international development assistance, and domestic and international investments;]
+5. **Option 1** [[Parties recognize the importance of the Green Climate Fund and other multilateral mechanisms [and other efforts] for] The mobilization of climate finance [that] [shall][should][other] be scaled up [in a predictable and transparent manner] [beyond previous efforts] [from USD 100 billion per year] from 2020.]
 
- - [Parties should [reduce international support for high-emission [and maladaptive] investments] [and[/or]][or] [enhance international support for low-emission and climate-resilient investments].]
+    **Option 2**. [The provision and mobilization of financial resources by developed country Parties and other developed Parties included in Annex II shall represent a progression beyond their previous efforts, and financial resources shall be scaled up from a floor of US\$100 billion per year from 2020, including a clear burden-sharing formula among them, and in line with needs and priorities identified by developing country Parties in the context of contributing to the achievement of the objective (Article 2/XX) of this Agreement.
 
+    These resources shall be provided in a measurable, reportable and verifiable manner, and be based on clear road map with individual annual targets in the post-2020 period, with clearly identified pathways to annual expected levels of available resources towards achieving short-term quantified goals. It shall take into account an equitable regional distribution of financial resources and a gender-sensitive approach, and include the implementation of Articles 5 and 6 of the Convention.]
 
+    **Option 3**. [Enhancing the scale and effectiveness of climate finance depends on the actions set forward in paragraph 5.]
 
-3.[Parties [shall][should][other] explore options for simplifying procedures for accessing support [and improving readiness], in particular for the LDCs and SIDS.]
+6. **Option 1**: [[Parties] [recognize][recognizing][note][noting] [the [desirability][role] of][that sources may include] a wide variety of sources, public and private, bilateral and multilateral, including [alternative][additional] sources[, noting the need for a diversity of sources and instruments to fit recipients' changing economic circumstances].]
 
-4.[Parties [shall][should][other] implement and improve where necessary the pricing of greenhouse gas emissions.]
+    **Option 2:** [Public funds, distinct from Official Development Assistance, will be the main source of financing, noting that sources may include a wide variety of sources, public and private, bilateral and multilateral, including additional sources to meet developing country needs for mitigation and adaptation actions. In the mobilization of finance from various sources, Parties shall abide by the principles of fiscal sovereignty and avoid incidence on developing country Parties[, particularly disguise distortions to trade].]
 
-5.**Option 1** [[Parties recognize the importance of the Green Climate Fund and other multilateral mechanisms [and other efforts] for] The mobilization of climate finance [that] [shall][should][other] be scaled up [in a predictable and transparent manner] [beyond previous efforts] [from USD 100 billion per year] from 2020.]
+7. **Option 1:** [[Developed country Parties [and other developed Parties included in Annex II]] [Developed country Parties[, Parties with economies in transition] and Parties [in a position][with capacity] to do so] [All Parties] [shall][should][other] [periodically] [prepare and] communicate [biennially on the provision and implementation] [[relevant, indicative] information] [on the [provision of financial resources, including quantitative and qualitative information on the] [projected][achieved] [efforts to mobilize climate finance][levels of public [climate finance][financial resources to be provided to developing country Parties]][about their plans related to paragraph 5, as appropriate].]
 
-**Option 2**. [The provision and mobilization of financial resources by developed country Parties and other developed Parties included in Annex II shall represent a progression beyond their previous efforts, and financial resources shall be scaled up from a floor of US\$100 billion per year from 2020, including a clear burden-sharing formula among them, and in line with needs and priorities identified by developing country Parties in the context of contributing to the achievement of the objective (Article 2/XX) of this Agreement.
+    **Option 2:** [Parties should periodically communicate relevant, indicative information about their plans related to paragraph 5, as appropriate.]
 
- These resources shall be provided in a measurable, reportable and verifiable manner, and be based on clear road map with individual annual targets in the post-2020 period, with clearly identified pathways to annual expected levels of available resources towards achieving short-term quantified goals. It shall take into account an equitable regional distribution of financial resources and a gender-sensitive approach, and include the implementation of Articles 5 and 6 of the Convention.]
+8. [The short-term collective quantified goal by developed country Parties shall be (periodically) reviewed and assessed based on needs and priorities identified by developing country Parties, in accordance with modalities and procedures to be developed by the CMA, in the context of achieving the objective of this Agreement.]
 
-**Option 3**. [Enhancing the scale and effectiveness of climate finance depends on the actions set forward in paragraph 5.]
+9. [The CMA shall facilitate the communication of finance efforts for the stocktake referred to in Article 10, taking into account the [annual reports][biennial assessment] of the Standing Committee on Finance.] *{Pending outcome of discussions on Article 10}*
 
-6.**Option 1**: [[Parties] [recognize][recognizing][note][noting] [the [desirability][role] of][that sources may include] a wide variety of sources, public and private, bilateral and multilateral, including [alternative][additional] sources[, noting the need for a diversity of sources and instruments to fit recipients' changing economic circumstances].]
+10. *[Placeholder: outcome on discussion on MRV and Article 9 on transparency]*
 
-**Option 2:** [Public funds, distinct from Official Development Assistance, will be the main source of financing, noting that sources may include a wide variety of sources, public and private, bilateral and multilateral, including additional sources to meet developing country needs for mitigation and adaptation actions. In the mobilization of finance from various sources, Parties shall abide by the principles of fiscal sovereignty and avoid incidence on developing country Parties[, particularly disguise distortions to trade].]
+11. *[Placeholder: notion of avoiding double counting]*
 
-7.**Option 1:** [[Developed country Parties [and other developed Parties included in Annex II]] [Developed country Parties[, Parties with economies in transition] and Parties [in a position][with capacity] to do so] [All Parties] [shall][should][other] [periodically] [prepare and] communicate [biennially on the provision and implementation] [[relevant, indicative] information] [on the [provision of financial resources, including quantitative and qualitative information on the] [projected][achieved] [efforts to mobilize climate finance][levels of public [climate finance][financial resources to be provided to developing country Parties]][about their plans related to paragraph 5, as appropriate].]
+12. [[Parties][The provision of [support][these scaled-up resources]] [should][shall] strive to [achieve a] balance [of] [adaptation support [relative to][and] mitigation support][50:50 allocation for mitigation and adaptation actions of developing country Parties], [bearing in mind][taking into account the] country-driven strategies, priorities and needs [of developing country Parties which are particularly vulnerable to the adverse effects of climate change, including small island developing States (SIDS), least-developed countries (LDCs), and Africa].]
 
-**Option 2:** [Parties should periodically communicate relevant, indicative information about their plans related to paragraph 5, as appropriate.]
+13. [Parties recognize that financing for adaptation should be public and grant-based.]
 
-8.[The short-term collective quantified goal by developed country Parties shall be (periodically) reviewed and assessed based on needs and priorities identified by developing country Parties, in accordance with modalities and procedures to be developed by the CMA, in the context of achieving the objective of this Agreement.]
+14. [The provision of financial resources, including for the transfer of technology shall ensure facilitated and enhanced direct access, pursue a country-driven approach, delivered through simplified procedures, and continuous readiness support in particular to capacity-constrained developing countries, in particular LDCs and SIDs. It shall likewise ensure adequacy and predictability of resources, and avoid double counting.]
 
-9.[The CMA shall facilitate the communication of finance efforts for the stocktake referred to in Article 10, taking into account the [annual reports][biennial assessment] of the Standing Committee on Finance.] *{Pending outcome of discussions on Article 10}*
+15. [The CMA shall ensure that adequate support is available to the International Mechanism to address Loss and Damage as defined in Article (XX), as well as to promote and support the development and implementation of approaches to address irreversible and permanent damage resulting from human-induced climate change.]
 
-10.*[Placeholder: outcome on discussion on MRV and Article 9 on transparency]*
+16. [Parties may transfer mitigation outcomes for the purpose of fulfilling commitments and supporting actions under this Agreement in accordance with relevant COP decisions.]
 
-11.*[Placeholder: notion of avoiding double counting]*
+    *{Placement proposal: mitigation Article of the Agreement section}*
 
-12.[[Parties][The provision of [support][these scaled-up resources]] [should][shall] strive to [achieve a] balance [of] [adaptation support [relative to][and] mitigation support][50:50 allocation for mitigation and adaptation actions of developing country Parties], [bearing in mind][taking into account the] country-driven strategies, priorities and needs [of developing country Parties which are particularly vulnerable to the adverse effects of climate change, including small island developing States (SIDS), least-developed countries (LDCs), and Africa].]
+17. [The Financial Mechanism, as [established by][defined in] Article 11 of the Convention, shall serve as the financial mechanism of this Agreement, including [the Green Climate Fund and the Global Environment Facility as] its operating entities[, in line with their respective mandates][The Financial Mechanism established by Article 11 of the Convention, including its operating entities, shall serve as the Financial Mechanism of this Agreement].]
 
-13.[Parties recognize that financing for adaptation should be public and grant-based.]
+    - (17bis) [Its operation shall remain open to be entrusted to other existing international entities. The guidance to the entity or entities entrusted with the operation of the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply mutatis mutandis to the provisions of the paragraph.]
 
-14.[The provision of financial resources, including for the transfer of technology shall ensure facilitated and enhanced direct access, pursue a country-driven approach, delivered through simplified procedures, and continuous readiness support in particular to capacity-constrained developing countries, in particular LDCs and SIDs. It shall likewise ensure adequacy and predictability of resources, and avoid double counting.]
+      *{Placement proposal: issue to be addressed in decision paragraph 45}*
 
-15.[The CMA shall ensure that adequate support is available to the International Mechanism to address Loss and Damage as defined in Article (XX), as well as to promote and support the development and implementation of approaches to address irreversible and permanent damage resulting from human-induced climate change.]
+    - (17ter) [The Funds under the Convention such as the Special Climate Change Fund (SCCF) and the Least-Developed Countries Fund (LDCF), and the Adaptation Fund under the Kyoto Protocol to the UNFCCC (KP) shall also serve this Agreement. Other funds may be established under this Agreement as may be deemed necessary. These funds shall operate under the guidance and authority of the CMA in relation to activities to be developed and implemented under this Agreement.] *{Placementproposal: issue to be addressed in decision paragraphs 44 and 45}*
+    - (17quater) [The Adaptation Fund Board, established by decision 1/CMP.3 shall be designated as an operating entity entrusted with the operation of the financial mechanism, referred to in Article 6.20, for the implementation of this Agreement.] *{Placementproposal: issue to be addressed in Agreement on interim arrangements}*
 
-16.[Parties may transfer mitigation outcomes for the purpose of fulfilling commitments and supporting actions under this Agreement in accordance with relevant COP decisions.]
-
- *{Placement proposal: mitigation Article of the Agreement section}*
-
-17.[The Financial Mechanism, as [established by][defined in] Article 11 of the Convention, shall serve as the financial mechanism of this Agreement, including [the Green Climate Fund and the Global Environment Facility as] its operating entities[, in line with their respective mandates][The Financial Mechanism established by Article 11 of the Convention, including its operating entities, shall serve as the Financial Mechanism of this Agreement].]
-
- - [Its operation shall remain open to be entrusted to other existing international entities. The guidance to the entity or entities entrusted with the operation of the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply mutatis mutandis to the provisions of the paragraph.]
-
- *{Placementproposal: issue to be addressed in decision paragraph 45}*
-
- - [The Funds under the Convention such as the Special Climate Change Fund (SCCF) and the Least-Developed Countries Fund (LDCF), and the Adaptation Fund under the Kyoto Protocol to the UNFCCC (KP) shall also serve this Agreement. Other funds may be established under this Agreement as may be deemed necessary. These funds shall operate under the guidance and authority of the CMA in relation to activities to be developed and implemented under this Agreement.] *{Placementproposal: issue to be addressed in decision paragraphs 44 and 45}*
-
- - [The Adaptation Fund Board, established by decision 1/CMP.3 shall be designated as an operating entity entrusted with the operation of the financial mechanism, referred to in Article 6.20, for the implementation of this Agreement.] *{Placementproposal: issue to be addressed in Agreement on interim arrangements}*
-
-18.[The Standing Committee on Finance established under the Convention shall [serve this Agreement.] [assist the CMA in exercising its functions with respect to the Financial Mechanism of the Convention, in line with its functions and responsibilities established under the COP.] [Other thematic bodies of the Convention shall likewise assist the CMA, which may also establish other thematic bodies as may be necessary.]] *{Placement proposal: issue to be addressed in decision part; issue of other thematic bodies not appropriate for finance section of the agreement}*
+18. [The Standing Committee on Finance established under the Convention shall [serve this Agreement.] [assist the CMA in exercising its functions with respect to the Financial Mechanism of the Convention, in line with its functions and responsibilities established under the COP.] [Other thematic bodies of the Convention shall likewise assist the CMA, which may also establish other thematic bodies as may be necessary.]] *{Placement proposal: issue to be addressed in decision part; issue of other thematic bodies not appropriate for finance section of the agreement}*
 
 ### Article 7 *(technology development and transfer)*
 
 1. All Parties[, in accordance with the principles and provisions of the Convention, in particular Article 4 [and Article 11]], noting the importance of [meeting the] technology [requirements] for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing deployment and dissemination efforts, [shall][should] strengthen cooperative action [among Parties] [to accelerate and upscale] [on] [technology development and transfer] [through];
 
- [inter alia:
+   [inter alia:
 
- - [Improve endogenous capacities and enabling environment according to nationally determined needs and priorities, in accordance with Article 4.5 of the Convention]
+    1. [Improve endogenous capacities and enabling environment according to nationally determined needs and priorities, in accordance with Article 4.5 of the Convention]
+    2. Address barriers [in accessing to][for] the transfer of safe, appropriate and environmentally, and socially sound technologies [by developing countries]; and
+    3. Foster cooperative approaches to research and development].
 
- - Address barriers [in accessing to][for] the transfer of safe, appropriate and environmentally, and socially sound technologies [by developing countries]; and
+    **Option 1:** The [CMA] shall, at its first session, establish a global goal for technology development and transfer[, with the aim of improving the resilience of countries through adaptation and mitigation.][, under which][ In this regard] developed country Parties shall regularly prepare, communicate and implement their commitments on provision of developed country Parties' ready-for-transfer technologies and know-how as well as providing financial resources for collaborative research and development of environmentally sound technologies and enhancing the access of developing countries to such technologies, that match developing country Parties' technology needs, in order to progressively scale up support and cooperation for technology development and transfer, taking into account the limit to global average temperature increase referred to in Article 2, paragraph 2 of the Agreement.]
 
- - Foster cooperative approaches to research and development].
+    **Option 2:** No text
 
- **Option 1:** The [CMA] shall, at its first session, establish a global goal for technology development and transfer[, with the aim of improving the resilience of countries through adaptation and mitigation.][, under which][ In this regard] developed country Parties shall regularly prepare, communicate and implement their commitments on provision of developed country Parties' ready-for-transfer technologies and know-how as well as providing financial resources for collaborative research and development of environmentally sound technologies and enhancing the access of developing countries to such technologies, that match developing country Parties' technology needs, in order to progressively scale up support and cooperation for technology development and transfer, taking into account the limit to global average temperature increase referred to in Article 2, paragraph 2 of the Agreement.]
+3. **Option 1:** The CMA shall, at its first session, consider and adopt a technology framework in accordance with the guidelines contained in decision 1/CP.21. Such a technology framework would be intended to provide direction and overarching guidance to the work of the existing institutions in the medium and long term and to strengthen them.
 
- **Option 2:** No text
+    **Option 2:** The Technology Framework shall provide direction and overarching guidance in respect of technology assessments, identifying those with potential for high impact, and identifying options for enhancing access, and addressing barriers to their deployment. The framework shall further guide the work of the Technology [Mechanism] [institutions] [under this Agreement] in the medium to long term, and strengthen them.
 
-3.**Option 1:** The CMA shall, at its first session, consider and adopt a technology framework in accordance with the guidelines contained in decision 1/CP.21. Such a technology framework would be intended to provide direction and overarching guidance to the work of the existing institutions in the medium and long term and to strengthen them.
+4. **Option 1:** In accordance with Article 4, paragraph 5 of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties, free of cost, in order to enhance their actions to address the adverse effects of climate change.
 
- **Option 2:** The Technology Framework shall provide direction and overarching guidance in respect of technology assessments, identifying those with potential for high impact, and identifying options for enhancing access, and addressing barriers to their deployment. The framework shall further guide the work of the Technology [Mechanism] [institutions] [under this Agreement] in the medium to long term, and strengthen them.
+    **Option 2:** No text
 
-4.**Option 1:** In accordance with Article 4, paragraph 5 of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties, free of cost, in order to enhance their actions to address the adverse effects of climate change.
+5. **Option 1:** The [Technology Mechanism] [institutional arrangements for technology established under the Convention] shall [be strengthened and] serve this Agreement [by facilitating enhanced action on technology development and transfer].
 
- **Option 2:** No text
+    **Option 2:** The Technology Mechanism shall serve this Agreement and be strengthened by facilitating enhanced action which include inter alia; anchoring dedicated nodal research, development and demonstration facility on technology development and transfer.
 
-5.**Option 1:** The [Technology Mechanism] [institutional arrangements for technology established under the Convention] shall [be strengthened and] serve this Agreement [by facilitating enhanced action on technology development and transfer].
+6. **Option 1:** Developing country Parties are eligible for support in the implementation of this Article.
 
- **Option 2:** The Technology Mechanism shall serve this Agreement and be strengthened by facilitating enhanced action which include inter alia; anchoring dedicated nodal research, development and demonstration facility on technology development and transfer.
+    **Option 2:** [In accordance with Article 4, paragraphs 3[ and 5][, 5 and 9] of the Convention,] developed country Parties and other Parties included in Annex II to the Convention shall provide support, including financial support, for strengthening cooperative action the implementation of the technology framework through the Technology Mechanism. The availability of the financial support shall include through the Financial Mechanism.
 
-6.**Option 1:** Developing country Parties are eligible for support in the implementation of this Article.
+    **Option 3:** No text
 
- **Option 2:** [In accordance with Article 4, paragraphs 3[ and 5][, 5 and 9] of the Convention,] developed country Parties and other Parties included in Annex II to the Convention shall provide support, including financial support, for strengthening cooperative action the implementation of the technology framework through the Technology Mechanism. The availability of the financial support shall include through the Financial Mechanism.
+7. **Option 1:** Developed country Parties and other Parties included in Annex II to the Convention shall provide support for the research, development and application of environmentally sound technologies and facilitate the transfer of and access to such technologies for developing country Parties, including by, inter alia, strengthening cooperative action, providing financial resources to address barriers caused by the absence of domestic research and development capability and innovations, and enhancing access to environmentally sound technologies and know-how.
 
- **Option 3:** No text
-
-7.**Option 1:** Developed country Parties and other Parties included in Annex II to the Convention shall provide support for the research, development and application of environmentally sound technologies and facilitate the transfer of and access to such technologies for developing country Parties, including by, inter alia, strengthening cooperative action, providing financial resources to address barriers caused by the absence of domestic research and development capability and innovations, and enhancing access to environmentally sound technologies and know-how.
-
- **Option 2:** No text
+    **Option 2:** No text
 
 ### Article 8 *(capacity-building)*
 
- 1. **Option 1:** Capacity-building under this Agreement should facilitate the enhancement of ability and capacity in all areas on climate change for developing country Parties, particularly vulnerable developing countries like Least Developed Country Parties, Small Island States and Africa, in accordance with principles and provisions of the Convention to identify, design and implement adaptation and mitigation actions; facilitate technology development and the absorption of technology; facilitate access to finance; facilitate relevant aspects of education, training and public awareness; and facilitate the transparent, timely and accurate communication of information.
+1. **Option 1:** Capacity-building under this Agreement should facilitate the enhancement of ability and capacity in all areas on climate change for developing country Parties, particularly vulnerable developing countries like Least Developed Country Parties, Small Island States and Africa, in accordance with principles and provisions of the Convention to identify, design and implement adaptation and mitigation actions; facilitate technology development and the absorption of technology; facilitate access to finance; facilitate relevant aspects of education, training and public awareness; and facilitate the transparent, timely and accurate communication of information.
 
- **Option 2:** The objective of capacity building under this Agreement is to enhance the capacities of Parties, in particular vulnerable developing countries, including Least Developed Country Parties and Small Island States, to effectively implement this Agreement.
+    **Option 2:** The objective of capacity building under this Agreement is to enhance the capacities of Parties, in particular vulnerable developing countries, including Least Developed Country Parties and Small Island States, to effectively implement this Agreement.
 
- **Option 3:** Capacity-building under this Agreement should facilitate the enhancement of ability and capacity in all areas on climate change for developing country Parties, particularly vulnerable developing countries like Least Developed Country Parties, Small Island States and Africa, and other Parties in need of support, including countries with economies in transition, in accordance with principles and provisions of the Convention to identify, design and implement adaptation and mitigation actions; facilitate technology development and the absorption of technology; facilitate access to finance; facilitate relevant aspects of education, training and public awareness; and facilitate the transparent, timely and accurate communication of information.
+    **Option 3:** Capacity-building under this Agreement should facilitate the enhancement of ability and capacity in all areas on climate change for developing country Parties, particularly vulnerable developing countries like Least Developed Country Parties, Small Island States and Africa, and other Parties in need of support, including countries with economies in transition, in accordance with principles and provisions of the Convention to identify, design and implement adaptation and mitigation actions; facilitate technology development and the absorption of technology; facilitate access to finance; facilitate relevant aspects of education, training and public awareness; and facilitate the transparent, timely and accurate communication of information.
 
- **Option 4:** The objective of capacity building under this Agreement is to enhance the capacities of Parties, in particular Parties in need, to effectively implement this Agreement.
+    **Option 4:** The objective of capacity building under this Agreement is to enhance the capacities of Parties, in particular Parties in need, to effectively implement this Agreement.
 
-2.**Option 1:** Capacity-building should be based on and respond to national needs and foster country ownership of Parties, in particular for developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned and should be an effective, iterative process that is participatory, country-driven, cross-cutting and gender-responsive.
+2. **Option 1:** Capacity-building should be based on and respond to national needs and foster country ownership of Parties, in particular for developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned and should be an effective, iterative process that is participatory, country-driven, cross-cutting and gender-responsive.
 
- **Option 2:** Capacity-building should be country-driven, based on and responsive to national needs and foster country ownership by developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned, including under the Convention, and should be an effective, iterative process that is participatory, cross-cutting and gender-responsive.
+    **Option 2:** Capacity-building should be country-driven, based on and responsive to national needs and foster country ownership by developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned, including under the Convention, and should be an effective, iterative process that is participatory, cross-cutting and gender-responsive.
 
-3.**Option 1:** Developed country Parties shall scale up support to enhance the capacity of\
+3. **Option 1:** Developed country Parties shall scale up support to enhance the capacity of\
 developing country Parties to implement this Agreement, mainly through the financial\
 mechanism of the Convention.
 
- **Option 2:** All Parties should cooperate to enhance the capacity of developing country Parties in need of support to implement this Agreement.
+    **Option 2:** All Parties should cooperate to enhance the capacity of developing country Parties in need of support to implement this Agreement.
 
-4.**Option 1:** Developed country Parties shall regularly prepare, communicate and implement plans, policies, actions and measures on capacity-building support to developing country Parties, in order to progressively scale up such support and cooperation to enhance the capacity of developing country Parties to implement this Agreement, including through regional, bilateral and multilateral approaches.
+4. **Option 1:** Developed country Parties shall regularly prepare, communicate and implement plans, policies, actions and measures on capacity-building support to developing country Parties, in order to progressively scale up such support and cooperation to enhance the capacity of developing country Parties to implement this Agreement, including through regional, bilateral and multilateral approaches.
 
- **Option 2:** All Parties should regularly prepare and communicate actions or measures on capacity-building, in order to enhance the capacity of developing country Parties in need of support to implement this Agreement, including through regional, bilateral and multilateral approaches. Developing country Parties shall regularly communicate progress made on implementing any capacity-building plans, policies actions or measures, including the impact and estimated results of support received for capacity-building.
+    **Option 2:** All Parties should regularly prepare and communicate actions or measures on capacity-building, in order to enhance the capacity of developing country Parties in need of support to implement this Agreement, including through regional, bilateral and multilateral approaches. Developing country Parties shall regularly communicate progress made on implementing any capacity-building plans, policies actions or measures, including the impact and estimated results of support received for capacity-building.
 
- **Option 3:** No text (issue to be dealt with in the Article on transparency)
+    **Option 3:** No text (issue to be dealt with in the Article on transparency)
 
-5.**Option 1:** The provision of capacity-building, including under this Agreement, shall be enhanced through, inter alia, effective institutional arrangements. Existing institutional arrangements shall therefore be enhanced, as appropriate, to improve the provision of capacity-building. In order to further enhance and coordinate capacity-building consistent with this Agreement, an international capacity-building mechanism is hereby established to serve the Agreement.
+5. **Option 1:** The provision of capacity-building, including under this Agreement, shall be enhanced through, inter alia, effective institutional arrangements. Existing institutional arrangements shall therefore be enhanced, as appropriate, to improve the provision of capacity-building. In order to further enhance and coordinate capacity-building consistent with this Agreement, an international capacity-building mechanism is hereby established to serve the Agreement.
 
- **Option 2:** Institutional arrangements related to capacity-building serving this Agreement should enhance the effectiveness of capacity building efforts.
+    **Option 2:** Institutional arrangements related to capacity-building serving this Agreement should enhance the effectiveness of capacity building efforts.
 
 ### Article 8 bis
 
- **Option 1:** Parties shall cooperate and take appropriate measures to develop, adopt and implement policies, strategies, regulations and/or action plans on climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
+**Option 1:** Parties shall cooperate and take appropriate measures to develop, adopt and implement policies, strategies, regulations and/or action plans on climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
 
- **Option 2:** Parties [shall] [should] cooperate and take appropriate measures to enhance climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
+**Option 2:** Parties [shall] [should] cooperate and take appropriate measures to enhance climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
  
 ### Article 9 *(transparency)*
 
-1.  **Option 1:** A robust transparency framework covering both action and support, differentiated between developed and developing countries, building on the arrangements under the Convention, related COP decisions and mechanisms established by Cancun agreements (decision 1/CP.16), applicable to all Parties, providing flexibility to developing countries Parties is hereby established.
+1. **Option 1:** A robust transparency framework covering both action and support, differentiated between developed and developing countries, building on the arrangements under the Convention, related COP decisions and mechanisms established by Cancun agreements (decision 1/CP.16), applicable to all Parties, providing flexibility to developing countries Parties is hereby established.
 
- **Option 2:** A unified and robust transparency system, covering both action and support, with built in flexibility to take into account Parties' differing capacities, and applicable to all Parties is hereby established.
+    **Option 2:** A unified and robust transparency system, covering both action and support, with built in flexibility to take into account Parties' differing capacities, and applicable to all Parties is hereby established.
 
- **Option 3:** A robust, tiered transparency framework covering both action and support, applicable to all Parties, based on self-differentiation with no backsliding, national capabilities and INDCs, that builds on and enhances existing arrangements under the convention and Decision 1/CP. 16, is hereby established.
+    **Option 3:** A robust, tiered transparency framework covering both action and support, applicable to all Parties, based on self-differentiation with no backsliding, national capabilities and INDCs, that builds on and enhances existing arrangements under the convention and Decision 1/CP. 16, is hereby established.
 
- **Option 4:** Building on existing Convention arrangements, a transparency framework for action and support, that takes into account Parties different capacity and applicable to all Parties, is hereby established.
+    **Option 4:** Building on existing Convention arrangements, a transparency framework for action and support, that takes into account Parties different capacity and applicable to all Parties, is hereby established.
 
 *{A suggestion made that it is possible to merge 9.2 and 9.3 under one chapeau}*
 
-2.  The purpose of the system for transparency of action is to: **Option 1:**
+2. The purpose of the system for transparency of action is to: **Option 1:**
 
 <!-- -->
 
@@ -781,11 +713,11 @@ mechanism of the Convention.
 
  [(e) Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9.}*
 
- **Option 2:**
+    **Option 2:**
 
  Provide a clear understanding of climate change actions in the light of the objective as set by Article 2 of the Convention and consistent with the principles and commitments of Articles 3 and 4 of the Convention.
 
-3.  The purpose of the system for transparency of support is to:
+3. The purpose of the system for transparency of support is to:
 
 (a) Provide a clear understanding of the support provided and received [as relevant] by individual Parties [as well as needs of developing country Parties] [and assist Parties in identifying gaps in support provided and received], without placing an undue burden on SIDS and LDCs;
 
@@ -801,7 +733,7 @@ mechanism of the Convention.
 
 4. **Option 1:** Each Party[, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives, and circumstances,] [shall][should][other] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
 
- **Option 2:** Each Party [shall][should][other], [regularly] [biennially] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
+    **Option 2:** Each Party [shall][should][other], [regularly] [biennially] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
 
 (a) Its national inventory of anthropogenic emissions by sources and removals by sinks of greenhouse gases, [using common metrics and] comparable methodologies as agreed on by the [CMA][COP];
 
@@ -873,71 +805,71 @@ mechanism of the Convention.
 
 6quinquies.[The CMA shall facilitate the enhancement of the clarity, transparency and understanding of the nationally determined [contributions] communicated by Parties.]
 
-7.  [The CMA shall cooperate with the Conference of the Parties to avoid overlap and duplication.]
+7. [The CMA shall cooperate with the Conference of the Parties to avoid overlap and duplication.]
 
  *{Proposed to move this to Article 12 (CMA)}*
 
-8.  [Developing country Parties shall [[receive][be eligible for] support to [assist in the implementation of][implement] this Article]][implement this Article consistent with their capacities and the level of support provided].
+8. [Developing country Parties shall [[receive][be eligible for] support to [assist in the implementation of][implement] this Article]][implement this Article consistent with their capacities and the level of support provided].
 
 8bis. [Developed country Parties][shall][should][other]provide support to developing country Parties in the implementation of this Article.]
 
 8ter. Developed country Parties, the operating entities of the financial mechanism and any other organizations in a position to do so shall allocate financial resources for the building of transparency-related capacity of developing country Parties in need, on a continuous basis.
 
-9.  [The CMA shall periodically review its decisions and update them, as appropriate [and at least once every 5 years].] *{Proposed to move this to the section on the transparency of action and support in the draft decision}*
+9. [The CMA shall periodically review its decisions and update them, as appropriate [and at least once every 5 years].] *{Proposed to move this to the section on the transparency of action and support in the draft decision}*
 
 10. The transparency arrangements under the Convention, including national communications, biennial reports and biennial update reports, international assessment and review (IAR) and international consultation and analysis (ICA) shall serve this Agreement.
 
 ### Article 10 *(global stocktake)*
 
-1.  The CMA shall periodically take stock of the implementation of this Agreement [in accordance with Article 4.2(d), Article 7.2(e) and Article 10.2 (a) of the Convention,] to assess [overall] [aggregate][collective] progress towards achieving the [[ultimate] [objective of the] Convention] [the long-term goal established in this agreement] [and] the purpose of this Agreement in a comprehensive and facilitative manner, [including identifying means of further advancing such objectives within this agreement] [and to inform the process referred to in Article 3.6 and Article 4.6] [Article 6]. [^12]
+1. The CMA shall periodically take stock of the implementation of this Agreement [in accordance with Article 4.2(d), Article 7.2(e) and Article 10.2 (a) of the Convention,] to assess [overall] [aggregate][collective] progress towards achieving the [[ultimate] [objective of the] Convention] [the long-term goal established in this agreement] [and] the purpose of this Agreement in a comprehensive and facilitative manner, [including identifying means of further advancing such objectives within this agreement] [and to inform the process referred to in Article 3.6 and Article 4.6] [Article 6]. [^12]
 
-2.  The stocktaking shall consider [overall] [aggregate][collective] implementation in relation to mitigation, adaptation and the means of implementation, taking into account the different specificities of each issue [and] [Parties' differentiated responsibilities and commitments][different national circumstances] [and equity].
+2. The stocktaking shall consider [overall] [aggregate][collective] implementation in relation to mitigation, adaptation and the means of implementation, taking into account the different specificities of each issue [and] [Parties' differentiated responsibilities and commitments][different national circumstances] [and equity].
 
-3.  The stocktaking shall consider information from, inter alia, [the mechanisms of the Conventions and this agreement], [information on the implementation of individual and collective efforts under the Agreement], including [on assessments of aggregate level of ambition communicated through the proposed nationally determined contributions for the subsequent commitment period in relation to the level of ambition needed as recommended by the best available science]; the best available science, [including reports of the IPCC]; and information from other relevant international processes [other information decided by the CMA].
+3. The stocktaking shall consider information from, inter alia, [the mechanisms of the Conventions and this agreement], [information on the implementation of individual and collective efforts under the Agreement], including [on assessments of aggregate level of ambition communicated through the proposed nationally determined contributions for the subsequent commitment period in relation to the level of ambition needed as recommended by the best available science]; the best available science, [including reports of the IPCC]; and information from other relevant international processes [other information decided by the CMA].
 
-4.  The CMA shall undertake its first global stocktake in [2023] [2024][after the review of the accelerating the pre-2020 implementation and the review of adequacy of post-2020 finance support by developed country Parties,] and [every five years thereafter] [at regular intervals to be decided by the CMA.]
+4. The CMA shall undertake its first global stocktake in [2023] [2024][after the review of the accelerating the pre-2020 implementation and the review of adequacy of post-2020 finance support by developed country Parties,] and [every five years thereafter] [at regular intervals to be decided by the CMA.]
 
-5.  [The extent to which developing country Parties can participate in the global stocktake will depend on the provision of finance resources.]
+5. [The extent to which developing country Parties can participate in the global stocktake will depend on the provision of finance resources.]
 
 ### Article 11 *(facilitating implementation and compliance)*
 
 **Option I:**
 
-1.  (Establishment) [A] [Implementation] [and] [Compliance] [mechanism][process][Committee] [, including a Committee [as a standing subsidiary body under the CMA]][compliance mechanism for developed countries and a facilitative mechanism for developing countries][applicable to all Parties] is hereby established.
+1. (Establishment) [A] [Implementation] [and] [Compliance] [mechanism][process][Committee] [, including a Committee [as a standing subsidiary body under the CMA]][compliance mechanism for developed countries and a facilitative mechanism for developing countries][applicable to all Parties] is hereby established.
 
-2.  (Objective and scope) The objective of the [mechanism][process][Committee] referred to in paragraph 1 of this Article is to:
+2. (Objective and scope) The objective of the [mechanism][process][Committee] referred to in paragraph 1 of this Article is to:
 
- **Option 1:**
+    **Option 1:**
 
  [promote and] facilitate [and incentivize][effective] implementation of [and promote [and enforce] compliance with] [the [applicable] provisions of] [commitments under] [Articles [3] [, 4, 6, 7, 8] and [9] of] this Agreement [and to assess and address questions of implementation arising from each Party's performance in accordance with those provisions]
 
- **Option 2:**
+    **Option 2:**
 
  promote compliance by developed countries and to facilitate implementation by developing countries through provision of adequate financial resource and transfer of technology
 
- **Option 3:**
+    **Option 3:**
 
  address cases of non-compliance by developed country Parties, including through the development of an indicative list of consequences, taking into account the cause, type, degree and frequency of non-compliance and facilitate implementation by developing country Parties
 
-3.  (Nature) **Option 1:**
+3. (Nature) **Option 1:**
 
  [The [Committee][mechanism][process][, including the Committee,] shall be [expert based,] [facilitative] [in nature] [and shall act in a manner that is transparent], [non-punitive], [non-adversarial] and [non-judicial]. [It shall pay particular attention to the respective national capabilities and circumstances of Parties.]
 
- **Option 2:**
+    **Option 2:**
 
  For developing country Parties, the nature should be facilitative, non-punitive, non-adversarial and non-judicial
 
-4.  (Structure)
+4. (Structure)
 
  It [shall function through a plenary and] shall consist of [two separate [branches] [forums] [mechanisms]] [:]
 
- **Option 1:**
+    **Option 1:**
 
  [X] members serving in their individual capacity, nominated by Parties and elected by the CMA, with due consideration to equitable geographical representation based on the five regional groups of the United Nations, ensuring the representation of small island developing States. The members shall be elected at the first session of the CMA.
 
  The Committee shall make every effort to adopt its decisions by consensus. If all efforts at consensus have been exhausted and no consensus is reached, the decisions shall, as a last resort be adopted by a [X] majority vote of the members present and voting, based on a quorum of two-thirds of the members.
 
- **Option 2:**
+    **Option 2:**
 
 (a) An enforcement branch for developed country Parties and a facilitative branch for developing country Parties. The Compliance Mechanism may establish technical panels to assist them in their task.
 
@@ -949,19 +881,19 @@ mechanism of the Convention.
 
 (b) The role of the facilitative branch is to review the implementation of the national determined mitigation commitment made by developing country Parties and to assist them in finding ways to incentivise their efforts to meet these commitments.
 
- **Option 3:**
+    **Option 3:**
 
  a compliance branch and an implementation forum [, each with equitable and balanced representation of Parties]. The members of the Committee shall have competence in a field relevant to this Agreement and reflect an appropriate balance of expertise.
 
- **Option 4:**
+    **Option 4:**
 
  A compliance mechanism to address cases of non-compliance of the commitments of developed county Parties on mitigation, adaptation, provision of finance, technology development and transfer and capacity-building and transparency of action and support.
 
  A facilitative mechanism to facilitate implementation by developing country Parties for enhanced action on mitigation, adaptation and transparency of action.
 
-5.  (Triggers)
+5. (Triggers)
 
- **Option 1:**
+    **Option 1:**
 
  The Committee may consider issues on the basis of:
 
@@ -972,13 +904,13 @@ mechanism of the Convention.
 (c) Information derived from Annex [X] with regard to a situation where a Party fails to communicate and inscribe its NDMC[; and
 
 (d) Requests from the CMA].
- **Option 2:**
+    **Option 2:**
 
  No text on triggers
 
-6.  (Consequences)
+6. (Consequences)
 
- **Option 1:**
+    **Option 1:**
 
  Where it has determined that a Party is not in compliance, [the Compliance Branch] shall apply the following consequences, taking into account the cause, type, degree and frequency of the non-compliance of that Party and pay attention to the respective national capabilities and circumstances of Parties as appropriate:
 
@@ -988,11 +920,11 @@ mechanism of the Convention.
 
  The measures to be adopted by the CMA shall range from offering advice and assistance to the issuance of a statement of concern][to [be applied or actions to be taken to] [facilitate implementation][and [address cases of non-compliance][promote compliance]].
 
- **Option 3:**
+    **Option 3:**
 
  No text on consequences
 
-7.  (Relationship to the CMA) [The Compliance Mechanism shall report annually to the CMA and shall operate under modalities and procedures agreed by the CMA at its first session] [The [process][mechanism][Committee] [, including the Committee] shall be under the authority of and report annually to the CMA]. [It shall elaborate its rules of procedure which shall be subject to approval by the second session of the CMA.]
+7. (Relationship to the CMA) [The Compliance Mechanism shall report annually to the CMA and shall operate under modalities and procedures agreed by the CMA at its first session] [The [process][mechanism][Committee] [, including the Committee] shall be under the authority of and report annually to the CMA]. [It shall elaborate its rules of procedure which shall be subject to approval by the second session of the CMA.]
 
 **Option II:**
 
@@ -1010,7 +942,7 @@ mechanism of the Convention.
 
 3. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, any member of the Bureau of the Conference of the Parties representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among Parties to this Agreement.
 
-4.  The CMA shall keep under regular review the implementation of this Agreement and shall make within its mandate the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
+4. The CMA shall keep under regular review the implementation of this Agreement and shall make within its mandate the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
 
     1. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement;
 
@@ -1042,23 +974,23 @@ mechanism of the Convention.
 
 ### Article 14 *(sbsta and sbi)*
 
-1.  The Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation (SBI) established by Articles 9 and 10 of the Convention shall serve, respectively, as the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement. The provisions of the Convention relating to the functioning of these two bodies shall apply mutatis mutandis to this Agreement. Sessions of the meetings of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement shall be held in conjunction with the meetings of, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of the Convention.
+1. The Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation (SBI) established by Articles 9 and 10 of the Convention shall serve, respectively, as the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement. The provisions of the Convention relating to the functioning of these two bodies shall apply mutatis mutandis to this Agreement. Sessions of the meetings of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement shall be held in conjunction with the meetings of, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of the Convention.
 
-2.  Parties to the Convention that are not Parties to this Agreement may participate as observers in the proceedings of any session of the subsidiary bodies. When the subsidiary bodies serve as the subsidiary bodies of this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
+2. Parties to the Convention that are not Parties to this Agreement may participate as observers in the proceedings of any session of the subsidiary bodies. When the subsidiary bodies serve as the subsidiary bodies of this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
 
-3.  When the subsidiary bodies established by Articles 9 and 10 of the Convention exercise their functions with regard to matters concerning this Agreement, any member of the bureaux of those subsidiary bodies representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among the Parties to this Agreement.
+3. When the subsidiary bodies established by Articles 9 and 10 of the Convention exercise their functions with regard to matters concerning this Agreement, any member of the bureaux of those subsidiary bodies representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among the Parties to this Agreement.
 
 ### Article 15 *(bodies and institutional arrangements to ser ve agreement)*
 
-1.  Subsidiary bodies or other institutional arrangements [and mechanisms] established by or under the Convention, in addition to those subsidiary bodies and institutional arrangements explicitly referred to in this Agreement, [shall] [may] serve this Agreement [unless otherwise decided by the CMA] [[upon a decision of the CMA]. [Such decision shall specify the functions to be exercised by such bodies or arrangements]].
+1. Subsidiary bodies or other institutional arrangements [and mechanisms] established by or under the Convention, in addition to those subsidiary bodies and institutional arrangements explicitly referred to in this Agreement, [shall] [may] serve this Agreement [unless otherwise decided by the CMA] [[upon a decision of the CMA]. [Such decision shall specify the functions to be exercised by such bodies or arrangements]].
 
-2.  The CMA may provide further guidance to those subsidiary bodies and institutional arrangements [including the functions to be exercised by such bodies and institutional arrangements] [including for members of such bodies and institutional arrangements nominated by Parties to the Convention that are not Parties to this Agreement] [to the extent that these bodies and institutional arrangements serve this Agreement].
+2. The CMA may provide further guidance to those subsidiary bodies and institutional arrangements [including the functions to be exercised by such bodies and institutional arrangements] [including for members of such bodies and institutional arrangements nominated by Parties to the Convention that are not Parties to this Agreement] [to the extent that these bodies and institutional arrangements serve this Agreement].
 
 ### Article 16 *(signature and instruments of ratification, acceptance, approval or accesssion)*
 
-1.  This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the Convention. It shall be open for signature at the United Nations Headquarters in New York, the United States of America, from 22 April 2016 to 21 April 2017. Thereafter, the Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary;
+1. This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the Convention. It shall be open for signature at the United Nations Headquarters in New York, the United States of America, from 22 April 2016 to 21 April 2017. Thereafter, the Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary;
 
-2.  Any regional economic integration organization that becomes a Party to this Agreement without any of its member States being a Party shall be bound by all the obligations under this Agreement. In the case of regional economic integration organizations with one or more member States that are Parties to this Agreement, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Agreement. In such cases, the organization and the member States shall not be entitled to exercise rights under this Agreement concurrently.
+2. Any regional economic integration organization that becomes a Party to this Agreement without any of its member States being a Party shall be bound by all the obligations under this Agreement. In the case of regional economic integration organizations with one or more member States that are Parties to this Agreement, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Agreement. In such cases, the organization and the member States shall not be entitled to exercise rights under this Agreement concurrently.
 
 3. In their instruments of ratification, acceptance, approval or accession, regional economic integration organizations shall declare the extent of their competence with respect to the matters governed by this Agreement. These organizations shall also inform the Depositary, who shall in turn inform the Parties, of any substantial modification in the extent of their competence.
 
@@ -1066,9 +998,9 @@ mechanism of the Convention.
 
 **Option I:**
 
-1.  [A Party to the Convention shall [submit] [communicate] to the secretariat when it deposits its instrument of ratification, acceptance, approval or accession a nationally determined [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order to become Party to the Agreement. [The nationally determined [mitigation] [contribution] [commitment] shall be legally binding on that Party upon entry into force of this Agreement for that Party.]
+1. [A Party to the Convention shall [submit] [communicate] to the secretariat when it deposits its instrument of ratification, acceptance, approval or accession a nationally determined [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order to become Party to the Agreement. [The nationally determined [mitigation] [contribution] [commitment] shall be legally binding on that Party upon entry into force of this Agreement for that Party.]
 
-2.  [A Party shall have a current [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order for it to participate in decision making under this Agreement.]]
+2. [A Party shall have a current [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order for it to participate in decision making under this Agreement.]]
 
 **Option II:**
 
@@ -1076,19 +1008,19 @@ mechanism of the Convention.
 
 ### Article 18 *(entryinto force)*
 
-1.  This Agreement shall enter into force on the thirtieth day after the date on which at least [X] number of Parties to the Convention [and] [or] on which Parties to the Convention accounting for [x] percent of total [net] global greenhouse gas emissions in [[date][1990][2000][2010][2012]] have deposited their instruments of ratification, acceptance, approval or accession [whichever occurs first, coming into effect not earlier than 1 January 2020][.][, with such Parties to the Convention accounting for X per cent of total [net] global greenhouse gas emissions [in [date] [1990][2000][2010][2012]] [but not earlier than 1 January 2020].] *[placeholder for starting and ending date of the Agreement]*
+1. This Agreement shall enter into force on the thirtieth day after the date on which at least [X] number of Parties to the Convention [and] [or] on which Parties to the Convention accounting for [x] percent of total [net] global greenhouse gas emissions in [[date][1990][2000][2010][2012]] have deposited their instruments of ratification, acceptance, approval or accession [whichever occurs first, coming into effect not earlier than 1 January 2020][.][, with such Parties to the Convention accounting for X per cent of total [net] global greenhouse gas emissions [in [date] [1990][2000][2010][2012]] [but not earlier than 1 January 2020].] *[placeholder for starting and ending date of the Agreement]*
 
-2.  [For the purposes of paragraph 1 of this Article, "total global [net] greenhouse gas emissions" [of such Parties] means the [total global [net anthropogenic] greenhouse gas emissions [and removals] as estimated by the Intergovernmental Panel on Climate Change in its Fifth Assessment Report][most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the Convention either in their national communications submitted in accordance with Article 12 of the Convention or in their biennial reports or biennial update reports submitted in accordance with decision 1/CP.16 of the Conference of the Parties].]
+2. [For the purposes of paragraph 1 of this Article, "total global [net] greenhouse gas emissions" [of such Parties] means the [total global [net anthropogenic] greenhouse gas emissions [and removals] as estimated by the Intergovernmental Panel on Climate Change in its Fifth Assessment Report][most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the Convention either in their national communications submitted in accordance with Article 12 of the Convention or in their biennial reports or biennial update reports submitted in accordance with decision 1/CP.16 of the Conference of the Parties].]
 
-3.  For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after its entry into force in accordance with paragraph 1 of this Article, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
+3. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after its entry into force in accordance with paragraph 1 of this Article, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
 
-4.  For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
+4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
 
 ### Article 19 *(amendments)*
 
-1.  The provisions of Article 15 of the Convention on the adoption of amendments to the Convention shall apply mutatis mutandis to this Agreement.
+1. The provisions of Article 15 of the Convention on the adoption of amendments to the Convention shall apply mutatis mutandis to this Agreement.
 
-2.  [Notwithstanding Article 19, paragraph 1, above a Party may propose an adjustment [[to] [enhance] the efforts expressed by its [mitigation commitment] inscribed in] Annex [A or B]
+2. [Notwithstanding Article 19, paragraph 1, above a Party may propose an adjustment [[to] [enhance] the efforts expressed by its [mitigation commitment] inscribed in] Annex [A or B]
 
  [or] [X] to this Agreement. A proposal for such an adjustment shall be communicated to the Parties by the secretariat at least three months before the CMA at which it is proposed for adoption.]
 
@@ -1106,13 +1038,13 @@ The provisions of Article 14 of the Convention on settlement of disputes shall a
 
 ### Article 22 *(voting)*
 
-1.  Each Party shall have one vote, except as provided in paragraph 2 of this Article.
+1. Each Party shall have one vote, except as provided in paragraph 2 of this Article.
 
-2.  Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States that are Parties to this Agreement. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
+2. Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States that are Parties to this Agreement. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
 
-3.  [Without prejudice to the provisions of paragraph 3 of Article 15 of the Convention, the Parties shall make every effort to reach agreement on all matters by consensus. If such efforts to reach consensus have been exhausted and no agreement has been reached, a decision shall, as a last resort, be adopted by a three-fourths majority vote of the Parties present and voting.]
+3. [Without prejudice to the provisions of paragraph 3 of Article 15 of the Convention, the Parties shall make every effort to reach agreement on all matters by consensus. If such efforts to reach consensus have been exhausted and no agreement has been reached, a decision shall, as a last resort, be adopted by a three-fourths majority vote of the Parties present and voting.]
 
-4.  [For the purpose of this Article, 'Parties present and voting' means Parties present and casting an affirmative or negative vote.]
+4. [For the purpose of this Article, 'Parties present and voting' means Parties present and casting an affirmative or negative vote.]
 
 ### Article 23 *(depositary)*
 
@@ -1124,9 +1056,9 @@ No reservations may be made to this Agreement. *[Placeholder for further text on
 
 ### Article 25 *(withdrawal)*
 
-1.  At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
+1. At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
 
-2.  Any such withdrawal shall take effect upon expiry of [one year from the date of receipt by the Depositary of the notification of withdrawal][the then current mitigation commitment of that Party, the Party having discharged itself from all duties connected to this commitment], or on such later date as may be specified in the notification of withdrawal.
+2. Any such withdrawal shall take effect upon expiry of [one year from the date of receipt by the Depositary of the notification of withdrawal][the then current mitigation commitment of that Party, the Party having discharged itself from all duties connected to this commitment], or on such later date as may be specified in the notification of withdrawal.
 
 3. Any Party that withdraws from the Convention shall be considered as also having withdrawn from this Agreement.
 
@@ -1152,49 +1084,49 @@ The original of this Agreement, of which the Arabic, Chinese, English, French, R
 
 **I. ADOPTION OF THE [PARIS AGREEMENT] [PARIS IMPLEMENTING AGREEMENT UNDER THE UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE]**
 
-1.  *Decides* to adopt the [Paris Implementing] Agreement under the United Nations Framework Convention on Climate Change (UNFCCC), hereinafter referred to as the Agreement, contained in the annex;
+1. *Decides* to adopt the [Paris Implementing] Agreement under the United Nations Framework Convention on Climate Change (UNFCCC), hereinafter referred to as the Agreement, contained in the annex;
 
-2.  *Requests* the Secretary-General of the United Nations to be the Depositary of the Agreement and to have it open for signature in New York, the United States of America, from [22 April 2016] to [21 April 2017];
+2. *Requests* the Secretary-General of the United Nations to be the Depositary of the Agreement and to have it open for signature in New York, the United States of America, from [22 April 2016] to [21 April 2017];
 
-3.  *Invites* the Secretary-General to convene a high-level signature ceremony for the Agreement in early 2016;
+3. *Invites* the Secretary-General to convene a high-level signature ceremony for the Agreement in early 2016;
 
-4.  *Also invites* all Parties to the Convention to sign the Agreement at the ceremony to be convened by the Secretary-General, or at their earliest opportunity, and to deposit their respective instruments of ratification, acceptance or approval, or instruments of accession, where appropriate, as soon as possible;
+4. *Also invites* all Parties to the Convention to sign the Agreement at the ceremony to be convened by the Secretary-General, or at their earliest opportunity, and to deposit their respective instruments of ratification, acceptance or approval, or instruments of accession, where appropriate, as soon as possible;
 
-5.  *[Recognizes* that Parties to the Convention [may provisionally] apply [all of the provisions of] the Agreement pending its entry into force, and *requests* Parties to provide notification of any such provisional application to the Depositary;]
+5. *[Recognizes* that Parties to the Convention [may provisionally] apply [all of the provisions of] the Agreement pending its entry into force, and *requests* Parties to provide notification of any such provisional application to the Depositary;]
 
 **Option 1** (paras 6-9bis):
 
-6.  *Notes* that the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in accordance with decision 1/CP.17, paragraph 4, has been completed and decides that it is therefore terminated;
+6. *Notes* that the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in accordance with decision 1/CP.17, paragraph 4, has been completed and decides that it is therefore terminated;
 
-7.  *Decides* to establish an Intergovernmental Preparatory Committee (IPC) to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to this Agreement (CMA);
+7. *Decides* to establish an Intergovernmental Preparatory Committee (IPC) to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to this Agreement (CMA);
 
-8.  *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, capacity-building, and transparency of action and support, to facilitate the entry into force of the Agreement and to complete its work by 2020] [and authorizes the IPC to guide the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA), the Subsidiary Body for Implementation (SBI) and other Convention bodies in relation to the work programme, where appropriate, in accordance with their respective mandates];
+8. *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, capacity-building, and transparency of action and support, to facilitate the entry into force of the Agreement and to complete its work by 2020] [and authorizes the IPC to guide the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA), the Subsidiary Body for Implementation (SBI) and other Convention bodies in relation to the work programme, where appropriate, in accordance with their respective mandates];
 
-9.  *Requests* the IPC to report regularly to the COP on the progress of its work;
+9. *Requests* the IPC to report regularly to the COP on the progress of its work;
 
 9bis. *Decides* that the IPC shall hold its first session of 2016 in conjunction with the first session of the SBSTA and SBI in 2016 to organize its work on the implementation of the work programme referred to in paragraph 7-9 above and to prepare draft decisions to be recommended by the COP to the CMA for consideration and adoption at its first session;
 
 **Option 2** (paras 6-9bis):
 
-6.  *Notes* that the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in accordance with decision 1/CP.17, paragraph 4, has been completed and decides that the ADP shall continue under the mandate contained in paragraphs 7-9 below;
+6. *Notes* that the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) in accordance with decision 1/CP.17, paragraph 4, has been completed and decides that the ADP shall continue under the mandate contained in paragraphs 7-9 below;
 
-7.  *Requests* the ADP to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to the Agreement (CMA) and to conduct this work;
+7. *Requests* the ADP to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to the Agreement (CMA) and to conduct this work;
 
-8.  *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, capacity-building, and transparency of action and support, to facilitate the entry into force of the Agreement and to complete its work by 2020] [and authorizes the ADP to guide the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA), the Subsidiary Body for Implementation (SBI) and other Convention bodies in relation to the work programme, where appropriate, in accordance with their respective mandates];
+8. *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, capacity-building, and transparency of action and support, to facilitate the entry into force of the Agreement and to complete its work by 2020] [and authorizes the ADP to guide the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA), the Subsidiary Body for Implementation (SBI) and other Convention bodies in relation to the work programme, where appropriate, in accordance with their respective mandates];
 
-9.  *Requests* the ADP to report regularly to the COP on the progress of its work;
+9. *Requests* the ADP to report regularly to the COP on the progress of its work;
 
 9bis. *Decides* that the ADP shall hold its first session of 2016 in conjunction with the first session of the SBSTA and SBI in 2016 to organize its work on the implementation of the work programme referred to in paragraph 7-9 above and to prepare draft decisions to be recommended by the COP to the CMA for consideration and adoption at its first session;
 
 **Option 3** (paras 6-9bis):
 
-6.  *Notes* that, in accordance with decision 1/CP.17, paragraph 4, the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action has been completed and decides that it is therefore terminated;
+6. *Notes* that, in accordance with decision 1/CP.17, paragraph 4, the work of the Ad Hoc Working Group on the Durban Platform for Enhanced Action has been completed and decides that it is therefore terminated;
 
-7.  *Requests* the Subsidiary Body for Scientific and Technological Advice (SBSTA) and the Subsidiary Body for Implementation (SBI) to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to the Agreement (CMA);
+7. *Requests* the Subsidiary Body for Scientific and Technological Advice (SBSTA) and the Subsidiary Body for Implementation (SBI) to prepare for the entry into force of the Agreement and the convening of the first session of the Conference of the Parties serving as the meeting of the Parties to the Agreement (CMA);
 
-8.  *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, and capacity-building, and transparency of action and support, to facilitate the entry into force and complete its work by 2020];
+8. *Decides* to oversee the implementation of the work programme resulting from the relevant requests contained in section[s] III [and IV] of this decision [in a balanced manner, inter alia, on mitigation adaptation, finance, technology development and transfer, and capacity-building, and transparency of action and support, to facilitate the entry into force and complete its work by 2020];
 
-9.  *Requests* the SBSTA and the SBI to report regularly to the COP on the progress of their work;
+9. *Requests* the SBSTA and the SBI to report regularly to the COP on the progress of their work;
 
 9bis. *Also requests* that the SBSTA and the SBI at their first session in 2016 organize their work on the implementation of the work programme referred to in paragraph 7-9 above and in order to prepare draft decisions to be recommended by the COP to the CMA for consideration and adoption at its first session;
 
@@ -1796,31 +1728,31 @@ The International Mechanism for Capacity Building is the institutional arrangeme
 
 In fulfilling its role in a comprehensive, integrated and coherent manner, the International Capacity Building Mechanism shall:
 
-1.  Enhance knowledge and understanding of technical and management approaches to address capacity building needs and gaps in developing countries and countries with economies in transition by facilitating and promoting (a) action to address gaps in the understanding of and expertise in approaches to address capacity building associated with implementation of the Convention, its Kyoto Protocol and the 2015 Agreement; (b) the collection, sharing, management and utilization of relevant data and information; and (c) translation into implementable actions of the synthesis of best practices, challenges, experiences and lessons learned drawn and developed by the Secretariat from the Durban Forum and any data and information from the Capacity Building Portal;
+1. Enhance knowledge and understanding of technical and management approaches to address capacity building needs and gaps in developing countries and countries with economies in transition by facilitating and promoting (a) action to address gaps in the understanding of and expertise in approaches to address capacity building associated with implementation of the Convention, its Kyoto Protocol and the 2015 Agreement; (b) the collection, sharing, management and utilization of relevant data and information; and (c) translation into implementable actions of the synthesis of best practices, challenges, experiences and lessons learned drawn and developed by the Secretariat from the Durban Forum and any data and information from the Capacity Building Portal;
 
-2.  Strengthen dialogue, coordination, coherence and synergies among relevant stakeholders;
+2. Strengthen dialogue, coordination, coherence and synergies among relevant stakeholders;
 
-3.  Provide leadership and coordination and, as and where appropriate, oversight on the assessment and implementation of approaches to address capacity building needs and gaps in developing countries and countries in transition associated with the implementation of the Convention, its Kyoto Protocol and the 2015 Agreement;
+3. Provide leadership and coordination and, as and where appropriate, oversight on the assessment and implementation of approaches to address capacity building needs and gaps in developing countries and countries in transition associated with the implementation of the Convention, its Kyoto Protocol and the 2015 Agreement;
 
-4.  Foster dialogue, coordination, coherence and synergies among all relevant stakeholders, institutions, bodies, processes and initiatives outside the Convention, with a view to promoting cooperation and collaboration across relevant work and activities at the sub-national, national, regional and international levels;
+4. Foster dialogue, coordination, coherence and synergies among all relevant stakeholders, institutions, bodies, processes and initiatives outside the Convention, with a view to promoting cooperation and collaboration across relevant work and activities at the sub-national, national, regional and international levels;
 
-5.  Enhance action and support, including adaptation, mitigation, finance and technology, to address capacity building under the Convention, the Kyoto Protocol and the 2015 Agreement;
+5. Enhance action and support, including adaptation, mitigation, finance and technology, to address capacity building under the Convention, the Kyoto Protocol and the 2015 Agreement;
 
-6.  Provide information and recommendations on addressing capacity building implementation needs and gaps in developing countries and countries with economies in transition for consideration by the Conference of the Parties when providing relevant guidance to the financial mechanisms and their entities under the Convention, its Kyoto Protocol and the 2015 Agreement;
+6. Provide information and recommendations on addressing capacity building implementation needs and gaps in developing countries and countries with economies in transition for consideration by the Conference of the Parties when providing relevant guidance to the financial mechanisms and their entities under the Convention, its Kyoto Protocol and the 2015 Agreement;
 
-7.  Facilitate the mobilization and securing of expertise, and enhancement of support, including adaptation, mitigation, finance and technology, to strengthen existing approaches and, where necessary, facilitate the development and implementation of additional approaches to address capacity building under the Convention, its Kyoto Protocol and the 2015 Agreement;
+7. Facilitate the mobilization and securing of expertise, and enhancement of support, including adaptation, mitigation, finance and technology, to strengthen existing approaches and, where necessary, facilitate the development and implementation of additional approaches to address capacity building under the Convention, its Kyoto Protocol and the 2015 Agreement;
 
 <!-- -->
 
-1.  Strengthen, consolidate and enhance the sharing of relevant information, knowledge, experience and good practices, at the local, national, regional and international levels, taking into account, as appropriate, traditional knowledge and practices and gender disaggregated data and information;
+1. Strengthen, consolidate and enhance the sharing of relevant information, knowledge, experience and good practices, at the local, national, regional and international levels, taking into account, as appropriate, traditional knowledge and practices and gender disaggregated data and information;
 
-2.  Complement, draw upon the work of and involve, as appropriate, existing bodies and expert groups under the Convention, the Kyoto Protocol and the 2015 Agreement as well as on that of relevant organizations and expert bodies outside the Convention, at the sub-national, national and international levels;
+2. Complement, draw upon the work of and involve, as appropriate, existing bodies and expert groups under the Convention, the Kyoto Protocol and the 2015 Agreement as well as on that of relevant organizations and expert bodies outside the Convention, at the sub-national, national and international levels;
 
-3.  Promote synergy and strengthen engagement with sun-national, national, regional and international organizations, centres and networks, in order to enhance the implementation of capacity building actions on mitigation, adaptation, technology and finance in developing countries and countries with economies in transition;
+3. Promote synergy and strengthen engagement with sun-national, national, regional and international organizations, centres and networks, in order to enhance the implementation of capacity building actions on mitigation, adaptation, technology and finance in developing countries and countries with economies in transition;
 
-4.  Consider data and information communicated by countries and other partners on monitoring and review of capacity building at sub-national, national, regional and international levels in relation to mitigation, adaptation, technology transfer, and support provided and received, possible needs and gaps and other relevant information;
+4. Consider data and information communicated by countries and other partners on monitoring and review of capacity building at sub-national, national, regional and international levels in relation to mitigation, adaptation, technology transfer, and support provided and received, possible needs and gaps and other relevant information;
 
-5.  Assess and provide recommends on further actions the may be required to lift constraints and fill gaps on capacity building in at sub-national, national, regional and international levels, particularly in developing countries and countries with economies in transition.]
+5. Assess and provide recommends on further actions the may be required to lift constraints and fill gaps on capacity building in at sub-national, national, regional and international levels, particularly in developing countries and countries with economies in transition.]
 
 *<span style="font-variant:small-caps;">Transparency of Action and support</span>*
 
