@@ -294,15 +294,11 @@ No text
 
     (b) [In accounting for their NDMC/NDMCC, each Party shall, taking into account guidance developed under paragraph (a) above]:
 
-    (i) [Use common metrics, guidance and guidelines accepted by the IPCC for the estimation of greenhouse gas emissions and removals and agreed by the CMA];
-
-    (ii) [Ensure methodological consistency between the definition of the *NDMC/NDMCC* and its implementation];
-
-    (iii) [Include an explanation for the exclusion from their *NDMC/NDMCC* of any key categories of emissions and removals, and strive to include these over time];
-
-    (iv) [[Ensure that] Once a source, sink or activity is accounted for in a *NDMC/NDMCC,* Parties shall continue to include];
-
-    (v) [[Ensure that] internationally transferred mitigation outcomes used by any Party to meet its nationally determined mitigation commitment shall be real, permanent, additional and verified, be subject to systems to ensure that units are not counted more than once in tracking progress toward nationally determined mitigation commitments and shall be supplemental to domestic action].
+        1. [Use common metrics, guidance and guidelines accepted by the IPCC for the estimation of greenhouse gas emissions and removals and agreed by the CMA];
+        2. [Ensure methodological consistency between the definition of the *NDMC/NDMCC* and its implementation];
+        3. [Include an explanation for the exclusion from their *NDMC/NDMCC* of any key categories of emissions and removals, and strive to include these over time];
+        4. [[Ensure that] Once a source, sink or activity is accounted for in a *NDMC/NDMCC,* Parties shall continue to include];
+        5. [[Ensure that] internationally transferred mitigation outcomes used by any Party to meet its nationally determined mitigation commitment shall be real, permanent, additional and verified, be subject to systems to ensure that units are not counted more than once in tracking progress toward nationally determined mitigation commitments and shall be supplemental to domestic action].
 
     **Option 4:** Deal with accounting in Transparency of Action and Support
 
