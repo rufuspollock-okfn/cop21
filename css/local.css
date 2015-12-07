@@ -1,0 +1,7 @@
+.post .post-content ol ol {
+  list-style: lower-alpha;
+}
+
+.post .post-content ol ol ol {
+  list-style: lower-roman;
+}
