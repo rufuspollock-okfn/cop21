@@ -10,6 +10,9 @@ github_repo:  cop21
 paypal: admin@okfn.org
 contact: https://discuss.okfn.org/t/cop21-negotiating-texts-project/1647
 
+gems:
+  - jekyll-redirect-from
+
 googleanalytics: UA-33874954-37
 
 markdown: kramdown
