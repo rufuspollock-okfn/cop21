@@ -13,7 +13,7 @@ edit: true
 
 ## A. DRAFT AGREEMENT
 
-[The Parties to this Agreement,
+The Parties to this Agreement,
 
 *Being* Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as "the Convention",
 
@@ -804,108 +804,76 @@ mechanism of the Convention.
 
 ### Article 11 *(facilitating implementation and compliance)*
 
-**Option I:**
+**Option I:** *(paragraphs 1 to 7)*
 
-1. (Establishment) [A] [Implementation] [and] [Compliance] [mechanism][process][Committee] [, including a Committee [as a standing subsidiary body under the CMA]][compliance mechanism for developed countries and a facilitative mechanism for developing countries][applicable to all Parties] is hereby established.
+1. **(Establishment)** [A] [Implementation] [and] [Compliance] [mechanism][process][Committee] [, including a Committee [as a standing subsidiary body under the CMA]][compliance mechanism for developed countries and a facilitative mechanism for developing countries][applicable to all Parties] is hereby established.
 
-2. (Objective and scope) The objective of the [mechanism][process][Committee] referred to in paragraph 1 of this Article is to:
+2. **(Objective and scope)** The objective of the [mechanism][process][Committee] referred to in paragraph 1 of this Article is to:
 
-    **Option 1:**
+    **Option 1:** [promote and] facilitate [and incentivize][effective] implementation of [and promote [and enforce] compliance with] [the [applicable] provisions of] [commitments under] [Articles [3] [, 4, 6, 7, 8] and [9] of] this Agreement [and to assess and address questions of implementation arising from each Party's performance in accordance with those provisions]
 
- [promote and] facilitate [and incentivize][effective] implementation of [and promote [and enforce] compliance with] [the [applicable] provisions of] [commitments under] [Articles [3] [, 4, 6, 7, 8] and [9] of] this Agreement [and to assess and address questions of implementation arising from each Party's performance in accordance with those provisions]
+    **Option 2:** promote compliance by developed countries and to facilitate implementation by developing countries through provision of adequate financial resource and transfer of technology
 
-    **Option 2:**
+    **Option 3:** address cases of non-compliance by developed country Parties, including through the development of an indicative list of consequences, taking into account the cause, type, degree and frequency of non-compliance and facilitate implementation by developing country Parties
 
- promote compliance by developed countries and to facilitate implementation by developing countries through provision of adequate financial resource and transfer of technology
+3. **(Nature)**
 
-    **Option 3:**
+    **Option 1:** [The [Committee][mechanism][process][, including the Committee,] shall be [expert based,] [facilitative] [in nature] [and shall act in a manner that is transparent], [non-punitive], [non-adversarial] and [non-judicial]. [It shall pay particular attention to the respective national capabilities and circumstances of Parties.]
 
- address cases of non-compliance by developed country Parties, including through the development of an indicative list of consequences, taking into account the cause, type, degree and frequency of non-compliance and facilitate implementation by developing country Parties
+    **Option 2:** For developing country Parties, the nature should be facilitative, non-punitive, non-adversarial and non-judicial
 
-3. (Nature) **Option 1:**
+4. **(Structure)** It [shall function through a plenary and] shall consist of [two separate [branches] [forums] [mechanisms]] [:]
 
- [The [Committee][mechanism][process][, including the Committee,] shall be [expert based,] [facilitative] [in nature] [and shall act in a manner that is transparent], [non-punitive], [non-adversarial] and [non-judicial]. [It shall pay particular attention to the respective national capabilities and circumstances of Parties.]
+    **Option 1:** [X] members serving in their individual capacity, nominated by Parties and elected by the CMA, with due consideration to equitable geographical representation based on the five regional groups of the United Nations, ensuring the representation of small island developing States. The members shall be elected at the first session of the CMA.
 
-    **Option 2:**
-
- For developing country Parties, the nature should be facilitative, non-punitive, non-adversarial and non-judicial
-
-4. (Structure)
-
- It [shall function through a plenary and] shall consist of [two separate [branches] [forums] [mechanisms]] [:]
-
-    **Option 1:**
-
- [X] members serving in their individual capacity, nominated by Parties and elected by the CMA, with due consideration to equitable geographical representation based on the five regional groups of the United Nations, ensuring the representation of small island developing States. The members shall be elected at the first session of the CMA.
-
- The Committee shall make every effort to adopt its decisions by consensus. If all efforts at consensus have been exhausted and no consensus is reached, the decisions shall, as a last resort be adopted by a [X] majority vote of the members present and voting, based on a quorum of two-thirds of the members.
+    The Committee shall make every effort to adopt its decisions by consensus. If all efforts at consensus have been exhausted and no consensus is reached, the decisions shall, as a last resort be adopted by a [X] majority vote of the members present and voting, based on a quorum of two-thirds of the members.
 
     **Option 2:**
+    
+    1. An enforcement branch for developed country Parties and a facilitative branch for developing country Parties. The Compliance Mechanism may establish technical panels to assist them in their task.
+    2. The role of the enforcement branch is to review compliance with commitments made by developed country Parties and [the role of the facilitative branch is to facilitate the implementation by developing countries of enhanced action on mitigation, adaptation, and transparency of action in such a way that it shall be facilitative, non-punitive and non-adversarial] [those developing country Parties that have made economy wide quantified emission reduction commitments, with respect to their commitments on mitigation and support as established under this Agreement].
+    3. The enforcement branch may recommend actions that a developed country Party should take to ensure it fulfills its commitments under this Agreement.
+    4. The role of the facilitative branch is to review the implementation of the national determined mitigation commitment made by developing country Parties and to assist them in finding ways to incentivise their efforts to meet these commitments.
 
-(a) An enforcement branch for developed country Parties and a facilitative branch for developing country Parties. The Compliance Mechanism may establish technical panels to assist them in their task.
+    **Option 3:** a compliance branch and an implementation forum [, each with equitable and balanced representation of Parties]. The members of the Committee shall have competence in a field relevant to this Agreement and reflect an appropriate balance of expertise.
 
-(b) The role of the enforcement branch is to review compliance with commitments made by developed country Parties and [the role of the facilitative branch is to facilitate the implementation by developing countries of enhanced action on mitigation, adaptation, and transparency of action in such a way that it shall be facilitative, non-punitive and non-adversarial] [those developing country Parties that have made economy wide quantified emission reduction commitments, with respect to their commitments on mitigation and support as established under this Agreement].
+    **Option 4:** A compliance mechanism to address cases of non-compliance of the commitments of developed county Parties on mitigation, adaptation, provision of finance, technology development and transfer and capacity-building and transparency of action and support.
 
-<!-- -->
+    A facilitative mechanism to facilitate implementation by developing country Parties for enhanced action on mitigation, adaptation and transparency of action.
 
-(a) The enforcement branch may recommend actions that a developed country Party should take to ensure it fulfills its commitments under this Agreement.
+5. **(Triggers)**
 
-(b) The role of the facilitative branch is to review the implementation of the national determined mitigation commitment made by developing country Parties and to assist them in finding ways to incentivise their efforts to meet these commitments.
+    **Option 1:** The Committee may consider issues on the basis of:
+    
+    1. Written submissions from any Party [or group of Parties] with respect to [itself][its own or other Parties' compliance with or implementation of the provisions of the Agreement];
+    2. Reports [by Parties in accordance with Article X of this Agreement][ and questions of implementation arising from the transparency and accountability system under Article [9]][reports from Technical Expert (Review) teams]; or
+    3. Information derived from Annex [X] with regard to a situation where a Party fails to communicate and inscribe its NDMC[; and
+    4. Requests from the CMA].
 
-    **Option 3:**
+    **Option 2:** No text on triggers
 
- a compliance branch and an implementation forum [, each with equitable and balanced representation of Parties]. The members of the Committee shall have competence in a field relevant to this Agreement and reflect an appropriate balance of expertise.
+6. **(Consequences)**
 
-    **Option 4:**
+    **Option 1:** Where it has determined that a Party is not in compliance, [the Compliance Branch] shall apply the following consequences, taking into account the cause, type, degree and frequency of the non-compliance of that Party and pay attention to the respective national capabilities and circumstances of Parties as appropriate:
 
- A compliance mechanism to address cases of non-compliance of the commitments of developed county Parties on mitigation, adaptation, provision of finance, technology development and transfer and capacity-building and transparency of action and support.
+    1. Declaration of non-compliance; and
+    2. Request of the development of a compliance action plan.
+    
+    **Option 2:** The measures to be adopted by the CMA shall range from offering advice and assistance to the issuance of a statement of concern][to [be applied or actions to be taken to] [facilitate implementation][and [address cases of non-compliance][promote compliance]].
 
- A facilitative mechanism to facilitate implementation by developing country Parties for enhanced action on mitigation, adaptation and transparency of action.
+    **Option 3:** No text on consequences
 
-5. (Triggers)
-
-    **Option 1:**
-
- The Committee may consider issues on the basis of:
-
-(a) Written submissions from any Party [or group of Parties] with respect to [itself][its own or other Parties' compliance with or implementation of the provisions of the Agreement];
-
-(b) Reports [by Parties in accordance with Article X of this Agreement][ and questions of implementation arising from the transparency and accountability system under Article [9]][reports from Technical Expert (Review) teams]; or
-
-(c) Information derived from Annex [X] with regard to a situation where a Party fails to communicate and inscribe its NDMC[; and
-
-(d) Requests from the CMA].
-    **Option 2:**
-
- No text on triggers
-
-6. (Consequences)
-
-    **Option 1:**
-
- Where it has determined that a Party is not in compliance, [the Compliance Branch] shall apply the following consequences, taking into account the cause, type, degree and frequency of the non-compliance of that Party and pay attention to the respective national capabilities and circumstances of Parties as appropriate:
-
-(a) Declaration of non-compliance; and
-
-(b) Request of the development of a compliance action plan. **Option 2:**
-
- The measures to be adopted by the CMA shall range from offering advice and assistance to the issuance of a statement of concern][to [be applied or actions to be taken to] [facilitate implementation][and [address cases of non-compliance][promote compliance]].
-
-    **Option 3:**
-
- No text on consequences
-
-7. (Relationship to the CMA) [The Compliance Mechanism shall report annually to the CMA and shall operate under modalities and procedures agreed by the CMA at its first session] [The [process][mechanism][Committee] [, including the Committee] shall be under the authority of and report annually to the CMA]. [It shall elaborate its rules of procedure which shall be subject to approval by the second session of the CMA.]
+7. **(Relationship to the CMA)** [The Compliance Mechanism shall report annually to the CMA and shall operate under modalities and procedures agreed by the CMA at its first session] [The [process][mechanism][Committee] [, including the Committee] shall be under the authority of and report annually to the CMA]. [It shall elaborate its rules of procedure which shall be subject to approval by the second session of the CMA.]
 
 **Option II:**
 
- An International Tribunal of Climate Justice as is hereby established to address cases of non-compliance of the commitments of developed country Parties on mitigation, adaptation, provision of finance, technology development and transfer and, capacity-building, and transparency of action and support, including through the development of an indicative list of consequences, taking into account the cause, type, degree and frequency of non-compliance.
+An International Tribunal of Climate Justice as is hereby established to address cases of non-compliance of the commitments of developed country Parties on mitigation, adaptation, provision of finance, technology development and transfer and, capacity-building, and transparency of action and support, including through the development of an indicative list of consequences, taking into account the cause, type, degree and frequency of non-compliance.
 
 **Option III:**
 
- No reference to facilitating implementation and compliance (no Article 11)
+No reference to facilitating implementation and compliance (no Article 11)
 
-### Article 12 *(cma)*
+### Article 12 *(CMA)*
 
 1. The Conference of the Parties, the supreme body of the Convention, shall serve as the meeting of the Parties to this Agreement.
 
@@ -916,18 +884,17 @@ mechanism of the Convention.
 4. The CMA shall keep under regular review the implementation of this Agreement and shall make within its mandate the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
 
     1. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement;
-
     2. **Option 1:** Adopt its own rules of procedure at its first session;
 
-      **Option 2:** The rules of procedure of the Conference of the Parties shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA;
+        **Option 2:** The rules of procedure of the Conference of the Parties shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA;
 
     3. **Option 1:** Exercise such other functions as may be required for the implementation of this Agreement.
 
-      **Option 2:** Exercise the following functions:
+        **Option 2:** Exercise the following functions:
 
-      1. [Periodical examination of obligation of Parties to the agreement;]
-      2. [Promote and facilitate exchange of information;]
-      3. [Facilitate the coordination of measures adopted by them to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments].
+        1. [Periodical examination of obligation of Parties to the agreement;]
+        2. [Promote and facilitate exchange of information;]
+        3. [Facilitate the coordination of measures adopted by them to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments].
 
 5. The financial procedures applied under the Convention shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA.
 
@@ -987,27 +954,25 @@ mechanism of the Convention.
 
 4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
 
-### Article 19 *(amendments)*
+### Article 19 *(AMENDMENTS)*
 
 1. The provisions of Article 15 of the Convention on the adoption of amendments to the Convention shall apply mutatis mutandis to this Agreement.
 
-2. [Notwithstanding Article 19, paragraph 1, above a Party may propose an adjustment [[to] [enhance] the efforts expressed by its [mitigation commitment] inscribed in] Annex [A or B]
-
- [or] [X] to this Agreement. A proposal for such an adjustment shall be communicated to the Parties by the secretariat at least three months before the CMA at which it is proposed for adoption.]
+2. [Notwithstanding Article 19, paragraph 1, above a Party may propose an adjustment [[to] [enhance] the efforts expressed by its [mitigation commitment] inscribed in] Annex [A or B] [or] [X] to this Agreement. A proposal for such an adjustment shall be communicated to the Parties by the secretariat at least three months before the CMA at which it is proposed for adoption.]
 
 3. [An adjustment proposed by a Party [to enhance] the efforts expressed by its [mitigation commitment] inscribed in Annex [A or B] [or] [X] to this Agreement shall be considered adopted by the CMA unless more than three fourths of the Parties present and voting object to its adoption. The adopted adjustment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties, and shall enter into force on 1 January of the year following the communication by the Depositary. Such adjustments shall be binding upon Parties.]
 
-### Article 20 *(annexes)*
+### Article 20 *(ANNEXES)*
 
 1. Annexes to this Agreement shall form an integral part thereof and, unless otherwise expressly provided for, a reference to this Agreement constitutes at the same time a reference to any annexes thereto. Such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
 
 2. The provisions of Article 16 of the Convention on the adoption and amendment of annexes to the Convention shall apply mutatis mutandis to this Agreement[, except in respect of the annex containing national determined mitigation commitments].
 
-### Article 21 *(settlement of disputes)*
+### Article 21 *(SETTLEMENT OF DISPUTES)*
 
 The provisions of Article 14 of the Convention on settlement of disputes shall apply mutatis mutandis to this Agreement.
 
-### Article 22 *(voting)*
+### Article 22 *(VOTING)*
 
 1. Each Party shall have one vote, except as provided in paragraph 2 of this Article.
 
@@ -1017,15 +982,15 @@ The provisions of Article 14 of the Convention on settlement of disputes shall a
 
 4. [For the purpose of this Article, 'Parties present and voting' means Parties present and casting an affirmative or negative vote.]
 
-### Article 23 *(depositary)*
+### Article 23 *(DEPOSITARY)*
 
 The Secretary-General of the United Nations shall be the Depositary of this Agreement.
 
-### Article 24 *(reservations) *
+### Article 24 *(RESERVATIONS) *
 
 No reservations may be made to this Agreement. *[Placeholder for further text on reservation]*
 
-### Article 25 *(withdrawal)*
+### Article 25 *(WITHDRAWAL)*
 
 1. At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
 
@@ -1033,11 +998,11 @@ No reservations may be made to this Agreement. *[Placeholder for further text on
 
 3. Any Party that withdraws from the Convention shall be considered as also having withdrawn from this Agreement.
 
-### Article 26 *(languages)*
+### Article 26 *(LANGUAGES)*
 
 The original of this Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
-[Placeholder for annexes] ]
+[Placeholder for annexes]
 
 ## B. DRAFT DECISION[^13]
 
