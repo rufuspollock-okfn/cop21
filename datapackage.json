@@ -3,6 +3,15 @@
   "title": "Negotiating Texts for COP21 UNFCCC",
   "resources": [
     {
+      "title": "4 Dec 2015 10am Draft",
+      "path": "archive/adp_compilation_4dec15_1000.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf"
+      }]
+    },
+    {
       "title": "23 October 2015 Draft",
       "path": "archive/11infnot.pdf",
       "format": "pdf",
