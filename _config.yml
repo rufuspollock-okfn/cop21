@@ -2,7 +2,7 @@
 title: Paris 2015 COP21 Treaty Texts
 short_title: COP21 Negotiations
 description: |
-    Making the treaty texts of the international climate change conference accessible and usable
+    Making the treaty texts of the international climate change conference easy to find, understand and use
 baseurl: ""
 url: "http://cop21.okfnlabs.org" # the base hostname & protocol for your site
 github_username:  okfn
@@ -22,7 +22,7 @@ contributors:
 
 supporters:
 
-#googleanalytics: UA-XXXXX-X
+googleanalytics: UA-33874954-37
 
 markdown: kramdown
 
