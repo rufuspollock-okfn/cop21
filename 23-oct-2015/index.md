@@ -290,9 +290,9 @@ No text
 
     **Option 3:**
     
-    (a) [Taking into consideration the principles of common but differentiated responsibilities and respective capabilities, and article 4.9 of the Convention] [The rules and guidance related to accounting [that are set forth in [relevant COP decisions and in] decision 1/CP.21], including with respect to land use [and land-use change] [and forests][ and REDD+][and internationally transferred mitigation outcomes], [shall be adopted by the CMA at its first session and maybe amended by any subsequent decisions by the CMA] [so as to improve clarity, transparency and environmental integrity of the agreement.]
+    1. [Taking into consideration the principles of common but differentiated responsibilities and respective capabilities, and article 4.9 of the Convention] [The rules and guidance related to accounting [that are set forth in [relevant COP decisions and in] decision 1/CP.21], including with respect to land use [and land-use change] [and forests][ and REDD+][and internationally transferred mitigation outcomes], [shall be adopted by the CMA at its first session and maybe amended by any subsequent decisions by the CMA] [so as to improve clarity, transparency and environmental integrity of the agreement.]
 
-    (b) [In accounting for their NDMC/NDMCC, each Party shall, taking into account guidance developed under paragraph (a) above]:
+    2. [In accounting for their NDMC/NDMCC, each Party shall, taking into account guidance developed under paragraph (a) above]:
 
         1. [Use common metrics, guidance and guidelines accepted by the IPCC for the estimation of greenhouse gas emissions and removals and agreed by the CMA];
         2. [Ensure methodological consistency between the definition of the *NDMC/NDMCC* and its implementation];
@@ -465,33 +465,33 @@ No Article 3ter.
 
 5. Parties [shall][should] enhance [their] cooperation, including with respect to:
 
-    (a) Sharing information, good practices, experiences and lessons learned[,including through a knowledge dimension informed by science, planning and policy aspects to implement adaptation action;]
-    (b) [Strengthening institutional arrangements [under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to the Parties];
-    (c) [Strengthening information available to underscore the importance of systematic observation of the climate system for advancing scientific knowledge on climate change and advising informed policy-making to include] [early warning and emergency response preparedness][comprehensive climate risk management];
-    (d) [Assessment for the adequacy of support referred to in paragraph 2 (option 2 (a)) above, with a view to ensuring transparency and accountability;]
-    (e) [Assisting developing countries to identify adaptation needs, priorities, support provided and received for adaptation actions and efforts, challenges and gaps encouraging good practices.]
-    (f) [Improving the effectiveness and durability of adaptation actions]
+    1. Sharing information, good practices, experiences and lessons learned[,including through a knowledge dimension informed by science, planning and policy aspects to implement adaptation action;]
+    2. [Strengthening institutional arrangements [under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to the Parties];
+    3. [Strengthening information available to underscore the importance of systematic observation of the climate system for advancing scientific knowledge on climate change and advising informed policy-making to include] [early warning and emergency response preparedness][comprehensive climate risk management];
+    4. [Assessment for the adequacy of support referred to in paragraph 2 (option 2 (a)) above, with a view to ensuring transparency and accountability;]
+    5. [Assisting developing countries to identify adaptation needs, priorities, support provided and received for adaptation actions and efforts, challenges and gaps encouraging good practices.]
+    6. [Improving the effectiveness and durability of adaptation actions]
 
 6. Each Party, in accordance with [Article 4, paragraph 1 of the Convention and] its national circumstances and priorities [shall][should] engage in [a] [national] adaptation planning [process], [including national adaptation plans,] and/or enhance other relevant plans, policies, actions, and/or contributions, which could include:
 
-    (a) Assessments of climate change impacts [and][or] vulnerability [with a view to identifying the vulnerable people, places, ecosystems and sectors];
-    (b) [Prioritizing action with respect to the most vulnerable people, places, [and] ecosystems [and sectors];]
-    (c) Strengthening [governance and enabling environments for][arrangements for implementation of] adaptation;
-    (d) Monitoring[, reporting], evaluating, and learning from, adaptation plans, policies, programmes and actions;
-    (e) [Building resilience of socio-economic and ecological systems, including through economic diversification and sustainable management of natural resources;]
-    (f) [Enhancing of implementation of plans, policies and actions in a manner that is continuous and shall have continuous and enhanced international support.]
-    (g) [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions, in the context of broader economic and development efforts.]
+    1. Assessments of climate change impacts [and][or] vulnerability [with a view to identifying the vulnerable people, places, ecosystems and sectors];
+    2. [Prioritizing action with respect to the most vulnerable people, places, [and] ecosystems [and sectors];]
+    3. Strengthening [governance and enabling environments for][arrangements for implementation of] adaptation;
+    4. Monitoring[, reporting], evaluating, and learning from, adaptation plans, policies, programmes and actions;
+    5. [Building resilience of socio-economic and ecological systems, including through economic diversification and sustainable management of natural resources;]
+    6. [Enhancing of implementation of plans, policies and actions in a manner that is continuous and shall have continuous and enhanced international support.]
+    7. [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions, in the context of broader economic and development efforts.]
 
 7. Each Party [shall][should][may] submit [[an] adaptation communication[s]][communications or undertakings on adaptation] that [shall][should][may][, with a view to sharing good practices, experiences, and lessons learned, including on progress in implementing adaptation action, and to build capacity] include:
 
-    (a) Its priorities[, experiences, efforts], needs, plans [and actions];
-    (b) [The level of support needed by developing country Parties in order to enhance adaptation action;]
-    (c) [Actions on provision of support to developing country Parties by developed country Parties;]
+    1. Its priorities[, experiences, efforts], needs, plans [and actions];
+    2. [The level of support needed by developing country Parties in order to enhance adaptation action;]
+    3. [Actions on provision of support to developing country Parties by developed country Parties;]
 
 8. The [adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, [shall][should][may] be:
 
-    (a) Submitted independently[, included in,] or in conjunction with another communication\^ including a national adaptation plan, an [intended] nationally determined contribution, and/or a national communication][, in a manner that does not create an additional burden to [developing country] Parties;]
-    (b) Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
+    1. Submitted independently[, included in,] or in conjunction with another communication\^ including a national adaptation plan, an [intended] nationally determined contribution, and/or a national communication][, in a manner that does not create an additional burden to [developing country] Parties;]
+    2. Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
 
          Option 2: no text
 
@@ -699,11 +699,11 @@ mechanism of the Convention.
 
     **Option 1:**
 
-    (a) Provide a clear understanding of the emissions and removals of individual Parties;
-    (b) Facilitate understanding of global aggregate net emissions [in the light of the global temperature goal][in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
-    (c) Ensure clarity and tracking of progress made in implementing and achieving individual Parties' respective [contributions] [commitments] [other] under Article 3;
-    (d) [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties' actions[^11] under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
-    (e) [Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9.}*
+    1. Provide a clear understanding of the emissions and removals of individual Parties;
+    2. Facilitate understanding of global aggregate net emissions [in the light of the global temperature goal][in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
+    3. Ensure clarity and tracking of progress made in implementing and achieving individual Parties' respective [contributions] [commitments] [other] under Article 3;
+    4. [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties' actions[^11] under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
+    5. [Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9.}*
 
     **Option 2:**
     
@@ -711,11 +711,11 @@ mechanism of the Convention.
 
 3. The purpose of the system for transparency of support is to:
 
-    (a) Provide a clear understanding of the support provided and received [as relevant] by individual Parties [as well as needs of developing country Parties] [and assist Parties in identifying gaps in support provided and received], without placing an undue burden on SIDS and LDCs;
-    (b) Provide[, to the extent possible,] a full overview of aggregate support provided and [mobilized] [in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
-    (c) Ensure [clarity and tracking][measurement, reporting and verification] of progress made by developed country Parties in providing support in accordance with Articles 6, 7 and 8;
-    (d) Ensure clarity and tracking of support needed and received by developing country Parties in accordance with Articles 6, 7 and 8;
-    (e) Ensure that there shall be no double counting of financial resources provided [and ensure environmental integrity of this agreement]. *{While the first concept is relevant here, the second bracketed concept does not relate to this section on support, and could be moved elsewhere.}*
+    1. Provide a clear understanding of the support provided and received [as relevant] by individual Parties [as well as needs of developing country Parties] [and assist Parties in identifying gaps in support provided and received], without placing an undue burden on SIDS and LDCs;
+    2. Provide[, to the extent possible,] a full overview of aggregate support provided and [mobilized] [in the light of *{refer to the objective of the stocktake under Article* 10}][under Article 10];
+    3. Ensure [clarity and tracking][measurement, reporting and verification] of progress made by developed country Parties in providing support in accordance with Articles 6, 7 and 8;
+    4. Ensure clarity and tracking of support needed and received by developing country Parties in accordance with Articles 6, 7 and 8;
+    5. Ensure that there shall be no double counting of financial resources provided [and ensure environmental integrity of this agreement]. *{While the first concept is relevant here, the second bracketed concept does not relate to this section on support, and could be moved elsewhere.}*
 
     *{Further discussion is needed on: the relationship between the system and existing arrangements; the nature of flexibility,; and the potential role of 'nationally determined'.}*
 
@@ -723,12 +723,12 @@ mechanism of the Convention.
 
     **Option 2:** Each Party [shall][should][other], [regularly] [biennially] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in para 6] [developed by the CMA] on:
 
-    (a) Its national inventory of anthropogenic emissions by sources and removals by sinks of greenhouse gases, [using common metrics and] comparable methodologies as agreed on by the [CMA][COP];
-    (b) [Projected estimated emissions and removals;]
-    (c) Progress made in implementing and achieving [nationally determined] mitigation [contribution][commitment][other] *{precise language will be consistent with Article 3};*
-    (d) [Vulnerability to] climate change impacts and [adaptation][actions taken] to build resilience and reduce vulnerability [and progress on implementing any adaptation action under Article 4, paragraph 7] *{Precise language will be consistent with Article 4};*
-    (e) Support provided and received, as relevant *{Precise language will be consistent with Article 6, 7 and 8};*
-    (f) Specific information requirements under Article 6, 7 and 8, [efforts to improve domestic enabling environments; and on the use, impact and estimated results of support for [mitigation] actions] *{Precise language will be consistent with Article 6, 7 and 8}.*
+    1. Its national inventory of anthropogenic emissions by sources and removals by sinks of greenhouse gases, [using common metrics and] comparable methodologies as agreed on by the [CMA][COP];
+    2. [Projected estimated emissions and removals;]
+    3. Progress made in implementing and achieving [nationally determined] mitigation [contribution][commitment][other] *{precise language will be consistent with Article 3};*
+    4. [Vulnerability to] climate change impacts and [adaptation][actions taken] to build resilience and reduce vulnerability [and progress on implementing any adaptation action under Article 4, paragraph 7] *{Precise language will be consistent with Article 4};*
+    5. Support provided and received, as relevant *{Precise language will be consistent with Article 6, 7 and 8};*
+    6. Specific information requirements under Article 6, 7 and 8, [efforts to improve domestic enabling environments; and on the use, impact and estimated results of support for [mitigation] actions] *{Precise language will be consistent with Article 6, 7 and 8}.*
 
     *{Paragraphs 4 and 5 should be considered together as Parties have different views on the logic, implication and structure of these two paragraphs}*
 
@@ -744,25 +744,25 @@ mechanism of the Convention.
 
     **Option 3:** Built on the existing MRV arrangements under the Convention:
 
-    (a) Developed country Parties shall report information related to their actions and provision of support to developing countries in accordance with the provisions of the Convention and relevant decisions of the COP mutatis mutandis under the Agreement, in their national communications, biennial reports and annual inventory reports. All of that information will be verified through a robust technical review process followed by a multilateral assessment process, and result in a conclusion with consequences for compliance;
-    (b) Developing country Parties should report information on their actions and support received according to the Convention and relevant decisions of the COP, inter alia procedures set up under decisions 1/CP.16 and 2/CP.17 mutatis mutandis, and the level of support received from developed country Parties.
+    1. Developed country Parties shall report information related to their actions and provision of support to developing countries in accordance with the provisions of the Convention and relevant decisions of the COP mutatis mutandis under the Agreement, in their national communications, biennial reports and annual inventory reports. All of that information will be verified through a robust technical review process followed by a multilateral assessment process, and result in a conclusion with consequences for compliance;
+    2. Developing country Parties should report information on their actions and support received according to the Convention and relevant decisions of the COP, inter alia procedures set up under decisions 1/CP.16 and 2/CP.17 mutatis mutandis, and the level of support received from developed country Parties.
 
     (5bis)  Developed country Parties and other developed Parties included in Annex II shall ensure transparency of support by:
 
-    (a) Providing clear information in national communications and biennial reports;
-    (b) Providing a clear road map with individual annual commitments for public funding, technology transfer and capacity-building support in the post-2020 period;
-    (c) Drawing on the work according to the mandate of the Standing Committee on Finance under the COP to assist the COP in exercising its functions with respect to the MRV of support provided to developing country Parties;
-    (d) Drawing on the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA) on methodologies for the reporting of financial information.
+    1. Providing clear information in national communications and biennial reports;
+    2. Providing a clear road map with individual annual commitments for public funding, technology transfer and capacity-building support in the post-2020 period;
+    3. Drawing on the work according to the mandate of the Standing Committee on Finance under the COP to assist the COP in exercising its functions with respect to the MRV of support provided to developing country Parties;
+    4. Drawing on the work of the Subsidiary Body for Scientific and Technological Advice (SBSTA) on methodologies for the reporting of financial information.
 
 6. **Option I:** [The CMA shall at its first session, building on lessons learned [and elaborating on the provisions above], adopt [common] modalities, procedures and guidelines, [to elaborate on the provisions above] [as appropriate, for promoting environmental integrity] [for the reporting and review of the information as set out in paragraph 4]. It shall take into account, inter alia:
 
-    (a) The need for flexibility in the light of capability;
-    (b) The importance of facilitating improved reporting and transparency over time;
-    (c) The need to avoid undue burden and duplication, taking into account the particular situation of small States Parties with limited administrative capacities;
-    (d) The facilitative, non-intrusive nature of review;
-    (e) The need to ensure no backsliding;
-    (f) The need to ensure no double counting;
-    (g) The need to ensure environmental integrity.]
+    1. The need for flexibility in the light of capability;
+    2. The importance of facilitating improved reporting and transparency over time;
+    3. The need to avoid undue burden and duplication, taking into account the particular situation of small States Parties with limited administrative capacities;
+    4. The facilitative, non-intrusive nature of review;
+    5. The need to ensure no backsliding;
+    6. The need to ensure no double counting;
+    7. The need to ensure environmental integrity.]
 
     **Option II:** The CMA shall at its first session, building on lessons learned from reporting under the Convention and elaborating on the provisions above, adopt common modalities, procedures and guidelines, as appropriate, for transparency of action and support.
 
