@@ -16,17 +16,17 @@ There are high hopes that this conference may be the first to deliver a new bind
 
 This is a pro-bono effort led by <a href="https://discuss.okfn.org/users/rufuspollock">Rufus Pollock</a> of <a href="http://okfnlabs.org/">Open Knowledge Labs</a>.
 
-Open Knowledge is an international non-profit dedicated to opening up important, public information and seeing it used to create insight and change.
+Open Knowledge is an international non-profit dedicated to opening up important, public interest, information and seeing it used to create insight and change.
 
 ## Why This Site
 
-The climate negotiations can be hard to follow. As a large scale international negotiation there are bewildering number of acronyms, subgroups, non-papers, unofficial non-papers, chairs, co-chairs and more.
+The climate negotiations can be hard to follow. As a large scale international process there are bewildering number of acronyms, subgroups, non-papers, unofficial non-papers, chairs, co-chairs and more.
 
 In particular, the key negotiating texts are difficult to access and use. For example:
 
 * They are locked up in PDF - hard for search engines to find, hard to link into, hard to use on mobile
-* It is hard to locate in one place the various iterations of the treaty and challenging to track changes between versions
-* There is no system for annotating the treaty, for example show who supports particular variations and why
+* It is difficult to locate the various iterations of the treaty and very challenging to track changes between those iterations
+* There is no system for annotating the treaty with information like which countries are pushing for particular options in the text (and why)
 
 This website provides (italics items are in progress):
 
