@@ -209,9 +209,9 @@ No text
 
 10. **Accounting**[^10]
 
-    **Option 1:** [In tracking progress towards achieving NDMC/NDMCC, Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double-counting, and environmental integrity.]
+    **Option 1:**: [In tracking progress towards achieving their [NDMC*][INDC], Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double counting and environmental integrity.]
 
-    **Option 2:** [In tracking progress towards achieving NDMC/NDMCC, Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double-counting, and environmental integrity.]
+    **Option 2:** [In tracking progress towards achieving their [NDMC*][INDC], Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double counting, and environmental integrity.]
 
     [The rules and guidance related to the tracking of progress towards achieving [NDMC*][INDC] accounting [that are set forth in [relevant COP decisions and in] decision 1/CP.21], including with respect to land use [and landuse change] [and forests] [and REDD-plus] [and internationally transferred mitigation outcomes], [shall be adopted by the CMA at its first session and may be amended by any subsequent decisions of the CMA] [so as to improve the clarity, transparency and environmental integrity of this Agreement.]
 
