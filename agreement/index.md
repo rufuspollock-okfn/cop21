@@ -718,9 +718,9 @@ No reference to facilitating implementation and compliance (no Article 11)
 
 2. Parties to the Convention that are not Parties to this Agreement may participate as observers in the proceedings of any session of the subsidiary bodies. When the subsidiary bodies serve as the subsidiary bodies of this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
 
-3. When the subsidiary bodies established by Articles 9 and 10 of the Convention exercise their functions with regard to matters concerning this Agreement, any member of the bureaux of those subsidiary bodies representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among the Parties to this Agreement.
+3.  When the subsidiary bodies established by Articles 9 and 10 of the Convention exercise their functions with regard to matters concerning this Agreement, any member of the bureaux of those subsidiary bodies representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among the Parties to this Agreement.
 
-## Article 15 *(bodies and institutional arrangements to ser ve agreement)*
+## Article 15 *(bodies and institutional arrangements to serve agreement)*
 
 1. Subsidiary bodies or other institutional arrangements [and mechanisms] established by or under the Convention, in addition to those subsidiary bodies and institutional arrangements explicitly referred to in this Agreement, [shall] [may] serve this Agreement [unless otherwise decided by the CMA] [[upon a decision of the CMA]. [Such decision shall specify the functions to be exercised by such bodies or arrangements]].
 
@@ -738,23 +738,22 @@ No reference to facilitating implementation and compliance (no Article 11)
 
 **Option I:**
 
-1. [A Party to the Convention shall [submit] [communicate] to the secretariat when it deposits its instrument of ratification, acceptance, approval or accession a nationally determined [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order to become Party to the Agreement. [The nationally determined [mitigation] [contribution] [commitment] shall be legally binding on that Party upon entry into force of this Agreement for that Party.]
-
-2. [A Party shall have a current [mitigation] [contribution] [commitment] [in accordance with Article 2bis of this Agreement] in order for it to participate in decision making under this Agreement.]]
+1. [A Party to the Convention shall [submit] [communicate] to the secretariat when it deposits its instrument of ratification, acceptance, approval or accession a nationally determined [mitigation] [contribution] [commitment] [in accordance with Article 2bis] in order to become Party to the Agreement. [The nationally determined [mitigation] [contribution] [commitment] shall be legally binding on that Party upon entry into force of this Agreement for that Party.]
 
 **Option II:**
 
 [No further requirement needed]
 
-## Article 18 *(entryinto force)*
+## Article 18 *(entry into force)*
 
-1. This Agreement shall enter into force on the thirtieth day after the date on which at least [X] number of Parties to the Convention [and] [or] on which Parties to the Convention accounting for [x] percent of total [net] global greenhouse gas emissions in [[date][1990][2000][2010][2012]] have deposited their instruments of ratification, acceptance, approval or accession [whichever occurs first, coming into effect not earlier than 1 January 2020][.][, with such Parties to the Convention accounting for X per cent of total [net] global greenhouse gas emissions [in [date] [1990][2000][2010][2012]] [but not earlier than 1 January 2020].] *[placeholder for starting and ending date of the Agreement]*
+1. This Agreement shall enter into force on the thirtieth day after the date on which at least [X] [50][55][100] [ the ¾] Parties to the Convention [including all Annex I Parties] [and] [or] [on which Parties to the Convention accounting for [55][60][70][X] per cent of total [net] global greenhouse gas emissions in [[date][1990][2000][2010][2012]] have deposited their instruments of ratification, acceptance, approval or accession [whichever occurs first, coming into effect not earlier than 1 January 2020]][.][, with such Parties to the Convention accounting for X per cent of total [net] global greenhouse gas emissions [in [date] [1990][2000][2010][2012]] [but not earlier than 1 January 2020].] *[placeholder for starting and ending date of the Agreement]*
 
-2. [For the purposes of paragraph 1 of this Article, "total global [net] greenhouse gas emissions" [of such Parties] means the [total global [net anthropogenic] greenhouse gas emissions [and removals] as estimated by the Intergovernmental Panel on Climate Change in its Fifth Assessment Report][most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the Convention either in their national communications submitted in accordance with Article 12 of the Convention or in their biennial reports or biennial update reports submitted in accordance with decision 1/CP.16 of the Conference of the Parties].]
+2. [For the purposes of paragraph 1 of this Article, "total global [net] greenhouse gas emissions" [of such Parties] means the [total global [net anthropogenic] greenhouse gas emissions [and removals] as estimated by the data set used by the Intergovernmental Panel on Climate Change in its Fifth Assessment Report for analysis of emissions trends][most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the Convention either in their national communications submitted in accordance with Article 12 of the Convention or in their biennial reports or biennial update reports submitted in accordance with decision 1/CP.16 of the Conference of the Parties].]
 
-3. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after its entry into force in accordance with paragraph 1 of this Article, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
+3. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after the condition[s] set out in paragraph 1 of this Article for entry into force [has] [have] been fulfilled, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.  
 
-4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
+4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration
+organization shall not be counted as additional to those deposited by its member States.
 
 ## Article 19 *(AMENDMENTS)*
 
@@ -782,13 +781,11 @@ The provisions of Article 14 of the Convention on settlement of disputes shall a
 
 3. [Without prejudice to the provisions of paragraph 3 of Article 15 of the Convention, the Parties shall make every effort to reach agreement on all matters by consensus. If such efforts to reach consensus have been exhausted and no agreement has been reached, a decision shall, as a last resort, be adopted by a three-fourths majority vote of the Parties present and voting.]
 
-4. [For the purpose of this Article, 'Parties present and voting' means Parties present and casting an affirmative or negative vote.]
-
 ## Article 23 *(DEPOSITARY)*
 
 The Secretary-General of the United Nations shall be the Depositary of this Agreement.
 
-## Article 24 *(RESERVATIONS) *
+## Article 24 *(RESERVATIONS)*
 
 No reservations may be made to this Agreement. *[Placeholder for further text on reservation]*
 
