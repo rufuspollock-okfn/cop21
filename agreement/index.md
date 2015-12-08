@@ -572,9 +572,7 @@ financial resources are under-reported rather than over-reported;
 
 ## Article 8 bis
 
-**Option 1:** Parties shall cooperate and take appropriate measures to develop, adopt and implement policies, strategies, regulations and/or action plans on climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
-
-**Option 2:** Parties [shall] [should] cooperate and take appropriate measures to enhance climate change education, training, public awareness, public participation and public access to information so as to enhance actions under this Agreement.
+Parties shall cooperate in taking measures, as appropriate, to enhance climate change education, training, public awareness, public participation and public access to information, recognizing the importance of these steps with respect to enhancing actions under this Agreement.
 
 ## Article 9 *(transparency)*
 
