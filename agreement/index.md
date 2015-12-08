@@ -7,7 +7,7 @@ redirect_from:
   - /23-oct-2015/
 ---
 
-*Edited version of 6 November 2015*[^1]
+*COP21 version (updating with developments at the conference)*[^1]
 
 * TOC
 {:toc}
@@ -46,7 +46,7 @@ The Parties to this Agreement,
 
 *Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
 
-*5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
+[*Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
 
 Have agreed as follows:
 
@@ -1008,7 +1008,7 @@ The original of this Agreement, of which the Arabic, Chinese, English, French, R
 
 [Placeholder for annexes]
 
-[^1]: The version of 23 October 2015@23:30 has been edited and the paragraph numbering as well as the cross-references have been updated. Also includes the technical cross-referencing corrections of the 10 November.
+[^1]: This version took at its starting point the [final draft negotiating text][10nov] and then is being updated to include changes as they occur at the conference. Right now we are working to incorporate all changes from the [4th@10:00 version][4dec]. This was the version of 23 October with technical corrections: "23 October 2015@23:30 has been edited and the paragraph numbering as well as the cross-references have been updated."
 
 [^2]: There is a need to specify the context, which placement is yet to be decided.
 
@@ -1031,4 +1031,7 @@ The original of this Agreement, of which the Arabic, Chinese, English, French, R
 [^11]: The term "actions" will be readjusted to align with the term that Parties agree under Article 4.
 
 [^12]: Unless otherwise provided, the cross-references in this Article refer to the numbering as in ADP.2015.8.InformalNote.
+
+[10nov]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
+[4dec]: http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf
 

@@ -44,7 +44,7 @@ The Parties to this Agreement,
 
 *Reaffirming* the crucial importance of education, training, public awareness, public participation, public access to information and international cooperation on these matters for promoting changes in lifestyles, attitudes and behaviour needed [to foster low-emission and climate-resilient development] and to mobilize public support for climate policies and action, *[recognizing* that sustainable lifestyles and sustainable patterns of consumption and production play an important role in addressing climate change, [with the lead of developed countries]and r*ecognizing* the important role that subnational and local authorities, as well as non-state actors and the private sector, play in addressing climate change,
 
-*5*^ *[Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
+[*Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
 
 Have agreed as follows:
 
