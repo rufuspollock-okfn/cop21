@@ -58,10 +58,10 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 2. “Party” means a Party to this Agreement;
 3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
 4. [*Placeholder* for “countries in need of support”;]
-5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
+5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (expressed in W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
 6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
-7. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
-8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
+7. [“REDD-plus” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries, which is based on the Warsaw Framework for REDD-plus and relevant decisions of the [Conference of the Parties];]
+8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD-plus and to results-based payments;]
 9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
 10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
 11. [*Placeholder* for “climate finance”];
