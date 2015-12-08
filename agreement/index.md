@@ -356,17 +356,15 @@ No Article 3ter.
 
 ## Article 4 *(adaptation)*
 
-1. **Option 1:** Parties hereby establish the [global goal][long-term vision] of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, [in accordance with the objective, principles and provisions of the Convention, including common but differentiated responsibilities and respective capabilities, with a view to [enabling climate resilient sustainable development and] ensuring adaptation in the context of the goal of holding the increase in the global average temperature [below 2 C][below [2 or] 1.5 C] referred to in Article 2 of this Agreement].
+1. Parties hereby [establish][share] the [global goal][long-term vision] of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, [in accordance with the objective, principles and provisions of the Convention, including common but differentiated responsibilities and respective capabilities,] with a view to [[enabling][contributing to] [climate-resilient] sustainable development] [and] ensuring adaptation in the context of the goal of holding the increase in the global average temperature [below 2 °C][below [2 or] 1.5 °C] referred to in Article 2].
 
-    Parties recognize that adaptation is a [global] challenge faced by all with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems[, taking into account the urgent and immediate needs of those developing countries that are particularly vulnerable].
+    Parties recognize that adaptation is a global challenge faced by all with local, subnational, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems[, taking into account the urgent and immediate needs of those developing countries that are particularly vulnerable].
 
-    **Option 2:** Parties share the goal of increasing resilience and reducing vulnerability to climate change, recognizing that adaptation is a challenge faced by all, with local, national, regional and international dimensions, and that it is a key component of and contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems.
-
-2. **Option 1:** [Parties recognize that adaptation will be needed regardless of the level of mitigation reached and that [less adaptation will be needed if[, inter alia,] their collective mitigation efforts are greater].]
+2. **Option 1:** [Parties recognize that adaptation [will][may] be needed regardless of the level of mitigation reached [and that [greater aggregate levels of mitigation can reduce the need for additional adaptation efforts][the greater their collective mitigation efforts, the less adaptation is needed [in the long term]][less adaptation will be needed if[, inter alia,] their collective mitigation efforts are greater]].]
 
     **Option 2:** [The [global goal][long-term vision] for adaptation shall be the basis for, inter alia:
 
-    1. Assessment of the adequacy of support from developed country Parties[[^9]] to developing country Parties[[^10]] and a platform to undertake such an assessment through strengthened measurement, reporting, and verification of support;
+    1. Assessment of the adequacy of support from developed country Parties[[^14]] to developing country Parties[[^15]] and a platform to undertake such an assessment through strengthened measurement, reporting, and verification of support;
     2. Recognition of adaptation efforts of developing countries;
     3. Recognition of increased adaptation needs and associated costs in light of mitigation efforts, taking into account that adaptation will be needed regardless of the level of mitigation reached, and also taking into account the relationship between aggregate mitigation ambition, associated climate change impacts, and adaptation needs and cost, and recognizing there are limits to adaptation.]
 
@@ -378,55 +376,46 @@ No Article 3ter.
 
 4. Parties further recognize the importance of [international cooperation and] support for adaptation efforts and the importance of taking into account the needs of those developing countries that are particularly vulnerable, recognizing the particular vulnerabilities of Least Developed Countries and Small Island Developing States. [Parties included in Annex II of the Convention shall enhance the support for the implementation of paragraph 7 of this Article, national adaptation plans and the other adaptation actions, in accordance with the provisions of Article 4 of the Convention, recognizing the urgent and immediate needs and special circumstances of developing country Parties, especially those that are particularly vulnerable.]
 
-5. Parties [shall][should] enhance [their] cooperation, including with respect to:
+5. Parties [shall][should] enhance [their] cooperation [for enhancing action on adaptation, taking into account the Cancun Adaptation Framework], [including with respect to][which may include]:
 
-    1. Sharing information, good practices, experiences and lessons learned[,including through a knowledge dimension informed by science, planning and policy aspects to implement adaptation action;]
-    2. [Strengthening institutional arrangements [under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to the Parties];
-    3. [Strengthening information available to underscore the importance of systematic observation of the climate system for advancing scientific knowledge on climate change and advising informed policy-making to include] [early warning and emergency response preparedness][comprehensive climate risk management];
-    4. [Assessment for the adequacy of support referred to in paragraph 2 (option 2 (a)) above, with a view to ensuring transparency and accountability;]
-    5. [Assisting developing countries to identify adaptation needs, priorities, support provided and received for adaptation actions and efforts, challenges and gaps encouraging good practices.]
-    6. [Improving the effectiveness and durability of adaptation actions]
 
-6. Each Party, in accordance with [Article 4, paragraph 1 of the Convention and] its national circumstances and priorities [shall][should] engage in [a] [national] adaptation planning [process], [including national adaptation plans,] and/or enhance other relevant plans, policies, actions, and/or contributions, which could include:
+    1. Sharing information, good practices, experiences and lessons learned, including, as appropriate, as it relates to science, planning, policies and implementation of adaptation actions;
+    2. [Strengthening institutional arrangements [[, including those] under the Convention] to support the synthesis of relevant information and knowledge as well as the provision of technical [support and] guidance [and support][to [the] Parties];]
+    3. [Advancing][*alternative verb*] scientific knowledge on climate, including research and systematic observation of the climate system in a manner that informs the development and delivery of climate services and supports decision-making;
+    4. [Assessment of the [effectiveness][adequacy] of support [referred to in paragraph 2 (option 2(a)) of this Article] with a view to ensuring transparency and accountability;]
+    5. [Assisting [developing] countries [, including Parties whose special circumstances are recognized by the decisions of the COP] [and other Parties in need of support, including countries with economies in transition] to identify [effective adaptation practices,] adaptation needs, priorities, [support provided and received for adaptation actions and efforts,] challenges and gaps [in a manner consistent with] and encouraging good practices;]
+    6. [Improving the effectiveness and durability of adaptation actions.]
 
-    1. Assessments of climate change impacts [and][or] vulnerability [with a view to identifying the vulnerable people, places, ecosystems and sectors];
-    2. [Prioritizing action with respect to the most vulnerable people, places, [and] ecosystems [and sectors];]
-    3. Strengthening [governance and enabling environments for][arrangements for implementation of] adaptation;
-    4. Monitoring[, reporting], evaluating, and learning from, adaptation plans, policies, programmes and actions;
-    5. [Building resilience of socio-economic and ecological systems, including through economic diversification and sustainable management of natural resources;]
-    6. [Enhancing of implementation of plans, policies and actions in a manner that is continuous and shall have continuous and enhanced international support.]
-    7. [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions, in the context of broader economic and development efforts.]
+6. Each Party, in accordance with [Article 4, paragraph 1, of the Convention and] its national circumstances [, commitments related to sustainable development,] and priorities should engage in the implementation of adaptation planning processes and actions, including the development or enhancement of relevant plans, policies, and/or contributions, which may include:
 
-7. Each Party [shall][should][may] submit [[an] adaptation communication[s]][communications or undertakings on adaptation] that [shall][should][may][, with a view to sharing good practices, experiences, and lessons learned, including on progress in implementing adaptation action, and to build capacity] include:
+    1. [Process to formulate and implement] national adaptation plans;
+    2. Assessment of climate change impacts and vulnerability with a view to formulating nationally determined prioritized actions, taking into account vulnerable people, places, and ecosystems.
+    3. Strengthening [[governance and] enabling environments for][arrangements for the implementation of] adaptation;
+    4. Monitoring, evaluating and learning from adaptation plans, policies, programmes and actions;
+    5. Building resilience of socioeconomic and ecological systems, including through economic diversification and sustainable management of natural resources;
+    6. [Strategies and approaches for enhancing the effectiveness of adaptation planning and actions in the context of broader economic and development efforts.][Enhancing the implementation of plans policies and actions in a manner that is continuous, effective, and that shall have continuous and enhanced international support in the context of broader economic development efforts.]
 
-    1. Its priorities[, experiences, efforts], needs, plans [and actions];
-    2. [The level of support needed by developing country Parties in order to enhance adaptation action;]
-    3. [Actions on provision of support to developing country Parties by developed country Parties;]
+7. [Each Party may submit an adaptation communication [or communications on undertakings on adaptation, with a view to implement [those undertakings][its adaptation actions][, efforts,]] that may include:
 
-8. The [adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, [shall][should][may] be:
+    1. Its priorities, good practices, lessons learned, needs, plans and actions;
+    2. [The level of support needed by developing country Parties to enhance adaptation action;]]
 
-    1. Submitted independently[, included in,] or in conjunction with another communication\^ including a national adaptation plan, an [intended] nationally determined contribution, and/or a national communication][, in a manner that does not create an additional burden to [developing country] Parties;]
-    2. Option 1: [Updated [periodically] every [X] [5] years [periodically] in [conjunction with the mitigation cycle][accordance with modalities to be decided by the [CMA][CMP]].
+    7.bis [Developed country Parties shall communicate their actions on provision of support to developing countries.]
 
-         Option 2: no text
+8. [The adaptation communication [or communications on undertakings on adaptation] referred to in paragraph 7 of this Article, in a manner that does not create an additional burden on [developing country] Parties, may be:
 
-9. **Option 1:** The [[an] adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above shall be [recorded in [a registry][[another][other] modalit[y][ies]]] made publicly available by the secretariat [on the UNFCCC website][in accordance with modalities to be decided by the [CMA][CMP] at its first session].
+    1. Submitted independently, as a component of, or in conjunction with another communication [or document], including a national adaptation plan[, intended nationally determined contribution][nationally determined mitigation contribution], and/or a national communication;
+    2. Updated or submitted [periodically] [in conjunction with mitigation cycles] [for those Parties who want to submit an adaptation component in their [INDC]] [or updated periodically].]
 
-   **Option 2:** no text
+9. [The [[an] adaptation communication[s]][or undertakings on adaptation] referred to in paragraph 7 of this Article [shall][may] be [recorded in a registry][made publicly available by the secretariat [on the UNFCCC website]] [in accordance with modalities to be decided by the [CMA][CMP] at its first session].]
 
-10. **Option 1:** [There shall be a [high-level session][global stocktake] on adaptation every [X] years, with the purpose of [raising the profile of adaptation efforts undertaken and considering experiences, challenges, and future priorities, with a view to increasing the effectiveness of adaptation actions][enhancing implementation of adaptation action based on the [an adaptation communication[s]][communications or undertakings on adaptation] referred to in paragraph 7 above, assessing the adequacy of support, and recognizing adaptation efforts of developing countries], and guided by modalities to be adopted by the [CMA][CMP] at its first session.]
+10. [[There shall be a [high-level session][global stocktake] on adaptation every [X] years with the purpose of [raising the profile of adaptation efforts undertaken and considering experiences, challenges and future priorities, with a view to increasing the effectiveness of adaptation actions][enhancing the implementation of adaptation action based on [the] [an] adaptation communication[s]][or undertakings on adaptation] referred to in paragraph 7 of this Article, assessing the adequacy of support and recognizing the adaptation efforts of developing countries], guided by modalities to be adopted by the [CMA][CMP] at its first session.]
 
-   **Option 2:** [The [CMA][CMP] shall facilitate the communication of adaptation efforts for the stocktake referred to in Article 10.]
-
-   **Option 3:** no text
-
-11. **Option 1:** [The Adaptation Committee and the Least Developed Countries Expert Group[, the Adaptation Fund, the Green Climate Fund, LDCF, SCCF, the Technology Executive Committee, the Consultative Group of Experts on National Communications from Parties not included in Annex I to the Convention, and other relevant bodies] shall serve this Agreement[, be enhanced and their work intensified, as appropriate, within their respective mandates][under the guidance by the CMA].]
-
-    **Option 2:** Institutional arrangements for adaptation under the Convention shall serve this agreement. The CMA shall, based on a review of institutional arrangements under the Convention, further elaborate the adaptation framework for this Agreement, in order to enhance its coherence and effectiveness, building on, consolidating and coordinating institutional arrangements relevant to adaptation under the Convention.
+11. [[The AC, the LEG, the AF, the GCF, the LDCF, the SCCF, the TEC, the CGE, and other relevant bodies][Institutional arrangements for adaptation under the Convention] shall serve this Agreement. The CMA shall, based on a review of institutional arrangements under the Convention, further elaborate the adaptation framework for this Agreement in order to enhance its coherence and effectiveness, building on, consolidating and coordinating institutional arrangements relevant to adaptation under the Convention.] 
 
 12. **Option 1:** [[Developing country] Parties [in need][other Parties in need of support] are eligible for support in the implementation of this Article]
 
-    **Option 2:** [Developed country Parties shall provide developing country Parties, taking into account the need of those that are particularly vulnerable, with long-term, scaled-up, predictable, new and additional finance, technology and capacity-building, consistent with relevant provisions of the Convention, to implement urgent, short-, medium- and long-term adaptation actions, plans, programmes and projects at the local, national, subregional and regional levels, in and across different economic and social sectors and ecosystems][Developed countries [shall][should] transfer technology, in particular for early warning systems through United Nations mechanisms, in order to make it accessible for all].
+    **Option 2:** [Developed country Parties shall provide developing country Parties, taking into account the needs of those that are particularly vulnerable, with long-term, scaled-up, predictable, new and additional finance, technology and capacity-building, in accordance with the relevant provisions of the Convention, to implement urgent and short-, medium- and long-term adaptation actions, plans, programmes and projects at the local, national, subregional and regional levels, in and across different economic and social ecosystems.].]
 
     **Option 3:** no text *(text on adaptation support to be considered in Articles 6, 7, 8, and 9)*
 
@@ -968,6 +957,10 @@ diversification plans
 [^12]: Placeholder until agreement is reached on where support should be dealt-with
 
 [^13]: Noting that support for the implementation by developing country Parties of their mitigation actions is addressed under Article 6.
+
+[^14]: In all cases in the context of support, where it says "developed country Parties", read "developed country Parties [and other Parties in a position to do so]"
+
+[^15]: In all cases in the context of support, where it says "developing country Parties" read "developing country Parties and other Parties in need of support, including countries with economies in transition".
 
 [10nov]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
 [4dec]: http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf
