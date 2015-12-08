@@ -691,24 +691,14 @@ No reference to facilitating implementation and compliance (no Article 11)
 
 2. Parties to the Convention that are not Parties to this Agreement may participate as observers in the proceedings of any session of the Conference of the Parties serving as the meeting of the Parties to this Agreement. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
 
-3. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, any member of the Bureau of the Conference of the Parties representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among Parties to this Agreement.
+3. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, any member of the Bureau of the Conference of the Parties representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from among the Parties to this Agreement.
 
-4. The CMA shall keep under regular review the implementation of this Agreement and shall make within its mandate the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
+4. The CMA shall keep under regular review the implementation of this Agreement and shall make, within its mandate, the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
 
-    1. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement;
-    2. **Option 1:** Adopt its own rules of procedure at its first session;
+  1. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement;
+  2. Exercise such other functions as may be required for the implementation of this Agreement.
 
-        **Option 2:** The rules of procedure of the Conference of the Parties shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA;
-
-    3. **Option 1:** Exercise such other functions as may be required for the implementation of this Agreement.
-
-        **Option 2:** Exercise the following functions:
-
-        1. [Periodical examination of obligation of Parties to the agreement;]
-        2. [Promote and facilitate exchange of information;]
-        3. [Facilitate the coordination of measures adopted by them to address climate change and its effects, taking into account the differing circumstances, responsibilities and capabilities of the Parties and their respective commitments].
-
-5. The financial procedures applied under the Convention shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA.
+5. The rules of procedure of the Conference of the Parties and the financial procedures applied under the Convention shall be applied mutatis mutandis under this Agreement, except as may be otherwise decided by consensus by the CMA.
 
 6. The first session of the CMA shall be convened by the secretariat in conjunction with the first session of the Conference of the Parties that is scheduled after the date of entry into force of this Agreement. Subsequent ordinary sessions of the CMA shall be held in conjunction with ordinary sessions of the COP, unless otherwise decided by the CMA.
 

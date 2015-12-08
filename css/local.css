@@ -5,3 +5,10 @@
 .post .post-content ol ol ol {
   list-style: lower-roman;
 }
+
+
+h2 em {
+  text-transform: uppercase;
+  font-size: 75%;
+}
+
