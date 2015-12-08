@@ -75,29 +75,26 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 **Option 1:**
 
-1. The purpose of this Agreement is [to [enhance the implementation of the Convention and] to achieve [its] objective [of the Convention] as stated in its Article 2. In order to strengthen and support the global response to the urgent threat of climate change, Parties [shall][agree to] to take urgent action and enhance [cooperation][support] so as to:
+1. The purpose of this Agreement is [to enhance the implementation of the Convention [and] [to achieve objective of the Convention as stated in its Article 2]. [In order to strengthen [and support] the global response to the urgent threat of climate change,[Parties [agree to] to take urgent action and enhance [cooperation][and][concomitant][support]] so as to:]
 
-   1. hold the increase in the global average temperature [below 2 °C][below 1.5 °C][well below 2 °C][below 2 °C or 1.5 °C] [below 1.5 °C or 2 °C][as far below 2°C as possible] above pre-industrial levels by ensuring deep cuts in global greenhouse gas [net] emissions.
-   2. pursue a transformation towards sustainable development, to foster societies that are resilient to climate change and economies that are low in greenhouse gas emissions and to ensure that food production and distribution are not threatened.
-   3. increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and loss and damage.]
+    1.  Hold the increase in the global average temperature [below 1.5 °C] [or] [well] [below 2 °C] above preindustrial levels by ensuring deep cuts in global greenhouse gas [net] emissions;
+    2.  Increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage].
+    3. [Pursue [a [global] transformation] [tractable shift] [pathways] towards [a low [carbon] [GHG emissions] and climate resilient societies] [sustainable development], to foster societies that are resilient to climate change and economies with low greenhouse gas emissions [and to ensure that food production and distribution are not threatened;]
 
-2. [This Agreement shall be implemented on the basis of equity and science, in [full] accordance with the principles of equity and common but differentiated responsibilities and respective capabilities[, in light of national circumstances] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfillment of human rights for all, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational equity].]
+2. This Agreement shall be implemented on the basis of equity and science, and in accordance with the principle of [equity and] common but differentiated responsibilities and respective capabilities, [in the light of different national circumstances,] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, the protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfilment of human rights for all, including indigenous peoples, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational equity].
 
-**Option 2:**
-
-No text
+**Option 2:** No text
 
 ## Article 2bis *(general)*
 
 **Option 1:**
 
-1. All Parties shall regularly prepare, communicate and implement [intended] nationally determined contributions towards achieving the [purposes of this Agreement as set out in Article 2 above] [objective of the Convention as set out in its Article 2], in accordance with Article 4 of the Convention.
+1.  [All Parties [shall] regularly prepare, communicate [and implement] [intended] nationally determined [contributions][components] [on [mitigation] and adaptation] [undertakings in adaptation planning] [and means of implementation]\* [towards achieving the [purpose of this Agreement as set out in Article 2] [objective of the Convention as set out in its Article 2],] [in accordance with Article 4 of the Convention] [in accordance with the provisions of this Agreement including the specific provisions related to mitigation and adaptation and means of implementation.]]
+2.  [Each Party’s [intended] nationally determined contribution will represent a progression in the light of Parties’ differentiated responsibilities and commitments under the Convention.]
+3.  [The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on the provision of finance, technology development and transfer and capacity-building.]
+4.  [Successive [intended] nationally determined contributions will be [informed by the result of the global stocktake as defined in Article 10] and communicated before the expiry of the previous [intended] nationally determined contribution by the Party concerned.]
 
-2. Each Party's [intended] nationally determined contribution will represent a progression in light of Parties' differentiated responsibilities and commitments under the Convention.
-
-3. The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on provision of finance, technology development and transfer and capacity-building.
-
-4. Successive [intended] nationally determined contribution will be communicated before the expiry of the previous [intended] nationally determined contribution by that Party.
+\* *without prejudice to the terminology to be used to describe Parties’ commitments, undertakings and efforts under the Paris Agreement*
 
 **Option 2:**
 
