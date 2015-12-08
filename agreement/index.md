@@ -239,7 +239,7 @@ No text
 
 11. **Methods and guidance**
 
-    **Option 1:** In the context of *NDMC/NDMCC,* when recognising and implementing mitigation actions in respect of anthropogenic emissions and removals [including from land use [or REDD+]], Parties may draw from [/build on] existing methods and guidance under the UNFCCC and the IPCC.
+    **Option 1:** In the context of *[NDMC*][INDC],* when recognising and implementing mitigation actions in respect of anthropogenic emissions and removals [including from land use [or REDD+]], Parties may draw from [/build on] existing methods and guidance under the UNFCCC and the IPCC.
 
     **Option 2:** *No provisions on accounting and land use*
 
@@ -305,32 +305,32 @@ No text
 
 **Option 1:**
 
-1. Establishes a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+1. A mechanism is established to support sustainable development, to be available to assist Parties in fulfilling their [NDMC*][INDC]. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
     1. Enhance mitigation ambition and the mobilization of financing for climate action;
     2. Incentivise and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party.
 
 2. The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
 
-    *Additional elements to article 3 ter to be reflected in the article (these are also applicable to paragraph 34 of the decision):*
+    *Additional elements to article 3ter to be reflected in the article (these are also applicable to paragraph 46 of the decision):*
 
-    - *Additional element - own contribution - EU submission on paragraph 34* "Deliver where desired by Participating Parties a net contribution to mitigation over and above the current NDMC/NDMCC of the Parties participating".
+    - *Additional element - own contribution - EU submission on paragraph 34* "Deliver where desired by Participating Parties a net contribution to mitigation over and above the current [NDMC*]/[INDC] of the Parties participating".
     - *Approval by the Parties involved*
     - *Article 3 ter enabling creation of multiple mechanisms*
     - *Sustainable development criteria of the host country*
 
 **Option 2:**
 
-1. Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their NDMC/NDMCC. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+1. Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their [NDMC*][INDC]. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
     1. Enhance mitigation ambition and the mobilization of financing for climate action;
     2. Incentivize and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party;
 
 2. Requests the SBSTA to elaborate modalities and procedures for the mechanism for sustainable development referred to in paragraph 34 above and report to the IPC at its [X] session with a view to the IPC making recommendations, for consideration and adoption by the CMA at its first session, that inter alia:
 
-    1. Provide, where desired by the participating Parties, for the creation and issuance of real, permanent, additional and verified mitigation outcomes that may be used to meet NDMC/NDMCC in a manner that is supplementary to domestic action, is consistent with the rules and guidance for accounting, and provides for a share of proceeds for adaptation;
+    1. Provide, where desired by the participating Parties, for the creation and issuance of real, permanent, additional and verified mitigation outcomes that may be used to meet [NDMC*][INDC] in a manner that is supplementary to domestic action, is consistent with the rules and guidance for accounting, and provides for a share of proceeds for adaptation;
     2. Deliver, where desired by participating Parties, a net decrease or avoidance of emissions;
-    3. Build on the mechanism defined in Article 12 of the Kyoto Protocol and related decisions of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol;] {paragraph 34 option 1 of the decision}
+    3. Build on the mechanism defined in Article 12 of the Kyoto Protocol and related decisions of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol;] {paragraph 46 option 1 of the decision}
 
 **Option 3**
 
@@ -338,7 +338,7 @@ No text
 
 **Option 4:**
 
-Establishes a mechanism to support holistic and integrated approaches to sustainable development in harmony with nature to be available to assist developing country Parties in fulfilling their NDMC/NDMCC including in a balanced manner mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+Establishes a mechanism to support holistic and integrated approaches to sustainable development in harmony with nature to be available to assist developing country Parties in fulfilling their [NDMC*][INDC] including in a balanced manner mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
 
 (a) Enhance mitigation and adaptation ambition and the provision mobilization of public financing technology transfer and capacity building in an integrated manner for climate action;
 
