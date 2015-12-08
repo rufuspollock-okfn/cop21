@@ -14,7 +14,7 @@ There are high hopes that this conference may be the first to deliver a new bind
 
 ## Who is Doing This?
 
-This is a pro-bono effort led by <a href="https://discuss.okfn.org/users/rufuspollock">Rufus Pollock</a> of <a href="http://okfnlabs.org/">Open Knowledge Labs</a>.
+This effort is led by <a href="https://discuss.okfn.org/users/rufuspollock">Rufus Pollock</a> of <a href="http://okfnlabs.org/">Open Knowledge Labs</a> in collaboration with Tommaso Venturini of the <a href="http://www.medialab.sciences-po.fr/">médialab at Sciences Po</a>. It uses material from the <a href="http://www.iisd.ca/enb/">ENB from IISD</a> and has benefited from the efforst of multiple contributors.
 
 Open Knowledge is an international non-profit dedicated to opening up important, public interest, information and seeing it used to create insight and change.
 
@@ -73,7 +73,7 @@ The key thing for our purposes is to understand is that negotiation on the treat
 
 The key mandate for the ADP was:
 
-> The COP, by pdf-icon decision 1/CP.17, launched a process to develop a
+> The COP, by decision 1/CP.17, launched a process to develop a
 > protocol, another legal instrument or an agreed outcome with legal force
 > under the Convention applicable to all Parties (also referred to as the 2015
 > agreement), which shall be adopted at the twenty-first session of the COP, in
