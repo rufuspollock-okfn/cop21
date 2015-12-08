@@ -514,35 +514,35 @@ financial resources are under-reported rather than over-reported;
 
 ## Article 7 *(technology development and transfer)*
 
-1. All Parties[, in accordance with the principles and provisions of the Convention, in particular Article 4 [and Article 11]], noting the importance of [meeting the] technology [requirements] for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing deployment and dissemination efforts, [shall][should] strengthen cooperative action [among Parties] [to accelerate and upscale] [on] [technology development and transfer] [through];
+1. All Parties[, in accordance with the principles and provisions of the Convention, in particular Article 4 [and Article 11]], noting the importance of [meeting the] technology [requirements] for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing deployment and dissemination efforts [and the urgency of realizing technology development and transfer], [shall][should] strengthen cooperative action [among Parties] [to accelerate and upscale] [on] [technology development and transfer] [through] [, inter alia:
 
-   [inter alia:
+    1. [Improving endogenous capacities and enabling environments according to nationally determined needs and priorities, in accordance with Article 4, paragraph 5, of the Convention];
+    2. [Addressing barriers [in accessing to][for] the transfer of safe, appropriate and environmentally and socially sound technologies [by developing countries];]
+    3. Fostering cooperative approaches to research and development].
+    
+2. **Option 1**: Parties share the long-term vision for technology development and transfer to improve resilience to climate change and reduce emissions.
 
-    1. [Improve endogenous capacities and enabling environment according to nationally determined needs and priorities, in accordance with Article 4.5 of the Convention]
-    2. Address barriers [in accessing to][for] the transfer of safe, appropriate and environmentally, and socially sound technologies [by developing countries]; and
-    3. Foster cooperative approaches to research and development].
+    **Option 2**: Parties share a long-term vision regarding the importance of urgently realizing technology development and transfer to improve resilience to climate change and reduce emissions, which is hereby agreed.
 
-    **Option 1:** The [CMA] shall, at its first session, establish a global goal for technology development and transfer[, with the aim of improving the resilience of countries through adaptation and mitigation.][, under which][ In this regard] developed country Parties shall regularly prepare, communicate and implement their commitments on provision of developed country Parties' ready-for-transfer technologies and know-how as well as providing financial resources for collaborative research and development of environmentally sound technologies and enhancing the access of developing countries to such technologies, that match developing country Parties' technology needs, in order to progressively scale up support and cooperation for technology development and transfer, taking into account the limit to global average temperature increase referred to in Article 2, paragraph 2 of the Agreement.]
+    *Note: Option 1 and Option 2 for paragraphs 2-3 are to be considered together*
+
+3. **Option 1:** A technology framework is hereby established to pursue that vision, including to enhance the development and transfer of socially and environmentally sound technologies.
+
+    **Option 2:** A technology framework is hereby established to achieve that vision, with a view to enhancing the development and transfer of, and access to, socially and environmentally sound technologies by [addressing [mutually agreed] barriers and] guiding the work of the Technology Mechanism and further to facilitate the understanding of [the intended nationally determined contributions of Parties pertaining to] technology provision under the Agreement.
+
+4. **Option 1:** In accordance with Article 4, paragraph 5, of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties free of cost in order to enhance their actions to address the adverse effects of climate change.
 
     **Option 2:** No text
 
-3. **Option 1:** The CMA shall, at its first session, consider and adopt a technology framework in accordance with the guidelines contained in decision 1/CP.21. Such a technology framework would be intended to provide direction and overarching guidance to the work of the existing institutions in the medium and long term and to strengthen them.
+5.  The Technology Mechanism shall serve this Agreement [and shall be strengthened in line with its mandate for this purpose].
 
-    **Option 2:** The Technology Framework shall provide direction and overarching guidance in respect of technology assessments, identifying those with potential for high impact, and identifying options for enhancing access, and addressing barriers to their deployment. The framework shall further guide the work of the Technology [Mechanism] [institutions] [under this Agreement] in the medium to long term, and strengthen them.
+6. **Option 1:** Developing country Parties [and Parties in need of support, including countries with economies in transition] are eligible for support in the implementation of this Article.
 
-4. **Option 1:** In accordance with Article 4, paragraph 5 of the Convention, developed country Parties shall provide financial resources to address barriers created by policies and intellectual property rights (IPRs) and facilitate access to and the deployment of technology, including, inter alia, by utilizing the Financial Mechanism and/or establishing a funding window under the GCF to meet the full costs of IPRs of environmentally sound technologies, know-how and such technologies will be provided to developing country Parties, free of cost, in order to enhance their actions to address the adverse effects of climate change.
-
-    **Option 2:** No text
-
-5. **Option 1:** The [Technology Mechanism] [institutional arrangements for technology established under the Convention] shall [be strengthened and] serve this Agreement [by facilitating enhanced action on technology development and transfer].
-
-    **Option 2:** The Technology Mechanism shall serve this Agreement and be strengthened by facilitating enhanced action which include inter alia; anchoring dedicated nodal research, development and demonstration facility on technology development and transfer.
-
-6. **Option 1:** Developing country Parties are eligible for support in the implementation of this Article.
-
-    **Option 2:** [In accordance with Article 4, paragraphs 3[ and 5][, 5 and 9] of the Convention,] developed country Parties and other Parties included in Annex II to the Convention shall provide support, including financial support, for strengthening cooperative action the implementation of the technology framework through the Technology Mechanism. The availability of the financial support shall include through the Financial Mechanism.
+    **Option 2:** [In accordance with Article 4, paragraphs 3[ and 5][, 5 and 9], of the Convention,] [developed country Parties] [Parties in a position to do so] and other Parties included in Annex II to the Convention shall [continue to provide regular reports] [regularly prepare, communicate and implement their commitments on the support of technology provisions for [developing countries] Parties [, including Parties whose special circumstances are recognized by COP decisions],] [provide enhanced support], including financial support, for strengthening cooperative action the implementation of the technology framework through the Technology Mechanism [and the Financial Mechanism]. [The availability of the financial support shall include through the Financial Mechanism.] [The overall implementation of the commitments will be periodically assessed through a global stock-take in accordance with Article 10 of this Agreement.]
 
     **Option 3:** No text
+
+    **Option 4:** [Developed countries] [All] Parties shall regularly communicate the progress [of implementation] [made in implementing] [pertaining to the financial provisions] the provisions and support for technology development and transfer in accordance with Articles 6 and 9 of this Agreement [, taking into account the provisions of the Convention] [in a measurable, reportable and verifiable manner]. [The overall implementation of the commitments will be periodically assessed through a global stock-take in accordance with Article 10 of this Agreement.]
 
 7. **Option 1:** Developed country Parties and other Parties included in Annex II to the Convention shall provide support for the research, development and application of environmentally sound technologies and facilitate the transfer of and access to such technologies for developing country Parties, including by, inter alia, strengthening cooperative action, providing financial resources to address barriers caused by the absence of domestic research and development capability and innovations, and enhancing access to environmentally sound technologies and know-how.
 
