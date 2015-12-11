@@ -52,17 +52,17 @@ Have agreed as follows:
 
 For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
-1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
-2. “Party” means a Party to this Agreement;
-3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
-4. [*Placeholder* for “countries in need of support”;]
+1. "Parties present and voting” means Parties present and casting an affirmative or negative vote;
+2. "Party” means a Party to this Agreement;
+3. "CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
+4. [*Placeholder* for "countries in need of support”;]
 5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
-6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
-7. [“REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
-8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
-9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-11. [*Placeholder* for “climate finance”];
+6. ["Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
+7. ["REDD+” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries that is based on the Warsaw Framework for REDD+ and relevant decisions of the [Conference of the Parties];]
+8. ["JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD+ and to results-based payments;]
+9. ["Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+10. ["Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+11. [*Placeholder* for "climate finance”];
 12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
 13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
 14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]

@@ -54,17 +54,17 @@ Have agreed as follows:
 
 For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
-1. “Parties present and voting” means Parties present and casting an affirmative or negative vote;
-2. “Party” means a Party to this Agreement;
-3. “CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
-4. [*Placeholder* for “countries in need of support”;]
+1. "Parties present and voting” means Parties present and casting an affirmative or negative vote;
+2. "Party” means a Party to this Agreement;
+3. "CMA” means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
+4. [*Placeholder* for "countries in need of support”;]
 5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (expressed in W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
-6. [“Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
-7. [“REDD-plus” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries, which is based on the Warsaw Framework for REDD-plus and relevant decisions of the [Conference of the Parties];]
-8. [“JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD-plus and to results-based payments;]
-9. [“Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-10. [“Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-11. [*Placeholder* for “climate finance”];
+6. ["Emission reductions” means the sum of all reduced emissions and increased carbon stocks;]
+7. ["REDD-plus” means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries, which is based on the Warsaw Framework for REDD-plus and relevant decisions of the [Conference of the Parties];]
+8. ["JMA” means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD-plus and to results-based payments;]
+9. ["Developed country Party” means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+10. ["Developing country Party” means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
+11. [*Placeholder* for "climate finance”];
 12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
 13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
 14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
@@ -578,7 +578,7 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
 
 1. **Option 1:** A robust transparency framework covering both action and support, differentiated between developed and developing countries, building on the arrangements under the Convention, related decisions of the COP and mechanisms established by the Cancun Agreements (decision 1/CP.16), applicable to all Parties, and providing flexibility to developing countries is hereby established.
 
-    **Option 2:** A unified and robust transparency system, covering both action and support, with built-in flexibility to take into account Parties’ differing capacities, and applicable to all Parties is hereby established.
+    **Option 2:** A unified and robust transparency system, covering both action and support, with built-in flexibility to take into account Parties' differing capacities, and applicable to all Parties is hereby established.
 
     **Option 3:** A robust, tiered transparency framework covering both action and support, applicable to all Parties, based on self-differentiation with no backsliding and on national capabilities and intended nationally determined contributions, and that builds on and enhances existing arrangements under the Convention and decision 1/CP. 16 is hereby established.
 
@@ -593,8 +593,8 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
     1. Provide a clear understanding of climate change actions in the light of the objective as set by Article 2 of the Convention;
     2. Provide a clear understanding of the emissions and removals of individual Parties;
     3. Facilitate understanding of global aggregate emissions and removals [to inform the global stocktake under Article 10];
-    4. Ensure clarity and tracking of progress made towards [implementing and/*{outcomes from Article 3.2}*] achieving individual Parties’ respective contributions/commitments/other under Article 3;
-    5. [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties’ actions16 under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
+    4. Ensure clarity and tracking of progress made towards [implementing and/*{outcomes from Article 3.2}*] achieving individual Parties' respective contributions/commitments/other under Article 3;
+    5. [Share information, lessons learned and good practice on adaptation, including on][Provide a clear understanding of] progress made in implementing individual Parties' actions16 under Article 4[, and other regional and global actions on adaptation in the light of the global temperature goal];
     6. [Promote comparability among developed country Parties.] *{The proponents of this language feel that it could be moved to another more appropriate part of Article 9}*
 
 5. The purpose of the system for transparency of support is to:
@@ -605,7 +605,7 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
     4. Ensure clarity and tracking of support needed and received by developing country Parties in accordance with Articles 6, 7 and 8;
     5. Ensure that there shall be no double counting of financial resources provided [and ensure the environmental integrity of this Agreement]. *{While the first concept is relevant here, the second bracketed concept does not relate to this section on support, and could be moved elsewhere.}*
 
-    *{Further discussion is needed on: the relationship between the system and existing arrangements; the nature of flexibility; and the potential role of ‘nationally determined’.}*
+    *{Further discussion is needed on: the relationship between the system and existing arrangements; the nature of flexibility; and the potential role of ‘nationally determined'.}*
 
 6. **Option 1:** Each Party[, taking into account their common but differentiated responsibilities and their specific national and regional development priorities, objectives, and circumstances,] [shall][should][other] provide transparent, complete, consistent, comparable, and accurate information in accordance with guidelines [referred to in paragraph 6 of this Article] [developed by the CMA] on:
 
@@ -622,11 +622,11 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
 
 7. **Option 1:** The information provided by each Party shall be subjected to at least biennially an international technical expert review. The review process shall provide a thorough, objective and comprehensive technical assessment of the implementation by a Party of the requirements of the Agreement. The international technical expert review shall be carried out by an expert review team following guidance adopted by the CMA at its first session.
 
-    The expert review team shall produce a report on the results of the technical expert review, which shall be communicated to the CMA. The expert review team shall consult the Party concerned on the report prior to its communication to the CMA. The report shall analyse the extent to which the Party is on track to achieve its obligations under this Agreement, as well as the extent to which the Party’s reporting is in line with the guidelines referred to in paragraph 6 of this Article.
+    The expert review team shall produce a report on the results of the technical expert review, which shall be communicated to the CMA. The expert review team shall consult the Party concerned on the report prior to its communication to the CMA. The report shall analyse the extent to which the Party is on track to achieve its obligations under this Agreement, as well as the extent to which the Party's reporting is in line with the guidelines referred to in paragraph 6 of this Article.
 
     The report shall identify any issues related to compliance
 
-    **Option 2:** The information required under this Article shall be subject to a technical expert review in accordance with common guidelines and procedures adopted by the CMA. The review will consider the consistency of the information with the guidelines adopted by the CMA, the Party’s implementation and achievement of its nationally determined mitigation [commitment][contribution], and identify any areas for improvement in reporting. For Parties with least capacity, the expert review may also identify capacity-building needs. The technical expert review shall be carried out by an expert review team. The expert review team shall produce a report for publication by the secretariat and consideration by the CMA.
+    **Option 2:** The information required under this Article shall be subject to a technical expert review in accordance with common guidelines and procedures adopted by the CMA. The review will consider the consistency of the information with the guidelines adopted by the CMA, the Party's implementation and achievement of its nationally determined mitigation [commitment][contribution], and identify any areas for improvement in reporting. For Parties with least capacity, the expert review may also identify capacity-building needs. The technical expert review shall be carried out by an expert review team. The expert review team shall produce a report for publication by the secretariat and consideration by the CMA.
 
     Each Party shall undergo a multilateral and facilitative examination of the implementation of its [nationally determined mitigation] [contribution][commitment][other].
 
