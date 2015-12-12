@@ -16,76 +16,65 @@ redirect_from:
 
 The Parties to this Agreement,
 
-*Being* Parties to the United Nations Framework Convention on Climate Change (hereinafter referred to as "the Convention"),
+*Being* Parties to the United Nations Framework Convention on Climate Change hereinafter referred to as "the Convention",
 
-*In pursuit* of the objective of the Convention, [and being guided by its principles [and provisions], including the principle of equity and common but differentiated responsibilities and respective capabilities, [in the light of different national circumstances],]
+*Pursuant* to the Durban Platform for Enhanced Action established by decision 1/CP.17 of the Conference of the Parties to the Convention at its seventeenth session,
 
-*Pursuant to the* Durban Platform for Enhanced Action adopted by decision 1/CP.17 of the Conference of the Parties to the Convention at its seventeenth session,
+*In pursuit* of the objective of the Convention, and being guided by its principles, including the principle of equity and common but differentiated responsibilities and respective capabilities, in the light of different national circumstances,
 
-*Recognizing* the intrinsic relationship between climate change, poverty eradication and [equitable access to] sustainable development, [reaffirming that responses to climate change shall [aim to avoid the adverse impacts of response measures, and] promote [social and economic development in harmony with nature][sustainable development]],]
+*Recognizing* the need for an effective and progressive response to the urgent threat of climate change on the basis of the best available scientific knowledge,
 
-*Taking* account of the specific needs [and special circumstances] of [developing country] Parties, [in accordance with the Convention] [and especially those that are particularly vulnerable][to climate related events,][including mountainous developing states],
+*Also recognizing* the specific needs and special circumstances of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change, as provided for in the Convention,
 
-[*Taking account also* of the [different and additional] specific needs and special [situations] [circumstances ] of [least developed country (LDC) Parties in accordance with Article 4, paragraph 9 of the Convention and specific circumstances of] small island developing States (SIDS) [and least developed country (LDC) Parties],] [Africa] [and the Central American Isthmus],
+*Taking full account* of the specific needs and special situations of the least developed countries with regard to funding and transfer of technology,
 
-*Emphasizing* the need to respond to the urgent threat of climate change on the basis of the [best available] [reliable] scientific knowledge, in particular, the assessment reports of the Intergovernmental Panel on Climate Change,
+*Recognizing* that Parties may be affected not only by climate change, but also by the impacts of the measures taken in response to it,
 
-*Recognizing* the outcomes of the 2013–2015 review, [including the report on the structured expert dialogue on the review,]
+*Emphasizing* the intrinsic relationship that climate change actions, responses and impacts have with equitable access to sustainable development and eradication of poverty,
 
-[*Noting* that the largest share of historical global emissions of greenhouse gases has originated in developed countries, that per capita emissions in developing countries are still relatively low and that the share of global emissions originating in developing countries will grow to meet their social and development needs,]
+*Recognizing* the fundamental priority of safeguarding food security and ending hunger, and the particular vulnerabilities of food production systems to the adverse impacts of climate change,
 
-*Recognizing* that Parties should take action to address climate change in accordance with [[relevant][evolving economic and emission] trends, which will continue to evolve post-2020] [and the principles and provisions of the Convention],
+*Taking into account* the imperatives of a just transition of the workforce and the creation of decent work and quality jobs in accordance with nationally defined development priorities,
 
-[*Emphasizing* the importance of promoting, protecting and respecting all human rights, including [to promote sustainable][the right to] development, and] [the right to health,] the rights of indigenous peoples, [climate induced] migrants [refugees and internally displaced peoples], children, persons with disabilities and people in vulnerable situations [and under occupation] [with due respect to sovereignty and territorial integrity of states], as well as promoting health, gender equality and the empowerment of women, while taking into account the needs of local communities, intergenerational equity concerns, and [the integrity of [ecosystems and] Mother Earth], when taking action to address climate change,]
+*Acknowledging* that climate change is a common concern of humankind, Parties should, when taking action to address climate change, respect, promote and consider their respective obligations on human rights, the right to health, the rights of indigenous peoples, local communities, migrants, children, persons with disabilities and people in vulnerable situations and the right to development, as well as gender equality, empowerment of women and intergenerational equity,
 
-*Taking into account* the imperatives of equitable access to sustainable development, and a just transition of the workforce and the creation of decent work and quality jobs in accordance with nationally defined development priorities.
+*Recognizing* the importance of the conservation and enhancement, as appropriate, of sinks and reservoirs of the greenhouse gases referred to in the Convention,
 
-*Recognizing* the critical importance [and [fundamental] priority] of safeguarding food security and ending hunger [consistent with the 2030 UN sustainable development agenda] [and the special characteristics of food and land]
+*Noting* the importance of ensuring the integrity of all ecosystems, including oceans, and the protection of biodiversity, recognized by some cultures as Mother Earth, and noting the importance for some of the concept of "climate justice", when taking action to address climate change,
 
-[*Recognizing also* the [special characteristics and] [critical] importance of the conservation and enhancement[, as appropriate,] of sinks and reservoirs of greenhouse gases, [including [forests] [, oceans] [, ecological biomes] and other ecosystems, including through [landscape restoration] [REDD-plus, the Joint Mitigation and Adaptation approach for the integral and sustainable management of forests]] [, conservation of biodiversity], and the related benefits [for achieving the ultimate objective of the Convention], as well as the multiple social and environmental objectives of Parties [when managing their lands],]]
+*Affirming* the importance of education, training, public awareness, public participation, public access to information and cooperation at all levels on the matters addressed in this Agreement,
 
-*Affirming* the importance of education, training, public awareness, public participation, public access to information and cooperation [on climate change] at all levels on the matters addressed in this Agreement, and recognizing the [important] role of [subnational and local authorities as well as [non state actors and the private sector]] [a multiplicity of] [different] actors,
+*Recognizing* the importance of the engagements of all levels of government and various actors, in accordance with respective national legislations of Parties, in addressing climate change,
 
-[*Acknowledging* that putting a price on carbon is an important approach for cost-effectiveness of the cuts in global greenhouse gas emissions,]
+*Also recognizing* that sustainable lifestyles and sustainable patterns of consumption and production, with developed country Parties taking the lead, play an important role in addressing climate change,
 
 Have agreed as follows:
 
-## Article 1 *(definitions)*
+## Article 1
 
 For the purposes of this Agreement, all definitions contained in Article 1 of the Convention apply. In addition:
 
-1. "Parties present and voting" means Parties present and casting an affirmative or negative vote;
-2. "Party" means a Party to this Agreement;
-3. "CMA" means the Conference of the Parties serving as the meeting of the Parties to this [Agreement];
-4. [*Placeholder* for "countries in need of support";]
-5. [Climate forcers: compounds or group of compounds that contribute to climate change. This contribution can be measured through their radiative forcing (expressed in W/m2). They are well-mixed and near-term greenhouse gases, aerosols, or particles;]
-6. ["Emission reductions" means the sum of all reduced emissions and increased carbon stocks;]
-7. ["REDD-plus" means a mechanism aimed at reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries, which is based on the Warsaw Framework for REDD-plus and relevant decisions of the [Conference of the Parties];]
-8. ["JMA" means a mechanism for the implementation of joint mitigation and adaptation actions for the integral and sustainable management of forests alternative to REDD-plus and to results-based payments;]
-9. ["Developed country Party" means a developed country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-10. ["Developing country Party" means a developing country Party [under the Convention] [within the meaning of this Agreement] [under the UN system];]
-11. [*Placeholder* for "climate finance"];
-12. ["Conference of the Parties" means the Conference of the Parties to the Convention;]
-13. ["Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;]
-14. ["Party included in Annex I" means a Party included in Annex I to the Convention, as may be amended, or a Party which has made a notification under Article 4, paragraph 2(g), of the Convention;]
+1. "Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9
+May 1992.
+2. "Conference of the Parties" means the Conference of the Parties to the Convention.
+3. "Party" means a Party to this Agreement
 
-*[Further definitions may be required at a later stage in the negotiating process.]*
+## Article 2
 
-## Article 2 *(purpose)*
+1. This Agreement, in enhancing the implementation of the Convention, including its objective, aims to strengthen the global response to the threat of climate change, in the context of sustainable development and efforts to eradicate poverty, including by:
 
-**Option 1:**
+    1. Holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5 °C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
+    2. Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production;
+    3. Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
 
-1. The purpose of this Agreement is [to enhance the implementation of the Convention [and] [to achieve objective of the Convention as stated in its Article 2]. [In order to strengthen [and support] the global response to the urgent threat of climate change,[Parties [agree to] to take urgent action and enhance [cooperation][and][concomitant][support]] so as to:]
+2. This Agreement will be implemented to reflect equity and the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances. 
 
-    1.  Hold the increase in the global average temperature [below 1.5 °C] [or] [well] [below 2 °C] above preindustrial levels by ensuring deep cuts in global greenhouse gas [net] emissions;
-    2.  Increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage].
-    3. [Pursue [a [global] transformation] [tractable shift] [pathways] towards [a low [carbon] [GHG emissions] and climate resilient societies] [sustainable development], to foster societies that are resilient to climate change and economies with low greenhouse gas emissions [and to ensure that food production and distribution are not threatened;]
+## Article 3
 
-2. This Agreement shall be implemented on the basis of equity and science, and in accordance with the principle of [equity and] common but differentiated responsibilities and respective capabilities, [in the light of different national circumstances,] [the principles and provisions of the Convention], while ensuring the integrity and resilience of natural ecosystems, [the integrity of Mother Earth, the protection of health, a just transition of the workforce and creation of decent work and quality jobs in accordance with nationally defined development priorities] and the respect, protection, promotion and fulfilment of human rights for all, including indigenous peoples, including the right to health and sustainable development, [including the right of people under occupation] and to ensure gender equality and the full and equal participation of women, [and intergenerational equity].
+As nationally determined contributions to the global response to climate change, all Parties are to undertake and communicate ambitious efforts as defined in Articles 4, 7, 9, 10, 11 and 13 with the view to achieving the purpose of this Agreement as set out in Article 2. The efforts of all Parties will represent a progression over time, while recognizing the need to support developing country Parties for the effective implementation of this
+Agreement. 
 
-**Option 2:** No text
-
-## Article 2bis *(general)*
+## Article 4
 
 **Option 1:**
 
