@@ -1,7 +1,6 @@
 ---
 title: Paris Agreement
 edit: true
-annotate: false
 redirect_from:
   - /23-oct-2015/
 ---
