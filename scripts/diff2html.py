@@ -57,11 +57,6 @@ html_hdr = """<!DOCTYPE html>
     <meta charset="{1}" />
     <title>HTML Diff{0}</title>
     <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEXAAAAAgAD///+K/HwIAAAAJUlEQVQI12NYBQQM2IgGBQ4mCIEQW7oyK4phampkGIQAc1G1AQCRxCNbyW92oQAAAABJRU5ErkJggg==" type="image/png" />
-    <meta property="dc:language" content="{5}" />
-    <!--meta property="dc:date" content="{3}" /-->
-    <meta property="dc:modified" content="{4}" />
-    <meta name="description" content="{2}" />
-    <meta property="dc:abstract" content="{2}" />
     <style>
         table {{ border:0px; border-collapse:collapse; width: 100%; font-size:0.75em; font-family: Lucida Console, monospace }}
         td.line {{ color:#8080a0 }}
