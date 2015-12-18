@@ -13,4 +13,4 @@ diff -u99999                                    \
     $AGREEMENT/23-oct-2015/index.md             \
     $AGREEMENT/4-dec-2015/index.md              \
         | python $SCRIPTS/diff2html.py          \
-        -a 1 -k > $DIFF/23-oct-vs-4-dec.html
+        -a 1 > $DIFF/23-oct-vs-4-dec.html

@@ -55,8 +55,6 @@ html_hdr = """<!DOCTYPE html>
     xmlns:dc="http://purl.org/dc/terms/">
 <head>
     <meta charset="{1}" />
-    <meta name="generator" content="diff2html.py (http://git.droids-corp.org/gitweb/?p=diff2html)" />
-    <!--meta name="author" content="Fill in" /-->
     <title>HTML Diff{0}</title>
     <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEXAAAAAgAD///+K/HwIAAAAJUlEQVQI12NYBQQM2IgGBQ4mCIEQW7oyK4phampkGIQAc1G1AQCRxCNbyW92oQAAAABJRU5ErkJggg==" type="image/png" />
     <meta property="dc:language" content="{5}" />
@@ -68,12 +66,16 @@ html_hdr = """<!DOCTYPE html>
         table {{ border:0px; border-collapse:collapse; width: 100%; font-size:0.75em; font-family: Lucida Console, monospace }}
         td.line {{ color:#8080a0 }}
         th {{ background: black; color: white }}
-        tr.diffunmodified td {{ background: #D0D0E0 }}
         tr.diffhunk td {{ background: #A0A0A0 }}
-        tr.diffadded td {{ background: #CCFFCC }}
-        tr.diffdeleted td {{ background: #FFCCCC }}
-        tr.diffchanged td {{ background: #FFFFA0 }}
-        span.diffchanged2 {{ background: #E0C880 }}
+
+        tr.diffdeleted td {{ background: #fee8e9 }}
+        tr.diffchanged td.left {{ background: #fee8e9 }}
+        td.left span.diffchanged2 {{ background: #ffb6ba }}
+
+        tr.diffadded td {{ background: #dfd }}
+        tr.diffchanged td.right {{ background: #dfd }}
+        td.right span.diffchanged2 {{ background: #97f295 }}
+
         span.diffponct {{ color: #B08080 }}
         tr.diffmisc td {{}}
         tr.diffseparator td {{}}
@@ -83,9 +85,6 @@ html_hdr = """<!DOCTYPE html>
 """
 
 html_footer = """
-<footer>
-    <p>Modified at {1}. HTML formatting created by <a href="http://git.droids-corp.org/gitweb/?p=diff2html;a=summary">diff2html</a>.    </p>
-</footer>
 </body></html>
 """
 
@@ -325,8 +324,8 @@ def add_line(s1, s2, output_file):
 
     output_file.write(('<tr class="diff%s">' % type_name).encode(encoding))
     if s1 != None and s1 != "":
-        output_file.write(('<td class="diffline">%d </td>' % line1).encode(encoding))
-        output_file.write('<td class="diffpresent">'.encode(encoding))
+        output_file.write(('<td class="diffline left">%d </td>' % line1).encode(encoding))
+        output_file.write('<td class="diffpresent left">'.encode(encoding))
         output_file.write(convert(s1, linesize=linesize, ponct=1).encode(encoding))
         output_file.write('</td>')
     else:
@@ -334,8 +333,8 @@ def add_line(s1, s2, output_file):
         output_file.write('<td colspan="2"> </td>')
 
     if s2 != None and s2 != "":
-        output_file.write(('<td class="diffline">%d </td>'%line2).encode(encoding))
-        output_file.write('<td class="diffpresent">')
+        output_file.write(('<td class="diffline right">%d </td>'%line2).encode(encoding))
+        output_file.write('<td class="diffpresent right">')
         output_file.write(convert(s2, linesize=linesize, ponct=1).encode(encoding))
         output_file.write('</td>')
     else:
