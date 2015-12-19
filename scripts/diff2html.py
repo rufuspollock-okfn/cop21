@@ -50,41 +50,16 @@ desc = "File comparison"
 dtnow = datetime.datetime.now()
 modified_date = "%s+01:00"%dtnow.isoformat()
 
-html_hdr = """<!DOCTYPE html>
-<html lang="{5}" dir="ltr"
-    xmlns:dc="http://purl.org/dc/terms/">
-<head>
-    <meta charset="{1}" />
-    <title>HTML Diff{0}</title>
-    <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAACVBMVEXAAAAAgAD///+K/HwIAAAAJUlEQVQI12NYBQQM2IgGBQ4mCIEQW7oyK4phampkGIQAc1G1AQCRxCNbyW92oQAAAABJRU5ErkJggg==" type="image/png" />
-    <style>
-        table {{ border:0px; border-collapse:collapse; width: 100%; font-size:0.75em; font-family: Lucida Console, monospace }}
-        td.line {{ color:#8080a0 }}
-        th {{ background: black; color: white }}
-        tr.diffhunk td {{ background: #A0A0A0 }}
-
-        tr.diffdeleted td {{ background: #fee8e9 }}
-        tr.diffchanged td.left {{ background: #fee8e9 }}
-        td.left span.diffchanged2 {{ background: #ffb6ba }}
-
-        tr.diffadded td {{ background: #dfd }}
-        tr.diffchanged td.right {{ background: #dfd }}
-        td.right span.diffchanged2 {{ background: #97f295 }}
-
-        span.diffponct {{ color: #B08080 }}
-        tr.diffmisc td {{}}
-        tr.diffseparator td {{}}
-    </style>
-</head>
-<body>
+html_hdr = """\
+---
+layout: default
+---
 """
 
-html_footer = """
-</body></html>
-"""
+html_footer = ""
 
 table_hdr = """
-		<table class="diff">
+<table class="table table-diff">
 """
 
 table_footer = """
@@ -382,6 +357,7 @@ def parse_input(input_file, output_file, input_file_name, output_file_name,
     if not exclude_headers:
         title_suffix = ' ' + input_file_name
         output_file.write(html_hdr.format(title_suffix, encoding, desc, "", modified_date, lang).encode(encoding))
+
     output_file.write(table_hdr.encode(encoding))
 
     while True:
@@ -441,6 +417,7 @@ def parse_input(input_file, output_file, input_file_name, output_file_name,
 
     empty_buffer(output_file)
     output_file.write(table_footer.encode(encoding))
+
     if not exclude_headers:
         output_file.write(html_footer.format("", dtnow.strftime("%d.%m.%Y")).encode(encoding))
 
