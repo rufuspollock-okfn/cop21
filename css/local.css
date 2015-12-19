@@ -41,7 +41,8 @@ tr.diffchanged td.left {
 }
 
 td.left span.diffchanged2 {
-    background: #ffb6ba
+    background: #ffb6ba;
+    border-radius: 3px 3px 3px 3px;
 }
 
 tr.diffadded td {
@@ -53,7 +54,8 @@ tr.diffchanged td.right {
 }
 
 td.right span.diffchanged2 {
-    background: #97f295
+    background: #97f295;
+    border-radius: 3px 3px 3px 3px;
 }
 
 span.diffponct {
