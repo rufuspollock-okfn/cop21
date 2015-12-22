@@ -54,24 +54,22 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 1. The purpose of this Agreement is to [enhance the implementation of the Convention and to achieve its objective][further implement the objective of the Convention set out in its Article 2 [through enhanced action, cooperation and support]] so as:
 
-  **1. To hold the increase in the global average temperature to
+    1. To hold the increase in the global average temperature to
 
-   **Option 1:** below 2 °C above pre-industrial levels,
+        **Option 1:** below 2 °C above pre-industrial levels,
 
-   **Option 2:** well below 2°C above pre-industrial levels [and to [rapidly] scale up global efforts to limit temperature increase to below 1.5 °C] [,while recognizing that in some regions and vulnerable ecosystems high risks are projected even for warming above 1.5 °C],
+        **Option 2:** well below 2°C above pre-industrial levels [and to [rapidly] scale up global efforts to limit temperature increase to below 1.5 °C] [,while recognizing that in some regions and vulnerable ecosystems high risks are projected even for warming above 1.5 °C],
 
-   **Option 3:** below 1.5°C above pre-industrial levels,
+        **Option 3:** below 1.5°C above pre-industrial levels,
    taking into account the best available science, equity, sustainable development, the need to ensure food security and the availability of means of implementation, by ensuring deep reductions in global greenhouse gas [net] emissions;
 
-   **2. To increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage];
+    2. To increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage];
 
-  **3. To pursue sustainable development in a manner that fosters climate resilience and low greenhouse gas
-emissions, and that does not threaten food production and distribution;
+    3. To pursue sustainable development in a manner that fosters climate resilience and low greenhouse gas emissions, and that does not threaten food production and distribution;
 
-  **4. To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
+    4. To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
 
 2. This Agreement will be implemented on the basis of equity and in accordance with the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances and on the basis of respect for human rights.
-
 
 ## Article 2bis *(general)*
 
@@ -98,255 +96,129 @@ emissions, and that does not threaten food production and distribution;
 
 1. **Collective long-term goal**
 
-    [Parties [collectively][cooperatively] aim to reach the global temperature goal referred to in Article 2 through:
-    
-    1. [a peaking of global greenhouse gas emissions as soon as possible[, recognizing that peaking requires deeper cuts of emissions of developed countries and will be longer for developing countries]]
-    2. [rapid reductions thereafter [in accordance with best available science] to at least a X [-Y] per cent reduction in global [greenhouse gas emissions][CO2[e]] compared to 20XX levels by 2050]];
-    3. [achieving zero global GHG emissions by 2060-2080]
-    4. [a long-term low emissions transformation] [toward [climate neutrality][decarbonization] [over the course of this century] [as soon as possible after mid-century];
-    5. [equitable distribution of a global carbon budget based on historical responsibilities and [climate] justice] [on the basis of equity and common but differentiated responsibilities and respective capabilities] [in the context of sustainable development and eradication of poverty][while ensuring that food security, production and
-    distribution is not threatened][informed by the best available science].
+    **Option 1:** Parties collectively aim to reach the global temperature goal referred to in Article 2 through [a peaking of global greenhouse gas emissions as soon as possible, recognizing that peaking requires deeper cuts of emissions of developed countries and will be longer for developing countries; rapid reductions thereafter to [40–70 per cent][70–95 per cent] below 2010 levels by 2050; toward achieving net zero greenhouse gas emissions [by the end][after the middle] of the century] informed by best available science, on the basis of equity and in the context of sustainable development and poverty eradication.
 
-    1bis. [To achieve this, policies and measures should take into account different socio-economic contexts, be comprehensive, cover all relevant sources, sinks and reservoirs of greenhouse gases and adaptation, and comprise all economic sectors [for developed countries]]
+    **Option 2:** Parties collectively aim to reach the global temperature goal referred to in Article 2 through a longterm global low emissions [transformation toward [climate neutrality][decarbonization]] over the course of this century informed by best available science, on the basis of equity and in the context of sustainable development and poverty eradication.
 
 2. **Individual efforts**
 
-    Each Party shall regularly prepare, communicate [and maintain] [successive] [NDMCs[^1]][INDC] and [shall][should][other] [take appropriate domestic measures] [have in place][identify and] [pursue] [implement] [domestic laws, [nationally determined] policies or other measures] [designed to] [implement][achieve][carry out][that support the implementation of] its [NDMCs*][INDC]].
-
-    [Placeholder for article 3.8 and 3.9]
-    [Placeholder for context CBDRCC[, in the light of different national circumstances]]
-    [Placeholder referring to article 4 of the Convention]
-    [Placeholder for support]
+    Each Party shall regularly prepare, communicate [and maintain][successive] ###4
+and [shall][should][other][take appropriate domestic measures] [have in place][identify and] [pursue] [implement] [[domestic laws],[nationally determined] policies or other measures] [designed to] [implement][achieve][carry out][that support the implementation of] its ###].
 
 3. **Differentiated efforts**
 
     **Option 1:**
-
     In accordance with Article 4, paragraph 2, of the Convention, developed country Parties and other Parties included in Annex I shall undertake quantified economy-wide absolute emission reduction and limitation commitments/targets, which are comparable, measurable, reportable and verifiable, cover all greenhouse gases and are implemented domestically without any conditions.
 
-    3bis. In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner, in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
+    3bis. In accordance with Article 4, paragraphs 1, 3, 4, 5 and 7, of the Convention, developing country Parties should undertake diversified enhanced mitigation actions/efforts in a measurable, reportable, and verifiable manner,in the context of sustainable development and supported and enabled by the provision of adequate finance, technology and capacity-building by developed country Parties.
 
     **Option 2:**
+    Each Party that has previously communicated absolute economy wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time.
 
-    Option (a): Each Party that has previously [communicated] [implemented] absolute economy-wide emissions reduction or limitation targets should continue to do so and all Parties should aim to do so over time.
-    
-    Option (b): Developed country Parties [and other Parties [in a position][that determine] to do so] should take the lead in mitigation efforts, including by [communicating] [and implementing] absolute economy-wide emissions reduction [or limitation] targets and all other Parties should aim to do so over time.
+    3bis. Developed country Parties should continue to take the lead.
 
-    3bis [Developed country Parties should continue to take the lead].[^2]
+4. **Flexibility**
 
-4. **Flexibility** LDCs [and SIDS][and African states] may communicate their [NDMC*][INDC] at their discretion, including information on strategies, plans and actions for low GHG development, reflecting their special circumstances.
+    LDCs [and SIDS][and African states] may communicate their ### at their discretion, including information on strategies, plans and actions for low greenhouse gas development, reflecting their special circumstances.
 
-5. **Progression/ambition** Each Party's successive [NDMC*][INDC] [shall][should][will] represent a progression beyond the Party's previous efforts and reflect its highest possible ambition [based on common but differentiated responsibilities and respective capabilities [[and] in light of different national circumstances [and best available science]] [based on provision of finance, technology and capacity-building to developing countries].[^3]
+5. **Support**
 
-6. **Information** In communicating their [proposed] [intended] [NDMC*][INDC], Parties shall provide the information necessary for clarity, transparency and understanding, in accordance with [decision 1/CP.21][decision 1/CP.20 ] [and any subsequent decisions of the CMA.] [Article 12 of the Convention and the relevant arrangement for reporting information adopted by the Conference of the Parties to the Convention (COP) including those resulting from the Bali Action Plan and the information listed in decision 1/CP.20.]
+   **Option 1:** Developed country Parties and other developed Parties included in Annex II to the Convention [and other Parties with the capacity to do so] shall provide new and additional financial resources, technology transfer and capacity-building to meet the agreed full costs incurred by developing country Parties in complying with their obligations under this Article.
 
-7. **Features**[^4]
-
-    **Option 1:** Each Party's [NDMC*][INDC] [shall][should] be quantified or quantifiable, [be unconditional, at least in part ], maintain coverage of emissions and removals covered previously, and strive for coverage of all significant emissions and removals over time. Additional guidance may be elaborated by decision [of the CMA][1/CP.21].
-
-    **Option 2**: Each Developed country Party's [NDMC*][INDC] shall be quantified, cover all key categories of emissions by sources and removals by sinks and use common Intergovernmental Panel on Climate Change (IPCC) metrics, guidance and guidelines for the estimation of greenhouse gas emissions and removals; and others strive to communicate this over time. Additional guidance may be elaborated by the [CMA] [IPC] at its [x] session
-
-    **Option 3**: Guidance on the features of [NDMCs*][INDC] to be elaborated by decision [of the CMA ][1.CP/21].
-
-    **Option 4**: Guidance on the features of [NDMCs*][INDC] to be elaborated by decision of the CMA at its x session.
-
-    **Option 5**: No text in agreement
-
-8. **Timing**
-
-    1. *First communication option for agreement[^5]*
-
-        **Option 1[^6][^7]:** Each Party's first [NDMC*][INDC] is that listed in [Annex [x] to the Agreement][the registry][the website].
-
-        **Option 2:** Each Party [shall][should] communicate its first [NDMC*][INDC] no later than upon [ratification or acceptance of] [joining] this Agreement.
-
-        **Option 3:** No provision on first communication in agreement and/or decision
-
-    2. *Subsequent communications*
-
-        **Option 1:** *communication to 5 year time period*
-
-        1. Every 5 years, *harmonised* [NDMC*][INDC]
-
-            Each Party shall [[communicate its [successive] [new]] [update its] [NDMC*][INDC] by [year x] [2020] [2021] and every five years thereafter on a [synchronized][common] basis, [or resubmit an existing [NDMC*][INDC]] [for the subsequent five-year time frame], taking into account the outcomes of the global stocktake referred to in Article 10.
-
-        2. *Submit INDC*
-
-            All Parties shall submit their [intended] [proposed] [NDMC*][INDC] [12 [–18] months prior to] [well before] [finalization [inscriptions]
-
-        3. Finalize [NDMC*][INDC]
-
-           [[with a view to [inscription in [Annex] x[^8]][finalization] [at least three months prior to][well before] the session of the CMA at which [NDMC*][INDC] will be collectively updated]]; [*placeholder for an option regarding an "indicative" or "intended" subsequent [NDMC*][INDC] for [five] years after the year of the submitted contribution.*]
-
-        **Option 2:** *communication before the end of the period of implementation*
-
-        Successive [NDMC*][INDC] [shall] [will] [other] be communicated by Parties after completion of the current implementation cycle.
-
-    3. *Consultative period/ex ante[^9]
-
-        **Option 1:** [In the 12 [–18] month period referred to in paragraph x] [The CMA shall facilitate [conduct]] [All Parties shall participate in] a [preparatory] process to [facilitate] [enhance] the clarity, transparency and understanding of the [intended] [proposed] [NDMC*][INDC], including their aggregate effect in the light of the long-term temperature goal referred to in Article 2, including through the production of an aggregate synthesis report. The [preparatory] process shall be conducted in accordance with the modalities and procedures to be adopted by the CMA at its first session.
-
-        **Option 2:** No provision on consultative period/ex ante
-
-    5. *Adjustments*
-
-        A Party may at any time adjust its existing [NDMC*][INDC] with a view to enhancing its level of ambition [, in accordance with the simplified adjustment procedure referred to in Article 19, paragraph 3]. [Adjustments towards lower ambition levels may only be communicated in case the [developing country] Party's efforts are [severely] affected by an extreme natural event, economic shock or force majeure.][Developing country Parties may adjust their [NDMC*][INDC] at their discretion depending upon the adequacy and availability of finance, technology development and transfer and capacity-building support.]
-
-9. **Housing**
-
-    **Option 1:** [The [NDMC*][INDC] communicated by Parties shall be [listed][published] [in an online registry maintained by the secretariat][ in Annex [X] to this Agreement][on the UNFCCC website].]
-
-    **Option 2:** [The [NDMC*][INDC] communicated by developed country Parties shall be inscribed in Annex A to this Agreement.
-    
-    The [NDMC*][INDC] communicated by developing country Parties shall be inscribed in Annex B to this Agreement.]
-
-
-10. **Accounting**[^10]
-
-    **Option 1:**: [In tracking progress towards achieving their [NDMC*][INDC], Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double counting and environmental integrity.]
-
-    **Option 2:** [In tracking progress towards achieving their [NDMC*][INDC], Parties shall apply the principles of transparency, accuracy, completeness, comparability, consistency, avoidance of double counting, and environmental integrity.]
-
-    [The rules and guidance related to the tracking of progress towards achieving [NDMC*][INDC] accounting [that are set forth in [relevant COP decisions and in] decision 1/CP.21], including with respect to land use [and landuse change] [and forests] [and REDD-plus] [and internationally transferred mitigation outcomes], [shall be adopted by the CMA at its first session and may be amended by any subsequent decisions of the CMA] [so as to improve the clarity, transparency and environmental integrity of this Agreement.]
-
-    **Option 3:**
-    
-    1. [Taking into consideration the principles of common but differentiated responsibilities and respective capabilities, and Article 4, paragraph 9, of the Convention] [The rules and guidance related to accounting [that are set forth in [relevant COP decisions and in] decision 1/CP.21], including with respect to land use [and land-use change] [and forests][ and REDD-plus][and internationally transferred mitigation outcomes], [shall be adopted by the CMA at its first session and may be amended by any subsequent decisions of the CMA] [so as to improve the clarity, transparency and environmental integrity of this Agreement.]
-
-    2. [In accounting for its [NDMC*][INDC], each Party shall, taking into account the guidance developed under paragraph [x](a) above]:
-
-        1. [Use the common metrics, guidance and guidelines accepted by the IPCC for the estimation of greenhouse gas emissions and removals and agreed by the CMA];
-        2. [Ensure methodological consistency between the definition of the [NDMC*][INDC] and its implementation];
-        3. [Include an explanation for the exclusion from the [NDMC*][INDC]of any key categories of emissions and removals, and strive to include these over time];
-        4. [[Ensure that] Once a source, sink or activity is accounted for in a [NDMC*][INDC], Parties shall continue to include it];
-        5. [[Ensure that] internationally transferred mitigation outcomes to meet its [NDMC*][INDC] are real, permanent, additional and verified, are subject to systems to ensure that units are not counted more than once in tracking progress towards nationally determined mitigation commitments, and are supplemental to domestic action].
-
-    **Option 4:** Deal with accounting in Transparency of Action and Support
-
-    **Option 5:** No provisions on accounting and land use
-    
-    *Differentiation modulator: (A choice to be made for options 1, 2, and 3).*
-
-    **Option 1:** [Taking into consideration the principles of common but differentiated responsibilities and respective capabilities, and article 4.9 of the Convention]
-
-    **Option 2:** *No differentiation modulator applied in this specific paragraph (does not prejudge how or where differentiation is treated in this section).*
-
-11. **Methods and guidance**
-
-    **Option 1:** In the context of *[NDMC*][INDC],* when recognising and implementing mitigation actions in respect of anthropogenic emissions and removals [including from land use [or REDD+]], Parties may draw from [/build on] existing methods and guidance under the UNFCCC and the IPCC.
-
-    **Option 2:** *No provisions on accounting and land use*
-
-12. **Long-term strategies**
-
-    [Parties [are invited][should strive ]][invite Parties, on a voluntary basis] to formulate and communicate longerterm low-emission development strategies [in accordance with the modalities to be decided by the CMA at its first session][Developed country Parties shall formulate low-emission development strategies with time frames for achieving zero emissions. Developing country Parties are encouraged to develop a long-term green and lowcarbon development strategy, plan or programme, as appropriate].
-
-    [The secretariat shall maintain Parties' communicated low-emission development strategies in a public registry.]
-
-13. **Response Measures**
-
-    *[Preamble: Parties acknowledge the importance of cooperation including around economic diversification to reduce the adverse impacts of the implementation of response measures.]*
-
-    **Option 1:** [Parties shall give full consideration to what actions are necessary under this Agreement to meet the specific needs and concerns of developing country Parties arising from the impact of the implementation of response measures, including in terms of economic diversification, and taking into consideration that poverty eradication and social and economic development are the first and overriding priorities of developing country Parties.
-    
-    Parties agree to enhance actions under this Agreement, including through strengthening institutional arrangements, and to adopt adopt modalities and procedures for enhancing those arrangements. To this end the CMA shall establish a cooperative mechanism to address the adverse impacts of the implementation of response measures on developing country Parties, as included in decision -/CP.21.]
-
-    **Option 2:** No text
-
-14. **Unilateral Measures**
-
-    **Option 1:** [Developed country Parties shall not resort to any form of unilateral measures against goods and services from developing country Parties on any grounds related to climate change, recalling the principles and provisions of the Convention, in particular its Article 3, paragraphs 1, 4 and 5, and Article 4, paragraphs 3, 5, 7, 8, 9 and 10, and taking into account the principles of equity, common but differentiated responsibilities and the obligations of developed country Parties to provide financial resources, transfer of technologies and capacity-building support to developing country Parties.]
-
-    **Option 2:** No text.
-
-15. **REIOS** [Parties, including regional economic integration organizations and their member States, may jointly communicate and[/or] implement their [NDMC*][INDC] [detailing in their joint communication the combined level of [NDMC*][INDC] and individual levels of the [NDMC*][INDC] of each member State of that regional economic integration organization. If Parties acting jointly do so in the framework of, and together with, a regional economic integration organization, any alteration in the composition of the organization after adoption of this Agreement shall not affect existing [NDMC*][INDC]under this Agreement. Any alteration in the composition of the organization shall apply only for the purposes of those commitments under Article 3 that are adopted subsequent to that alteration. If Parties act jointly to implement their [NDMC*][INDC] in the framework of, and together with, a regional economic integration organization that is itself a Party to this Agreement, each member State of that regional economic integration organization individually and together with the regional economic integration organization shall, in the event of failure to achieve the total combined level of [NDMC*][INDC], be responsible for the level of its [NDMC*][INDC] as communicated in accordance with this Article.]
-
-16. **Cooperative approaches**
-
-    **Option 1:** Parties may also cooperate in the implementation of their [NDMC*][INDC].
-
-    **Option 2:** [Parties, when using cooperative approaches, shall ensure that they deliver real, permanent, additional and verified internationally transferrable mitigation outcomes, which shall be counted only once.][The cooperation of Parties in the implementation of mitigation activities to implement their [NDMC*][INDC] may include cooperation through the Warsaw Framework for REDD-plus, mechanisms developed under the COP and cooperative approaches involving the international transfer of mitigation outcomes that meet standards and guidelines to be decided on by the CMA at its first session that are aimed at ensuring environmental integrity and the delivery of real, permanent, additional and verified internationally transferrable mitigation outcomes that shall be counted only once in tracking progress towards [NDMC*][INDC]. The CMA shall provide that a mechanism for supporting sustainable development is available to assist Parties in fulfilling their [NDMC*][INDC], while respecting the [NDMC*][INDC] of the host Party.][^11]
-
-    **Option 3:** Parties acknowledge the importance of cooperation instruments to enhance mitigation commitments at the local, regional and/or international level.
-
-    **Option 4:** No provision
-
-17. **Support**[^12][^13]
-
-    **Option 1:** The developed country Parties and other developed Parties included in Annex II to the Convention [and other Parties with the capacity to do so] shall provide new and additional financial resources, technology transfer and capacity-building to meet the agreed full costs incurred by developing country Parties [and Parties whose special circumstances are recognized by the COP] in complying with their obligations under this Article.
-
-    **Option 2:** [Developing country Parties][and other countries with economies in transition][and Parties whose special circumstances are recognized by the COP][Parties in need of support] are eligible for support in the implementation of this Article.
+    **Option 2:** Developing country Parties are eligible for support in the implementation of this Article.
 
     **Option 3:** The extent to which developing country Parties will effectively implement their commitments will depend on the effective implementation by developed country Parties of their commitments related to financial resources, transfer of technology and capacity-building.
 
-18. **International Transport Emissions**
+6. **Progression/ambition**
 
-    **Option 1:** Parties [shall][should][other] pursue limitation or reduction of greenhouse gas emissions from international aviation and marine bunker fuels, working through the International Civil Aviation Organization and the International Maritime Organization, respectively, with a view to agreeing concrete measures addressing these emissions, including developing procedures for incorporating emissions from international aviation and marine bunker fuels into low-emission development strategies.
+    Each Party’s successive ### [shall][should][will] represent a progression beyond the Party’s previous efforts and reflect its highest possible ambition [based on common but differentiated responsibilities and respective capabilities, in light of different national circumstances].
 
-    **Option 2:** No text
+7. **Information**
+
+    [In communicating their ###, all Parties shall provide the information necessary for the clarity, transparency and understanding in accordance with decision 1/CP.21 and any subsequent decisions of the CMA].
+
+8. **Timing**
+
+    Parties shall communicate an ### every five years in accordance with decisions of the CMA being informed by the outcomes of the global stock take referred to in Article 10.
+
+9. The CMA shall decide on common timeframes for ####, no later than its [X] session.
+
+10. **Adjustments**
+
+    A Party may at any time adjust its existing ### with a view to enhancing its level of ambition [, in accordance with the simplified adjustment procedure referred to in Article 19, paragraph 3].
+
+11. **Housing**
+
+    The ### communicated by Parties shall be recorded [in an online registry maintained by the secretariat][in Annex [X] to this Agreement].
+
+12. **Accounting**
+
+    Parties shall [track progress towards][account for] their ###. In [tracking progress towards][accounting for] their ###, Parties shall promote environmental integrity, transparency, accuracy, completeness, comparability and consistency, and ensure the avoidance of double counting, in accordance with guidance adopted by the CMA.
+
+13. **Methods and guidance**
+
+    In the context of their ###, when recognizing and implementing mitigation actions with respect to anthropogenic emissions and removals, Parties [may draw from and build on] [shall take into account], as appropriate, existing methods and guidance, under the Convention and from the IPCC as adopted by the COP.
+
+    **Response measures**
+
+    [Preamble: Parties acknowledge the importance of cooperation, including around economic diversification to reduce the adverse impacts of the implementation of response measures.]
+
+14. [Parties shall give full consideration to what actions are necessary under this Agreement to meet the specific needs and concerns of developing country Parties arising from the impact of the implementation of response measures, including in terms of economic diversification, and taking into consideration that poverty eradication and social and economic development are the first and overriding priorities of developing country Parties.
+
+15. Parties agree to enhance actions under this Agreement, including through strengthening institutional arrangements, and to adopt modalities and procedures for enhancing those arrangements. To this end the CMA shall establish a cooperative mechanism to address the adverse impacts of the implementation of response measures on developing country Parties, as included in decision -/CP.21.]
+
+    **REIOs**
+
+16. Parties, including regional economic integration organisations and their member States, that have reached an agreement to [implement their ###s jointly] [act under Article 3, paragraph 2, jointly], shall notify the secretariat of the terms of the agreement, including the emission level allocated to each Party within the relevant time period, at the time when they communicate their ###s. The secretariat shall in turn inform the Parties and signatories to the Convention of the terms of this Agreement.
+
+17. [In the event of failure by the] [Each] Part[y] [ies] to such an agreement [to achieve their common ###s], each party to that agreement] shall be responsible for its emission level as set out in that agreement in accordance with paragraph [14] above and Articles [9] and [11].
+
+18. If Parties [implementing their ###s jointly] [acting jointly]do so in the framework of, and together with, a regional economic integration organization which is itself a Party to this Agreement, each member State of that regional economic integration organization individually, and together with the regional economic integration organization shall[, in the event of failure to achieve the common ###s,] be responsible for its emission level as set out in the agreement notified under paragraph (1) in accordance with paragraph [14] above and Articles [9] and [11].
+
+19. If Parties [implementing] [acting] jointly do so in the framework of, and together with, a regional economic integration organization, any alteration in the composition of the organization shall not affect existing ###s and shall only apply for the purposes of those ###s that are communicated subsequent to the alteration.
+
+    **Cooperative approaches**
+
+    [Parties shall, where engaging on a voluntary basis in cooperative approaches that involve the use of internationally transferred mitigation outcomes towards ###, promote sustainable development and environmental integrity and apply robust accounting to ensure, inter alia, the avoidance of double counting, in accordance with guidance adopted by the CMA.]
+
+21. **Long-term strategies**
+
+    All Parties should voluntarily formulate and communicate long-term low-emission development strategies
 
 ## [Article 3bis] *(REDD-plus)*
 
-1. [Mechanisms for forest mitigation and adaptation are] [A REDD-plus mechanism is] hereby defined.
+1. Parties are encouraged to conserve and enhance, as appropriate, sinks and reservoirs of GHG as referred to in Article 4 paragraph 1(d) of the Convention.
 
-2. The REDD-plus mechanism consists of relevant decisions of the Conference of the Parties, including decisions 9 to 15/CP.19 and decision XX/CP.21.
+2. Parties are encouraged to incentivize,[including by scaling up resources] the reduction of emissions from deforestation and forest degradation and to promote the conservation and sustainable management of forests and enhancement of forest carbon stocks in developing countries, while enhancing the non-carbon benefits; and to
+support alternative policy approaches, such as joint mitigation and adaption approaches for the integral and sustainable management of forests, including alleviating poverty and building ecosystem resilience, in accordance with previous COP decisions related to forests.
 
-3. The purpose of the REDD-plus mechanism shall be to incentivize the reduction of emissions from deforestation and forest degradation and to promote conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries, while enhancing the non-carbon benefits derived as a result of the multiple functions of forests, including alleviating poverty and building ecosystem resilience.
-
-4. [The Joint Mitigation and Adaptation Mechanism (JMA) is established to support the integral and sustainable management of forests as an alternative to results-based payments, in accordance to decision X/CP.21.]
 
 ## [Article 3ter] *(mechanism to support sustainable development)*
 
-**Option 1:**
+   **Proposed Mechanism 1**
 
-1. A mechanism is established to support sustainable development, to be available to assist Parties in fulfilling their [NDMC*][INDC]. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
+1. [A mechanism to support sustainable development [in developing country Parties] is hereby established under the authority and guidance of the CMA, shall be supervised by a body designated by the CMA, and shall aim to:
 
-    1. Enhance mitigation ambition and the mobilization of financing for climate action;
-    2. Incentivise and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party.
+      1. Promote sustainable development [in developing country Parties];
+      2. Incentivise and facilitate participation in mitigation action by public and private entities under the responsibility of a Party;
+      3. Enhance mitigation ambition by [developing country] Parties [, by incentivising supplementary voluntary climate action, beyond their ###];
+      4. Deliver, where desired by participating Parties, a net decrease in, or avoidance of, emissions;
+      5. Assist Parties [with a ### reflecting an absolute target in relation to a base year] to fulfil their ###, through the use of mitigation outcomes from mitigation activities [in developing country Parties];
+      6. Ensure environmental integrity, including by ensuring that such mitigation shall not be claimed more than once, in accordance with guidance adopted by the CMA pursuant to Article [3, paragraph 14].]
 
-2. The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
+2. [The CMA shall ensure that a share of the proceeds from activities under the mechanism are used to cover administrative expenses as well as to assist developing country Parties that are particularly vulnerable to the adverse effects of climate change to meet the costs of adaptation.]
 
-    *Additional elements to article 3ter to be reflected in the article (these are also applicable to paragraph 46 of the decision):*
+3. [The CMA shall adopt modalities and procedures for this mechanism at its first session.]
 
-    - *Additional element - own contribution - EU submission on paragraph 34* "Deliver where desired by Participating Parties a net contribution to mitigation over and above the current [NDMC*]/[INDC] of the Parties participating".
-    - *Approval by the Parties involved*
-    - *Article 3 ter enabling creation of multiple mechanisms*
-    - *Sustainable development criteria of the host country*
+**Proposed Mechanism 2**
 
-**Option 2:**
+1. [A mechanism is hereby established to support holistic and integrated approaches to sustainable development in harmony with nature, to be available to assist [developing country] Parties in fulfilling their ###, including, in a balanced manner, mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA, shall be supervised by a body designated by the CMA, and shall aim to:
+      1. Enhance mitigation and adaptation ambition and the provision or mobilization of public financing, technology transfer and capacity building, in an integrated manner for climate action;
+      2. Enhance mitigation and adaptation ambition and the provision or mobilization of public financing, technology transfer and capacity building, in an integrated manner for climate action;
+      3. Support the implementation of the joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments;
+      4. Fully respect mitigation contributions of participating Parties to ensure that the global mitigation effort is not undermined.
 
-1. Recommends that the CMA at its first session consider establishing a mechanism to support sustainable development to be available to assist Parties in fulfilling their [NDMC*][INDC]. This mechanism would be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
-
-    1. Enhance mitigation ambition and the mobilization of financing for climate action;
-    2. Incentivize and enable participation in cost-effective mitigation action by public and private entities acting under the responsibility of a Party;
-
-2. Requests the SBSTA to elaborate modalities and procedures for the mechanism for sustainable development referred to in paragraph 34 above and report to the IPC at its [X] session with a view to the IPC making recommendations, for consideration and adoption by the CMA at its first session, that inter alia:
-
-    1. Provide, where desired by the participating Parties, for the creation and issuance of real, permanent, additional and verified mitigation outcomes that may be used to meet [NDMC*][INDC] in a manner that is supplementary to domestic action, is consistent with the rules and guidance for accounting, and provides for a share of proceeds for adaptation;
-    2. Deliver, where desired by participating Parties, a net decrease or avoidance of emissions;
-    3. Build on the mechanism defined in Article 12 of the Kyoto Protocol and related decisions of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol;] {paragraph 46 option 1 of the decision}
-
-**Option 3**
-
-[For the purpose of meeting a portion of its mitigation commitment under Article 3, any Party may elect to use certified units (CU) generated under the new market-based mechanism defined under decision 2/CP.17, paragraph 83, subject to the adoption by the CMA of modalities and procedures elaborating each of the elements in decision 1/CP.18 paragraph 51, and the adoption of eligibility rules for participation which promote fair and equitable access for all Parties. These modalities and procedures shall ensure that the design and operation of the mechanism delivers net global emission reductions, through the cancellation of a share of units generated, transferred, used or acquired from offsetting activities.]
-
-**Option 4:**
-
-Establishes a mechanism to support holistic and integrated approaches to sustainable development in harmony with nature to be available to assist developing country Parties in fulfilling their [NDMC*][INDC] including in a balanced manner mitigation, adaptation, provision of finance, technology transfer and capacity building. This mechanism shall be under the authority and guidance of the CMA and be supervised by a body designated by the CMA, and would aim to:
-
-(a) Enhance mitigation and adaptation ambition and the provision mobilization of public financing technology transfer and capacity building in an integrated manner for climate action;
-
-(b) Enhance non-market-based approaches and enable participation in joint cost-effective mitigation and adaptation actions by public and private entities acting under the responsibility of a Party.
-
-(c) Support the implementation of the joint mitigation and adaptation approach for the integral and sustainable management of forests as an alternative policy approach to results-based payments.
-
-(d) Fully respect mitigation contributions of participating Parties to ensure that the global mitigation effort is not undermined.
-
-The CMA shall adopt modalities and procedures for the mechanism referred above on its first session.]
-
-**Option 5:**
-
-No Article 3ter.
+2. The CMA shall adopt modalities and procedures for the mechanism at its first session.]
 
 ## Article 4 *(adaptation)*
 
