@@ -56,7 +56,6 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
   1. To hold the increase in the global average temperature to
 
-
    **Option 1:** below 2 °C above pre-industrial levels,
 
    **Option 2:** well below 2°C above pre-industrial levels [and to [rapidly] scale up global efforts to limit temperature increase to below 1.5 °C] [,while recognizing that in some regions and vulnerable ecosystems high risks are projected even for warming above 1.5 °C],
