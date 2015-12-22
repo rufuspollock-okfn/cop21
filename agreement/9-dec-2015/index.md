@@ -85,14 +85,14 @@ emissions, and that does not threaten food production and distribution;
 
 **Option 2:**
 
-1.[All Parties [shall] regularly prepare, communicate [and implement] [intended] nationally determined [contributions][components] [on [mitigation] and adaptation] [undertakings in adaptation planning] [and means of implementation] 3 [towards achieving the [purpose of this Agreement as set out in Article 2 of the Convention]
+1. [All Parties [shall] regularly prepare, communicate [and implement] [intended] nationally determined [contributions][components] [on [mitigation] and adaptation] [undertakings in adaptation planning] [and means of implementation] 3 [towards achieving the [purpose of this Agreement as set out in Article 2 of the Convention]
 [objective of the Convention as set out in its Article 2],][in accordance with Article 4 of the Convention][in accordance with the provisions of this Agreement, including the specific provisions related to mitigation and adaptation and means of implementation.]
 
-2.Each Party’s [intended] nationally determined contribution will represent a progression in the light of Parties’ differentiated responsibilities and commitments under the Convention
+2. Each Party’s [intended] nationally determined contribution will represent a progression in the light of Parties’ differentiated responsibilities and commitments under the Convention
 
-3.The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on the provision of finance, technology development and transfer and capacity-building.
+3. The extent to which developing country Parties will effectively implement this Agreement will depend on the effective implementation by developed country Parties of their commitments on the provision of finance, technology development and transfer and capacity-building.
 
-4.Successive [intended] nationally determined contributions will be [informed by the result of the global stocktake as defined in Article 10 of the Convention] and communicated before the expiry of the previous [intended] nationally determined contribution by the Party concerned.]
+4. Successive [intended] nationally determined contributions will be [informed by the result of the global stocktake as defined in Article 10 of the Convention] and communicated before the expiry of the previous [intended] nationally determined contribution by the Party concerned.]
 
 
 ## Article 3 *(mitigation)*
