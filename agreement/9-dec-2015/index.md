@@ -59,6 +59,7 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
    **Option 1:** below 2 °C above pre-industrial levels,
 
    **Option 2:** well below 2°C above pre-industrial levels [and to [rapidly] scale up global efforts to limit temperature increase to below 1.5 °C] [,while recognizing that in some regions and vulnerable ecosystems high risks are projected even for warming above 1.5 °C],
+   
    **Option 3:** below 1.5°C above pre-industrial levels,
    taking into account the best available science, equity, sustainable development, the need to ensure food security and the availability of means of implementation, by ensuring deep reductions in global greenhouse gas [net] emissions;
 
