@@ -69,7 +69,7 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 (c) To pursue sustainable development in a manner that fosters climate resilience and low greenhouse gas
 emissions, and that does not threaten food production and distribution;
 
-(b) To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
+(d) To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
 
 2.This Agreement will be implemented on the basis of equity and in accordance with the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances and on the basis of respect for human rights.
 
