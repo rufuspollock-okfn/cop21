@@ -54,7 +54,7 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
 
 1. The purpose of this Agreement is to [enhance the implementation of the Convention and to achieve its objective][further implement the objective of the Convention set out in its Article 2 [through enhanced action, cooperation and support]] so as:
 
-   1. To hold the increase in the global average temperature to
+   (a) To hold the increase in the global average temperature to
 
    **Option 1:** below 2 °C above pre-industrial levels,
 
@@ -62,11 +62,11 @@ For the purposes of this Agreement, all definitions contained in Article 1 of th
    **Option 3:** below 1.5°C above pre-industrial levels,
    taking into account the best available science, equity, sustainable development, the need to ensure food security and the availability of means of implementation, by ensuring deep reductions in global greenhouse gas [net] emissions;
 
-   2. To increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage];
+   (b) To increase their ability to adapt to the adverse impacts of climate change [and to effectively respond to the impacts of the implementation of response measures and to loss and damage];
 
-   3. To pursue sustainable development in a manner that fosters climate resilience and low greenhouse gas emissions, and that does not threaten food production and distribution;
+   (c) To pursue sustainable development in a manner that fosters climate resilience and low greenhouse gas emissions, and that does not threaten food production and distribution;
 
-   4. To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
+   (d) To make finance flows consistent with a pathway towards low-emission and climate-resilient development, in the context of sustainable development priorities and efforts to eradicate poverty.
 
 2. This Agreement will be implemented on the basis of equity and in accordance with the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances and on the basis of respect for human rights.
 
