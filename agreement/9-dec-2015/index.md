@@ -289,6 +289,7 @@ knowledge and local knowledge systems, with a view to integrating adaptation int
 **Mobilization**
 
 2. **Option 1:** All Parties shall take action to mobilize, and/or facilitate the mobilisation of, climate finance from a wide variety of sources, public and private, bilateral and multilateral, including additional sources, as well as through facilitative policy frameworks, in line with their respective and evolving responsibilities and capabilities, with developed country Parties taking the lead, noting the significant role of public funds. [Some Parties may need support in order to take action.]
+
     **Option 2:** Developed country Parties and other Parties included in Annex II to the Convention shall mobilize financial resources beyond their previous efforts, supporting country-driven strategies, and taking into account the needs and priorities of developing country Parties.
 
     **Option 3:** As part of a shared effort, led by developed country Parties, Parties should cooperate to promote the mobilization of climate finance from a wide variety of sources, instruments and channels, including public, private, bilateral, multilateral, domestic, and international.
@@ -316,7 +317,9 @@ knowledge and local knowledge systems, with a view to integrating adaptation int
 **Communication**
 
 7. **Option 1:** [Developed country] Parties [and other developed Parties included in Annex II] [shall][should] [periodically][biennially] communicate [relevant, indicative] information on [the [provision] [and mobilization] [and implementation] of [financial resources][support to developing countries], including [available] quantitative and qualitative information on the] projected [efforts to mobilize [and attract] climate finance][levels of public [climate finance][financial resources to be provided to developing country Parties].
+
     **Option 2:** Developed country Parties and other developed Parties included in Annex II shall biennially communicate on the provision and mobilization of financial resources, including quantitative and qualitative information on the projected levels of public financial resources to be provided to developing country Parties.
+
     **Option 3:** Parties should periodically communicate relevant, indicative information about their plans related to paragraphs X-Y, as appropriate.
 
 **Stocktake**
@@ -476,52 +479,39 @@ The review shall provide a thorough, objective and comprehensive technical asses
 
 ## Article 15 *(bodies and institutional arrangements to serve agreement)*
 
-1. Subsidiary bodies or other institutional arrangements [and mechanisms] established by or under the Convention, in addition to those subsidiary bodies and institutional arrangements explicitly referred to in this Agreement, [shall] [may] serve this Agreement [unless otherwise decided by the CMA] [[upon a decision of the CMA]. [Such decision shall specify the functions to be exercised by such bodies or arrangements]].
+1. Subsidiary bodies or other institutional arrangements established by or under the Convention, other than those referred to in this Agreement, shall serve this Agreement upon a decision of the CMA. The CMA shall specify the functions to be exercised by such bodies or arrangements.
 
 2. The CMA may provide further guidance to those subsidiary bodies and institutional arrangements [including the functions to be exercised by such bodies and institutional arrangements] [including for members of such bodies and institutional arrangements nominated by Parties to the Convention that are not Parties to this Agreement] [to the extent that these bodies and institutional arrangements serve this Agreement].
 
 ## Article 16 *(signature and instruments of ratification, acceptance, approval or accesssion)*
 
-1. This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the Convention. It shall be open for signature at the United Nations Headquarters in New York, the United States of America, from 22 April 2016 to 21 April 2017. Thereafter, the Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary;
+1. This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the Convention. It shall be open for signature at the United Nations Headquarters in New York from 22 April 2016 to 21 April 2017. Thereafter, this Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.
 
 2. Any regional economic integration organization that becomes a Party to this Agreement without any of its member States being a Party shall be bound by all the obligations under this Agreement. In the case of regional economic integration organizations with one or more member States that are Parties to this Agreement, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Agreement. In such cases, the organization and the member States shall not be entitled to exercise rights under this Agreement concurrently.
 
 3. In their instruments of ratification, acceptance, approval or accession, regional economic integration organizations shall declare the extent of their competence with respect to the matters governed by this Agreement. These organizations shall also inform the Depositary, who shall in turn inform the Parties, of any substantial modification in the extent of their competence.
 
-## Article 17 *(further requirements and decision-making rights)*
-
-**Option I:**
-
-1. [A Party to the Convention shall [submit] [communicate] to the secretariat when it deposits its instrument of ratification, acceptance, approval or accession a nationally determined [mitigation] [contribution] [commitment] [in accordance with Article 2bis] in order to become Party to the Agreement. [The nationally determined [mitigation] [contribution] [commitment] shall be legally binding on that Party upon entry into force of this Agreement for that Party.]
-
-**Option II:**
-
-[No further requirement needed]
-
 ## Article 18 *(entry into force)*
 
-1. This Agreement shall enter into force on the thirtieth day after the date on which at least [X] [50][55][100] [ the ¾] Parties to the Convention [including all Annex I Parties] [and] [or] [on which Parties to the Convention accounting for [55][60][70][X] per cent of total [net] global greenhouse gas emissions in [[date][1990][2000][2010][2012]] have deposited their instruments of ratification, acceptance, approval or accession [whichever occurs first, coming into effect not earlier than 1 January 2020]][.][, with such Parties to the Convention accounting for X per cent of total [net] global greenhouse gas emissions [in [date] [1990][2000][2010][2012]] [but not earlier than 1 January 2020].] *[placeholder for starting and ending date of the Agreement]*
+1. This Agreement shall enter into force on the thirtieth day after the date on which at least [50][60] Parties to the Convention have deposited their instruments of ratification, acceptance, approval or accession [, but not earlier than 1 January 2020].]
 
-2. [For the purposes of paragraph 1 of this Article, "total global [net] greenhouse gas emissions" [of such Parties] means the [total global [net anthropogenic] greenhouse gas emissions [and removals] as estimated by the data set used by the Intergovernmental Panel on Climate Change in its Fifth Assessment Report for analysis of emissions trends][most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the Convention either in their national communications submitted in accordance with Article 12 of the Convention or in their biennial reports or biennial update reports submitted in accordance with decision 1/CP.16 of the Conference of the Parties].]
+2. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after the condition set out in paragraph 1 of this Article for entry into force has been fulfilled, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
 
-3. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after the condition[s] set out in paragraph 1 of this Article for entry into force [has] [have] been fulfilled, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.  
-
-4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration
-organization shall not be counted as additional to those deposited by its member States.
+3. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
 
 ## Article 19 *(AMENDMENTS)*
 
-1. The provisions of Article 15 of the Convention on the adoption of amendments to the Convention shall apply mutatis mutandis to this Agreement.
+1. Annexes to this Agreement shall form an integral part thereof and, unless otherwise expressly provided for, a reference to this Agreement constitutes at the same time a reference to any annexes thereto. Such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
 
-2. [Notwithstanding Article 19, paragraph 1, above a Party may propose an adjustment [[to] [enhance] the efforts expressed by its [mitigation commitment] inscribed in] Annex [A or B] [or] [X] to this Agreement. A proposal for such an adjustment shall be communicated to the Parties by the secretariat at least three months before the CMA at which it is proposed for adoption.]
+2. The provisions of Article 16 of the Convention on the adoption and amendment of annexes to the Convention shall apply mutatis mutandis to this Agreement.
 
-3. [An adjustment proposed by a Party [to enhance] the efforts expressed by its [mitigation commitment] inscribed in Annex [A or B] [or] [X] to this Agreement shall be considered adopted by the CMA unless more than three fourths of the Parties present and voting object to its adoption. The adopted adjustment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties, and shall enter into force on 1 January of the year following the communication by the Depositary. Such adjustments shall be binding upon Parties.]
+3. [An adjustment proposed by a Party [to enhance] the efforts expressed by its [mitigation commitment] inscribed in Annex [X] to this Agreement shall be considered adopted by the CMA unless more than three fourths of the Parties present and voting object to its adoption. The adopted adjustment shall be communicated by the secretariat to the Depositary, who shall circulate it to all Parties, and it shall enter into force on 1 January of the year following the communication by the Depositary. Such adjustments shall be binding upon Parties.]
 
 ## Article 20 *(ANNEXES)*
 
 1. Annexes to this Agreement shall form an integral part thereof and, unless otherwise expressly provided for, a reference to this Agreement constitutes at the same time a reference to any annexes thereto. Such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
 
-2. The provisions of Article 16 of the Convention on the adoption and amendment of annexes to the Convention shall apply mutatis mutandis to this Agreement[, except in respect of the annex containing national determined mitigation commitments].
+2. The provisions of Article 16 of the Convention on the adoption and amendment of annexes to the Convention shall apply mutatis mutandis to this Agreement.
 
 ## Article 21 *(SETTLEMENT OF DISPUTES)*
 
@@ -533,21 +523,19 @@ The provisions of Article 14 of the Convention on settlement of disputes shall a
 
 2. Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States that are Parties to this Agreement. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
 
-3. [Without prejudice to the provisions of paragraph 3 of Article 15 of the Convention, the Parties shall make every effort to reach agreement on all matters by consensus. If such efforts to reach consensus have been exhausted and no agreement has been reached, a decision shall, as a last resort, be adopted by a three-fourths majority vote of the Parties present and voting.]
-
 ## Article 23 *(DEPOSITARY)*
 
 The Secretary-General of the United Nations shall be the Depositary of this Agreement.
 
 ## Article 24 *(RESERVATIONS)*
 
-No reservations may be made to this Agreement. *[Placeholder for further text on reservation]*
+No reservations may be made to this Agreement.
 
 ## Article 25 *(WITHDRAWAL)*
 
 1. At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
 
-2. Any such withdrawal shall take effect upon expiry of [one year from the date of receipt by the Depositary of the notification of withdrawal][the then current mitigation commitment of that Party, the Party having discharged itself from all duties connected to this commitment], or on such later date as may be specified in the notification of withdrawal.
+2. Any such withdrawal shall take effect upon expiry of one year from the date of receipt by the Depositary of the notification of withdrawal, or on such later date as may be specified in the notification of withdrawal.
 
 3. Any Party that withdraws from the Convention shall be considered as also having withdrawn from this Agreement.
 
@@ -555,58 +543,9 @@ No reservations may be made to this Agreement. *[Placeholder for further text on
 
 The original of this Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
-[Placeholder for annexes]
+[Placeholder for Annex X]
 
-[^0]: This version took at its starting point the [final draft negotiating text][10nov] and then is being updated to include changes as they occur at the conference. Right now we are working to incorporate all changes from the [4th@10:00 version][4dec]. This was the version of 23 October with technical corrections: "23 October 2015@23:30 has been edited and the paragraph numbering as well as the cross-references have been updated."
 
-[^2]: Without prejudice to how the final agreement will refer to the mitigation commitments/contributions/other of Parties and pending resolution to Article 2bis. Options include:
-
-      Option 1: Nationally Determined Mitigation [Contribution][Commitment] (NDMC)
-      Option 2: Nationally Determined Mitigation Component of the Contribution referred to in Article 2bis (NDMCC)
-      Option 3: Mitigation Component of the [Intended] Nationally Determined Contribution (MCNDC)
-      Option 4: INDC which can be in the form of co-benefits resulting from the Party's adaptation contributions and economic
-diversification plans
-
-[^2]: Overlaps with option b
-
-[^3]: Depending on the placeholder on 3.1, 3.2 or 3.3 and pending resolution on 2bis.
-
-[^4]: Note: some of the sub-items listed under features in October/November text taken up elsewhere in Article 3 or the agreement (eg link to global stocktake, environmental integrity)
-
-      Note: some Parties suggested that some of the sub-items could be taken up in Article 9
-      Note: Flexibility for LDCs SIDS African States addressed elsewhere in art 3.
-
-[^5]: No decision as to whether {first communication} should be placed in agreement or decision has been taken.
-
-[^6]: Note: Ensure consistency with housing.
-
-[^7]: Note: Some Parties would like to reflect the need for NDMC* to be captured in an annex to the agreement at COP 21. Links to housing issue and Article 3, paragraph 2.
-
-[^8]: Housing issue dealt with separately.
-
-[^9]: Note: Current paragraphs that are captured in the decision text to remain there
-
-[^10]: *{Other choices (accounting):*
-
-    Legal/ technical: CMA; COP; 1/CP.21
-    Inclusion of/ exclusion of: Land use, land-use change, forests, REDD-plus; Internationally transferred mitigation outcomes}
-
-[^11]: Potential elements of elaboration of the option:
-
-      * Approval by the Parties involved
-      * Transfer of units/outcomes
-      * Standards for environmental integrity (footnote continues on next page)
-      * Real, verified, permanent, additional
-      * Accounted once/no double counting (also see the relevance of Article 3, paragraph 5, of the text of 5 October as well as Article 3, paragraph 10, option 1 and paragraph 37(g), option 1 of the decision)
-      * Transparency, accuracy, completeness, comparability, consistency
-
-[^12]: Placeholder until agreement is reached on where support should be dealt-with
-
-[^13]: Noting that support for the implementation by developing country Parties of their mitigation actions is addressed under Article 6.
-
-[^14]: In all cases in the context of support, where it says "developed country Parties", read "developed country Parties [and other Parties in a position to do so]"
-
-[^15]: In all cases in the context of support, where it says "developing country Parties" read "developing country Parties and other Parties in need of support, including countries with economies in transition".
 
 [10nov]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
 [4dec]: http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf
