@@ -12,3 +12,56 @@ h2 em {
   font-size: 75%;
 }
 
+table.table.table-diff {
+    border: 0px;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.75em;
+    font-family: Lucida Console, monospace
+}
+
+td.line {
+    color:#8080a0
+}
+
+th {
+    background: black; color: white
+}
+
+tr.diffhunk td {
+    background: #A0A0A0
+}
+
+tr.diffdeleted td {
+    background: #fee8e9
+}
+
+tr.diffchanged td.left {
+    background: #fee8e9
+}
+
+td.left span.diffchanged2 {
+    background: #ffb6ba;
+    border-radius: 3px 3px 3px 3px;
+}
+
+tr.diffadded td {
+    background: #dfd
+}
+
+tr.diffchanged td.right {
+    background: #dfd
+}
+
+td.right span.diffchanged2 {
+    background: #97f295;
+    border-radius: 3px 3px 3px 3px;
+}
+
+span.diffponct {
+    color: #B08080
+}
+
+tr.diffmisc td {}
+
+tr.diffseparator td {}
