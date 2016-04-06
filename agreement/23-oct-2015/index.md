@@ -1,9 +1,14 @@
 ---
-title: Draft Agreement
-authors: ["ADP Contact Group. Draft agreement on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action."]
+title: Final Draft Negotiating Text 23 October 2015
 edit: true
-annotate: true
 ---
+
+*This is the [final draft negotiating text][source] prepared before the conference began and was therefore the version the delegates began the conference with. It was released on the 23 October 2015 and updated with minor corrections and pagination on 6 November and re-issued on the 10 November.*
+
+[source]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
+
+## Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
+{:.no_toc}
 
 *Edited version of 6 November 2015*[^1]
 
