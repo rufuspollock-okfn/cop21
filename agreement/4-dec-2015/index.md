@@ -10,7 +10,6 @@ redirect_from:
 [source]: http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf
 
 ## Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
-{.no_toc}
 
 * TOC
 {:toc}
