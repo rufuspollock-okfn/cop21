@@ -1,8 +1,10 @@
-Negotiating texts for COP21, the 21st Conference of Parties (COP) to the UN Framework Convention on Climate Change, taking place in Paris in December 2015.
+Negotiating texts and final agreement from COP21, the 21st Conference of Parties (COP) to the UN Framework Convention on Climate Change, which took place in Paris in December 2015.
 
-Delegates from 195 countries will negotiate with the aim of reaching agreement on the timetable and actions to reduce global greenhouse gas (GHG) emissions to a level that limits the global average temperature increase to "below 2°C or 1.5°C above pre-industrial levels".  
+Delegates from 195 countries attended with the aim of reaching agreement on the timetable and actions to reduce global greenhouse gas (GHG) emissions to a level that limits the global average temperature increase to "below 2°C or 1.5°C above pre-industrial levels".  
 
-There are high hopes that this conference may be the first to deliver a new binding agreement to succeed the 1992 Kyoto. In particular, in Durban in 2011, all countries agreed that an “outcome with legal force ... and applicable to all parties, would be adopted at the conference in December 2015.”
+There were high hopes that this conference may be the first to deliver a new binding agreement to succeed the 1992 Kyoto. In particular, in Durban in 2011, all countries agreed that an “outcome with legal force ... and applicable to all parties, would be adopted at the conference in December 2015.”
+
+This hope was realised with the agreement of a binding text. However, many felt that this came at the cost of a weak text with with little chance of keeping global warning "below 2°C or 1.5°C above pre-industrial levels".  
 
 ## Data
 
@@ -10,6 +12,7 @@ See `datapackage.json` for best listing - nice [online view here][online].
 
 * [23 Oct 2015 - final draft text for COP21][23oct] (PDF) ([Word Version][23octword])
 * Results of negotiations at COP21 itself are being posted here: http://unfccc.int/meetings/paris_nov_2015/items/9326.php
+* Other texts can be found in `datapackage.json` 
 
 [23oct]: http://unfccc.int/resource/docs/2015/adp2/eng/11infnot.pdf
 [23octword]: https://unfccc.int/files/bodies/awg/application/vnd.openxmlformats-officedocument.wordprocessingml.document/ws_1_and_2_2330_.docx
