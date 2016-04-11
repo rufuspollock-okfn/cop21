@@ -1,0 +1,31 @@
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_last = url_parts |last  %}
+
+<header class="site-header">
+  <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
+  <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+</header>
+
+<nav id="menu">
+  <ul>
+    <li>
+      <a href="{{ site.baseurl }}/">Home</a>
+    </li>
+    
+    <li {% if url_parts contains '23-oct-2015' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/23-oct-2015/">Final Draft - 23 Oct 2015</a>
+    </li>
+    
+    <li {% if url_parts contains '4-dec-2015' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/agreement/4-dec-2015/">First Draft Agreement - 4 Dec 2015</a>
+    </li>
+    
+    <li {% if url_parts contains '9-dec-2015' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/agreement/9-dec-2015/">Second Draft Agreement - 9 Dec 2015</a>
+    </li>
+    
+    <li {% if url_last ==  'about' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/about/">About</a>
+    </li>
+  </ul>
+</nav>

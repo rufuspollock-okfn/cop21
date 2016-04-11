@@ -1,13 +1,13 @@
 ---
-title: Draft Agreement
-authors: ["ADP Contact Group. Draft agreement on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action."]
+title: Draft Agreement 4 December 2015
 edit: true
-annotate: true
-redirect_from:
-  - /23-oct-2015/
 ---
 
-*COP21 version (updating with developments at the conference)*[^0]
+*This is the [first draft agreement and draft decision][source] on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP). It marked the final session of the ADP, whose objective was to develop a protocol to be adopted at the twenty-first session of the COP, which would then put it into effect from 2020.
+
+[source]: http://unfccc.int/files/bodies/awg/application/pdf/_adp_compilation_4dec15@1000.pdf
+
+## Draft agreement and draft decision on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action
 
 * TOC
 {:toc}
