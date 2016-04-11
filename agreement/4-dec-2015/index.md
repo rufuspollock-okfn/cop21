@@ -1,8 +1,6 @@
 ---
 title: Draft Agreement 4 December 2015
 edit: true
-redirect_from:
-  - /23-oct-2015/
 ---
 
 *This is the [first draft agreement and draft decision][source] on workstreams 1 and 2 of the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP). It marked the final session of the ADP, whose objective was to develop a protocol to be adopted at the twenty-first session of the COP, which would then put it into effect from 2020.
