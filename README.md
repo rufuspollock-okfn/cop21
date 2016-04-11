@@ -4,7 +4,7 @@ Delegates from 195 countries attended with the aim of reaching agreement on the 
 
 There were high hopes that this conference may be the first to deliver a new binding agreement to succeed the 1992 Kyoto. In particular, in Durban in 2011, all countries agreed that an “outcome with legal force ... and applicable to all parties, would be adopted at the conference in December 2015.”
 
-This hope was realised with the agreement of a binding text. However, many felt that this came at the cost of a weak text with with little chance of keeping global warning "below 2°C or 1.5°C above pre-industrial levels".  
+This hope was realised with the agreement of a binding text. However, many felt that this came at the cost of a weak text which offered little promise of keeping global warming "below 2°C or 1.5°C above pre-industrial levels".  
 
 ## Data
 
