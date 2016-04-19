@@ -18,8 +18,8 @@ tail -n +15 $AGREEMENT/4-dec-2015/index.md > $TMPFILE2
 tail -n +15 $AGREEMENT/9-dec-2015/index.md > $TMPFILE3
 tail -n +15 $AGREEMENT/index.md > $TMPFILE4
 
-diff -U99999 $TMPFILE1 $TMPFILE2                \
-        | python $SCRIPTS/diff2html.py          \
+diff -U99999 $TMPFILE1 $TMPFILE2               \
+        | python $SCRIPTS/diff2html.py         \
         -a 1 > $DIFF/23-oct-vs-4-dec.html
 
 # 2015-12-04 vs 2015-12-09
