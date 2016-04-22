@@ -54,17 +54,17 @@ Have agreed as follows:
 
 For the purpose of this Agreement, the definitions contained in Article 1 of the Convention shall apply. In addition:
 
-a. "Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;
-b. "Conference of the Parties" means the Conference of the Parties to the Convention;
-c. "Party" means a Party to this Agreement.
+1. "Convention" means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992;
+2. "Conference of the Parties" means the Conference of the Parties to the Convention;
+3. "Party" means a Party to this Agreement.
 
 ## Article 2
 
 1. This Agreement, in enhancing the implementation of the Convention, including its objective, aims to strengthen the global response to the threat of climate change, in the context of sustainable development and efforts to eradicate poverty, including by:
 
-    a. Holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5 °C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
-    b. Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production; and
-    c. Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
+    1. Holding the increase in the global average temperature to well below 2 °C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5 °C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
+    2. Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production; and
+    3. Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
 
 2. This Agreement will be implemented to reflect equity and the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
 
@@ -128,13 +128,13 @@ As nationally determined contributions to the global response to climate change,
 
 4. A mechanism to contribute to the mitigation of greenhouse gas emissions and support sustainable development is hereby established under the authority and guidance of the Conference of the Parties serving as the meeting of the Parties to this Agreement for use by Parties on a voluntary basis. It shall be supervised by a body designated by the Conference of the Parties serving as the meeting of the Parties to this Agreement, and shall aim:
 
-    a. To promote the mitigation of greenhouse gas emissions while fostering sustainable development;
+    1. To promote the mitigation of greenhouse gas emissions while fostering sustainable development;
 
-    b. To incentivize and facilitate participation in the mitigation of greenhouse gas emissions by public and private entities authorized by a Party;
+    2. To incentivize and facilitate participation in the mitigation of greenhouse gas emissions by public and private entities authorized by a Party;
 
-    c. To contribute to the reduction of emission levels in the host Party, which will benefit from mitigation activities resulting in emission reductions that can also be used by another Party to fulfil its nationally determined contribution; and
+    3. To contribute to the reduction of emission levels in the host Party, which will benefit from mitigation activities resulting in emission reductions that can also be used by another Party to fulfil its nationally determined contribution; and
 
-    d. To deliver an overall mitigation in global emissions.
+    4. To deliver an overall mitigation in global emissions.
 
 5. Emission reductions resulting from the mechanism referred to in paragraph 4 of this Article shall not be used to demonstrate achievement of the host Party's nationally determined contribution if used by another Party to demonstrate achievement of its nationally determined contribution.
 
@@ -144,9 +144,9 @@ As nationally determined contributions to the global response to climate change,
 
 8. Parties recognize the importance of integrated, holistic and balanced non-market approaches being available to Parties to assist in the implementation of their nationally determined contributions, in the context of sustainable development and poverty eradication, in a coordinated and effective manner, including through, inter alia, mitigation, adaptation, finance, technology transfer and capacity-building, as appropriate. These approaches shall aim to:
 
-    a. Promote mitigation and adaptation ambition;
-    b. Enhance public and private sector participation in the implementation of nationally determined contributions; and
-    c. Enable opportunities for coordination across instruments and relevant institutional arrangements.
+    1. Promote mitigation and adaptation ambition;
+    2. Enhance public and private sector participation in the implementation of nationally determined contributions; and
+    3. Enable opportunities for coordination across instruments and relevant institutional arrangements.
 
 9. A framework for non-market approaches to sustainable development is hereby defined to promote the non-market approaches referred to in paragraph 8 of this Article.
 
@@ -166,21 +166,21 @@ As nationally determined contributions to the global response to climate change,
 
 7. Parties should strengthen their cooperation on enhancing action on adaptation, taking into account the Cancun Adaptation Framework, including with regard to:
 
-    a. Sharing information, good practices, experiences and lessons learned, including, as appropriate, as these relate to science, planning, policies and implementation in relation to adaptation actions;
-    b. Strengthening institutional arrangements, including those under the Convention that serve this Agreement, to support the synthesis of relevant information and knowledge, and the provision of technical support and guidance to Parties;
-    c. Strengthening scientific knowledge on climate, including research, systematic observation of the climate system and early warning systems, in a manner that informs climate services and supports decision-making;
-    d. Assisting developing country Parties in identifying effective adaptation practices, adaptation needs, priorities, support provided and received for adaptation actions and efforts, and challenges and gaps, in a manner consistent with encouraging good practices; and
-    e. Improving the effectiveness and durability of adaptation actions.
+    1. Sharing information, good practices, experiences and lessons learned, including, as appropriate, as these relate to science, planning, policies and implementation in relation to adaptation actions;
+    2. Strengthening institutional arrangements, including those under the Convention that serve this Agreement, to support the synthesis of relevant information and knowledge, and the provision of technical support and guidance to Parties;
+    3. Strengthening scientific knowledge on climate, including research, systematic observation of the climate system and early warning systems, in a manner that informs climate services and supports decision-making;
+    4. Assisting developing country Parties in identifying effective adaptation practices, adaptation needs, priorities, support provided and received for adaptation actions and efforts, and challenges and gaps, in a manner consistent with encouraging good practices; and
+    5. Improving the effectiveness and durability of adaptation actions.
 
 8. United Nations specialized organizations and agencies are encouraged to support the efforts of Parties to implement the actions referred to in paragraph 7 of this Article, taking into account the provisions of paragraph 5 of this Article.
 
 9. Each Party shall, as appropriate, engage in adaptation planning processes and the implementation of actions, including the development or enhancement of relevant plans, policies and/or contributions, which may include:
 
-    a. The implementation of adaptation actions, undertakings and/or efforts;
-    b. The process to formulate and implement national adaptation plans;
-    c. The assessment of climate change impacts and vulnerability, with a view to formulating nationally determined prioritized actions, taking into account vulnerable people, places and ecosystems;
-    d. Monitoring and evaluating and learning from adaptation plans, policies, programmes and actions; and
-    e. Building the resilience of socioeconomic and ecological systems, including through economic diversification and sustainable management of natural resources.
+    1. The implementation of adaptation actions, undertakings and/or efforts;
+    2. The process to formulate and implement national adaptation plans;
+    3. The assessment of climate change impacts and vulnerability, with a view to formulating nationally determined prioritized actions, taking into account vulnerable people, places and ecosystems;
+    4. Monitoring and evaluating and learning from adaptation plans, policies, programmes and actions; and
+    5. Building the resilience of socioeconomic and ecological systems, including through economic diversification and sustainable management of natural resources.
 
 10. Each Party should, as appropriate, submit and update periodically an adaptation communication, which may include its priorities, implementation and support needs, plans and actions, without creating any additional burden for developing country Parties.
 
@@ -192,10 +192,10 @@ As nationally determined contributions to the global response to climate change,
 
 14. The global stocktake referred to in Article 14 shall, inter alia:
 
-    a. Recognize adaptation efforts of developing country Parties;
-    b. Enhance the implementation of adaptation action taking into account the adaptation communication referred to in paragraph 10 of this Article;
-    c. Review the adequacy and effectiveness of adaptation and support provided for adaptation; and
-    d. Review the overall progress made in achieving the global goal on adaptation referred to in paragraph 1 of this Article.
+    1. Recognize adaptation efforts of developing country Parties;
+    2. Enhance the implementation of adaptation action taking into account the adaptation communication referred to in paragraph 10 of this Article;
+    3. Review the adequacy and effectiveness of adaptation and support provided for adaptation; and
+    4. Review the overall progress made in achieving the global goal on adaptation referred to in paragraph 1 of this Article.
 
 ## Article 8
 
@@ -207,14 +207,14 @@ As nationally determined contributions to the global response to climate change,
 
 4. Accordingly, areas of cooperation and facilitation to enhance understanding, action and support may include:
 
-    a. Early warning systems;
-    b. Emergency preparedness;
-    c. Slow onset events;
-    d. Events that may involve irreversible and permanent loss and damage;
-    e. Comprehensive risk assessment and management;
-    f. Risk insurance facilities, climate risk pooling and other insurance solutions;
-    g. Non-economic losses; and
-    h. Resilience of communities, livelihoods and ecosystems.
+    1. Early warning systems;
+    2. Emergency preparedness;
+    3. Slow onset events;
+    4. Events that may involve irreversible and permanent loss and damage;
+    5. Comprehensive risk assessment and management;
+    6. Risk insurance facilities, climate risk pooling and other insurance solutions;
+    7. Non-economic losses; and
+    8. Resilience of communities, livelihoods and ecosystems.
 
 5. The Warsaw International Mechanism shall collaborate with existing bodies and expert groups under the Agreement, as well as relevant organizations and expert bodies outside the Agreement.
 
@@ -284,9 +284,9 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
 
 7. Each Party shall regularly provide the following information:
 
- a. A national inventory report of anthropogenic emissions by sources and removals by sinks of greenhouse gases, prepared using good practice methodologies accepted by the Intergovernmental Panel on Climate Change and agreed upon by the Conference of the Parties serving as the meeting of the Parties to this Agreement; and
+ 1. A national inventory report of anthropogenic emissions by sources and removals by sinks of greenhouse gases, prepared using good practice methodologies accepted by the Intergovernmental Panel on Climate Change and agreed upon by the Conference of the Parties serving as the meeting of the Parties to this Agreement; and
 
- b. Information necessary to track progress made in implementing and achieving its nationally determined contribution under Article 4.
+ 2. Information necessary to track progress made in implementing and achieving its nationally determined contribution under Article 4.
 
 8. Each Party should also provide information related to climate change impacts and adaptation under Article 7, as appropriate.
 
@@ -330,8 +330,8 @@ Parties shall cooperate in taking measures, as appropriate, to enhance climate c
 
 4. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall keep under regular review the implementation of this Agreement and shall make, within its mandate, the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
 
-    a. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement; and
-    b. Exercise such other functions as may be required for the implementation of this Agreement.
+    1. Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement; and
+    2. Exercise such other functions as may be required for the implementation of this Agreement.
 
 5. The rules of procedure of the Conference of the Parties and the financial procedures applied under the Convention shall be applied *mutatis mutandis* under this Agreement, except as may be otherwise decided by consensus by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
