@@ -1333,8 +1333,8 @@ html.mm-background .mm-page,
 .home {
 
   .banner {
-    background-image:url(../img/home-banner-bg.jpg);
-    background-size: 1314px 333px;
+    background-image:url(../img/home-cop.jpg);
+    background-size: 1400px 331px;
     background-position:center bottom;
     position:relative;
     z-index:0;
@@ -1342,20 +1342,26 @@ html.mm-background .mm-page,
     text-align:center;
 
     .wrapper {
-      padding: 20px $base-spacing 115px $base-spacing;
-      max-height:333px;
+      padding: 30px $base-spacing 115px $base-spacing;
+      max-height:331px;
+
+      h1, p {
+        color: #333333 ;
+        opacity: 0.9;
+        background-color: white;
+      }
 
       h1 {
         text-transform:uppercase;
         font-size:28px;
+        padding: 10px 10px 0px 10px;
         letter-spacing:2px;
-        margin-bottom:10px;
         position:absolute;
         left:-999px;
 
         @include media($medium-screen) {
           position:static;
-          padding-top:30px;
+          padding-top:20px;
           font-size:42px;
         }
       }
@@ -1363,37 +1369,23 @@ html.mm-background .mm-page,
       p {
         font-family:$serif;
         font-style:italic;
+        padding: 20px 10px 20px 10px;
 
         @include media($medium-screen) {
           font-size:21px;
+          padding-top: 0;
           margin-bottom:30px;
-          opacity:0.7;
           white-space: pre-line;
         }
+
       }
 
-      &:before {
-        content:'';
-        display:block;
-        position:absolute;
-        width:1315px;
-        left:50%;
-        bottom:0;
-        margin-left:-658px;
-        @include retina-image('../img/home-banner', auto 215px, jpg);
-        background-repeat:no-repeat;
-        background-position:center bottom;
-        height:215px;
-        z-index:-1;
-      }
     }
 
     &.ab-dark {
-      color:#fff;
 
       p {
-        color:#fff;
-        opacity:1;
+
       }
     }
   }
