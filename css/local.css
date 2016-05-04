@@ -17,7 +17,18 @@ table.table.table-diff {
     border-collapse: collapse;
     width: 100%;
     font-size: 0.75em;
-    font-family: Lucida Console, monospace
+    font-family: Lucida Console, monospace;
+}
+
+col.linenumber {
+  width: 5%;
+}
+col.difftext {
+  width: 45%;
+}
+
+th, td.diffline {
+  padding-left: 5px;
 }
 
 td.line {
@@ -59,7 +70,7 @@ td.right span.diffchanged2 {
 }
 
 span.diffponct {
-    color: #B08080
+    color: #B08080;
 }
 
 tr.diffmisc td {}

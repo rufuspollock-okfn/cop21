@@ -60,6 +60,12 @@ html_footer = ""
 
 table_hdr = """
 <table class="table table-diff">
+<colgroup>
+  <col class="linenumber">
+  <col class="difftext">
+  <col class="linenumber">
+  <col class="difftext">
+</colgroup>
 """
 
 table_footer = """
