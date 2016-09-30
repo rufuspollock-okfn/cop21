@@ -18,6 +18,9 @@ This effort is led by <a href="https://discuss.okfn.org/users/rufuspollock">Rufu
 
 * Snezana Latas
 * Verena Flues
+* Robert Gieseke
+
+Background [photos from COP21](https://www.flickr.com/photos/cop21/) by Benjamin Géminel released under CC0 Public Domain.
 
 Open Knowledge is an international non-profit dedicated to opening up important, public interest, information and seeing it used to create insight and change.
 
